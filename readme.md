@@ -19,8 +19,6 @@ The main contributions of this work are fourfold:
 
 
 ## Installation
-We recommend creating a clean environment (e.g., conda or venv). The project relies on PyTorch, torchvision, and OpenAI-compatible SDKs when enabling LLM support.
-
 ```
 # Clone this repo
 git clone https://github.com/zenithc-git/OKGraph.git
