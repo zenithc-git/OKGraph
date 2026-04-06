@@ -34,9 +34,10 @@ Images are expected in an ImageFolder layout:
   class_1/
     img2.jpg
     ...
-
+```
 
 Global scene graphs are expected in JSON:
+```
 /path/to/base_knowledge/
   class_0/
     ..._names.json
@@ -49,7 +50,7 @@ Global scene graphs are expected in JSON:
 
 ## Usage
 
-```bash
+```
 bash scripts/run.sh
 ```
 
