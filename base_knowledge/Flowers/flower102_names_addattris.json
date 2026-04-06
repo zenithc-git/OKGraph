@@ -1,0 +1,614 @@
+[
+  [
+    "pink primrose",
+    "soft pink with a darker center",
+    "five rounded petals, flat and open",
+    "oval green leaves forming a basal rosette"
+  ],
+  [
+    "hard-leaved pocket orchid",
+    "white or purple with stripes or spots",
+    "narrow elongated petals with a distinct lip",
+    "thick leathery leaves that are stiff and upright"
+  ],
+  [
+    "canterbury bells",
+    "blue, purple, or white",
+    "bell-shaped fused petals",
+    "lance-shaped green leaves on upright stems"
+  ],
+  [
+    "sweet pea",
+    "pink, purple, or white, often bicolor",
+    "butterfly-like petals with banner and wings",
+    "pinnate leaves with tendrils for climbing"
+  ],
+  [
+    "english marigold",
+    "bright yellow to orange with darker center",
+    "numerous layered strap-shaped petals",
+    "lanceolate green leaves with upright growth"
+  ],
+  [
+    "tiger lily",
+    "orange with dark spots",
+    "six recurved petals curving backward",
+    "narrow lance-shaped leaves along tall stems"
+  ],
+  [
+    "moon orchid",
+    "pure white with yellow or purple lip",
+    "broad rounded petals with a prominent lip",
+    "thick leathery green leaves with arching growth"
+  ],
+  [
+    "bird of paradise",
+    "bright orange and blue",
+    "pointed upright petals with a beak-like bract",
+    "large paddle-shaped leaves like banana leaves"
+  ],
+  [
+    "monkshood",
+    "deep blue to violet",
+    "helmet-shaped sepals covering petals",
+    "deeply lobed green leaves on tall stems"
+  ],
+  [
+    "globe thistle",
+    "metallic blue or purple",
+    "small tubular florets forming a ball",
+    "spiny lobed leaves with upright stems"
+  ],
+  [
+    "snapdragon",
+    "red, pink, yellow, or white",
+    "tubular bilabiate petals opening like a mouth",
+    "narrow lance-shaped leaves with upright growth"
+  ],
+  [
+    "colt's foot",
+    "bright yellow",
+    "narrow strap-like petals forming a head",
+    "large hoof-shaped basal leaves"
+  ],
+  [
+    "king protea",
+    "pink to red with a white center",
+    "large stiff pointed petals forming a cup",
+    "thick leathery oval leaves"
+  ],
+  [
+    "spear thistle",
+    "purple",
+    "narrow tubular florets forming a spiny head",
+    "deeply lobed spiny leaves with sharp tips"
+  ],
+  [
+    "yellow iris",
+    "bright yellow with faint brown markings",
+    "six petals with three drooping falls",
+    "tall sword-shaped leaves"
+  ],
+  [
+    "globe-flower",
+    "golden yellow to orange",
+    "rounded overlapping petals forming a globe",
+    "palmately divided green leaves"
+  ],
+  [
+    "purple coneflower",
+    "pink-purple with an orange-brown center",
+    "narrow drooping petals around a cone",
+    "rough lanceolate leaves on tall stems"
+  ],
+  [
+    "peruvian lily",
+    "pink, orange, or yellow with dark streaks",
+    "six petals with inner petals marked by streaks",
+    "narrow lanceolate leaves twisting along the stem"
+  ],
+  [
+    "balloon flower",
+    "blue, violet, or white",
+    "buds like balloons opening into star-shaped flowers",
+    "oval serrated leaves with upright stems"
+  ],
+  [
+    "giant white arum lily",
+    "white with a yellow spadix",
+    "large funnel-shaped spathe",
+    "large arrow-shaped glossy leaves"
+  ],
+  [
+    "fire lily",
+    "bright red to orange",
+    "six reflexed petals with wavy edges",
+    "long narrow leaves along tall stems"
+  ],
+  [
+    "pincushion flower",
+    "lavender, blue, or pale pink",
+    "rounded flower head with many protruding stamens",
+    "deeply lobed green leaves on wiry stems"
+  ],
+  [
+    "fritillary",
+    "checkered purple, yellow, or brown",
+    "six nodding bell-shaped petals",
+    "narrow grass-like leaves spiraling up the stem"
+  ],
+  [
+    "red ginger",
+    "bright red bracts with small hidden flowers",
+    "cone-shaped inflorescence with overlapping bracts",
+    "large glossy lance-shaped leaves"
+  ],
+  [
+    "grape hyacinth",
+    "deep blue to violet",
+    "clusters of tiny urn-shaped petals forming a spike",
+    "slender strap-like green leaves at the base"
+  ],
+  [
+    "corn poppy",
+    "bright scarlet red with black center",
+    "four broad crinkled petals",
+    "lobed hairy green leaves"
+  ],
+  [
+    "prince of wales feathers",
+    "purple or violet",
+    "dense feathery plume-like spikes",
+    "long narrow leaves forming clumps"
+  ],
+  [
+    "stemless gentian",
+    "deep blue",
+    "trumpet-shaped petals with five lobes",
+    "basal rosette of narrow green leaves"
+  ],
+  [
+    "artichoke",
+    "purple to violet",
+    "spiky thistle-like flower head with numerous tubular florets",
+    "large silvery green lobed leaves"
+  ],
+  [
+    "sweet william",
+    "pink, red, or white, often with bicolor patterns",
+    "five notched petals forming flat clusters",
+    "narrow lance-shaped green leaves"
+  ],
+  [
+    "carnation",
+    "pink, red, white, or yellow, often fringed",
+    "five ruffled petals with serrated edges",
+    "slender grey-green leaves on tall stems"
+  ],
+  [
+    "garden phlox",
+    "pink, purple, white, or red",
+    "clusters of flat five-petaled flowers",
+    "narrow lance-shaped green leaves on upright stems"
+  ],
+  [
+    "love in the mist",
+    "blue, white, or pink with fine green bracts",
+    "five pointed petals surrounded by thread-like bracts",
+    "finely divided feathery green leaves"
+  ],
+  [
+    "mexican aster",
+    "pink, purple, or white with yellow center",
+    "daisy-like petals arranged in a single layer",
+    "delicate feathery green leaves"
+  ],
+  [
+    "alpine sea holly",
+    "metallic blue",
+    "spiky bracts surrounding small central florets",
+    "deeply divided leathery green leaves"
+  ],
+  [
+    "ruby-lipped cattleya",
+    "pink to purple with a ruby-red lip",
+    "large ruffled petals with showy lip",
+    "thick leathery green leaves on pseudobulbs"
+  ],
+  [
+    "cape flower",
+    "white, pink, or red",
+    "clusters of small star-shaped petals",
+    "narrow leathery green leaves"
+  ],
+  [
+    "great masterwort",
+    "white or pale pink with green bracts",
+    "umbel-shaped clusters of tiny star-like petals",
+    "deeply lobed toothed green leaves"
+  ],
+  [
+    "siam tulip",
+    "pink to purple with green bracts",
+    "cone-shaped inflorescence with petal-like bracts",
+    "broad lance-shaped leaves from the base"
+  ],
+  [
+    "lenten rose",
+    "white, pink, or purple often with greenish tinge",
+    "five petal-like sepals forming a cup shape",
+    "large leathery evergreen leaves divided into leaflets"
+  ],
+  [
+    "barbeton daisy",
+    "bright red, orange, or pink with yellow center",
+    "radiating strap-shaped petals in a single layer",
+    "long lance-shaped green leaves forming a basal rosette"
+  ],
+  [
+    "daffodil",
+    "bright yellow or white with central trumpet",
+    "six petals with prominent central corona",
+    "narrow strap-like green leaves from the base"
+  ],
+  [
+    "sword lily",
+    "red, pink, white, or orange",
+    "tall spike with funnel-shaped six-petaled flowers",
+    "long sword-shaped leaves in fans"
+  ],
+  [
+    "poinsettia",
+    "bright red bracts with small yellow flowers at center",
+    "modified colored bracts surrounding tiny flowers",
+    "oval green leaves with pointed tips"
+  ],
+  [
+    "bolero deep blue",
+    "deep violet-blue",
+    "clusters of small star-shaped petals",
+    "narrow green leaves with upright stems"
+  ],
+  [
+    "wallflower",
+    "yellow, orange, or purple",
+    "four rounded petals forming cross-shape",
+    "narrow lance-shaped green leaves"
+  ],
+  [
+    "marigold",
+    "bright yellow or orange",
+    "many layers of ruffled strap-shaped petals",
+    "deep green pinnate leaves with serrated edges"
+  ],
+  [
+    "buttercup",
+    "shiny bright yellow",
+    "five rounded overlapping petals",
+    "lobed green leaves with slender stems"
+  ],
+  [
+    "oxeye daisy",
+    "white petals with yellow center",
+    "numerous strap-shaped petals in a radiating circle",
+    "narrow toothed green leaves on upright stems"
+  ],
+  [
+    "common dandelion",
+    "bright yellow",
+    "many strap-shaped petals forming composite head",
+    "deeply toothed basal green leaves"
+  ],
+  [
+    "petunia",
+    "pink, purple, red, or white",
+    "funnel-shaped petals with five lobes",
+    "soft hairy oval green leaves"
+  ],
+  [
+    "wild pansy",
+    "purple, yellow, and white with dark lines",
+    "five petals with lower petal larger and spurred",
+    "heart-shaped green leaves with scalloped edges"
+  ],
+  [
+    "primula",
+    "red, yellow, pink, or purple",
+    "five rounded petals forming flat open flowers",
+    "rosette of wrinkled green leaves"
+  ],
+  [
+    "sunflower",
+    "bright yellow petals with dark brown center",
+    "numerous strap-shaped petals around large disk",
+    "broad heart-shaped rough leaves on tall stems"
+  ],
+  [
+    "pelargonium",
+    "pink, red, or white with darker streaks",
+    "five petals with two upper ones larger",
+    "rounded green leaves often with zonal markings"
+  ],
+  [
+    "bishop of llandaff",
+    "bright red",
+    "multiple layers of broad petals forming a dahlia head",
+    "dark purplish-green divided leaves"
+  ],
+  [
+    "gaura",
+    "white or pink",
+    "four narrow petals forming butterfly-like shape",
+    "slender stems with narrow lance-shaped leaves"
+  ],
+  [
+    "geranium",
+    "pink, purple, blue, or white",
+    "five rounded petals with fine veins",
+    "palmately lobed green leaves"
+  ],
+  [
+    "orange dahlia",
+    "bright orange",
+    "many layers of broad petals in rounded head",
+    "deep green divided leaves on upright stems"
+  ],
+  [
+    "pink-yellow dahlia",
+    "pink petals blending into yellow at base",
+    "large layered petals forming round head",
+    "green divided leaves on tall upright stems"
+  ],
+  [
+    "cautleya spicata",
+    "bright yellow with red bracts",
+    "tubular flowers clustered on spike",
+    "large lance-shaped pleated green leaves"
+  ],
+  [
+    "japanese anemone",
+    "white or pink with yellow center",
+    "five broad overlapping petals forming simple flowers",
+    "deeply divided green leaves on tall wiry stems"
+  ],
+  [
+    "black-eyed susan",
+    "bright yellow petals with dark brown center",
+    "strap-shaped petals radiating around central disk",
+    "rough green lanceolate leaves"
+  ],
+  [
+    "silverbush",
+    "silver-white",
+    "trumpet-shaped petals with five lobes",
+    "silvery narrow leaves forming compact mounds"
+  ],
+  [
+    "californian poppy",
+    "bright orange or yellow",
+    "four broad silky petals forming cup shape",
+    "finely divided feathery blue-green leaves"
+  ],
+  [
+    "osteospermum",
+    "white, purple, or blue with dark center",
+    "daisy-like strap-shaped petals sometimes spoon-shaped",
+    "narrow lanceolate green leaves"
+  ],
+  [
+    "spring crocus",
+    "purple, yellow, or white",
+    "six narrow petals forming a goblet shape",
+    "slender grass-like leaves with central white stripe"
+  ],
+  [
+    "bearded iris",
+    "purple, blue, yellow, or white with color patterns",
+    "six petals with three drooping falls and three upright standards",
+    "tall sword-shaped green leaves"
+  ],
+  [
+    "windflower",
+    "white, pink, or blue",
+    "five to six rounded petals forming open cup",
+    "deeply divided green leaves at base"
+  ],
+  [
+    "tree poppy",
+    "bright yellow",
+    "four broad crinkled petals",
+    "grey-green lobed leaves on woody stems"
+  ],
+  [
+    "gazania",
+    "orange, yellow, red, or striped",
+    "strap-shaped petals radiating with bold markings",
+    "narrow silvery green leaves in rosettes"
+  ],
+  [
+    "azalea",
+    "pink, red, white, or purple",
+    "five broad petals often slightly ruffled",
+    "small oval green leaves on woody stems"
+  ],
+  [
+    "water lily",
+    "white, pink, or yellow",
+    "numerous broad petals radiating from center",
+    "round floating green leaves with slit"
+  ],
+  [
+    "rose",
+    "red, pink, white, or yellow",
+    "multiple layers of broad overlapping petals",
+    "thorny stems with pinnate green leaves"
+  ],
+  [
+    "thorn apple",
+    "white or purple",
+    "large trumpet-shaped petals with five points",
+    "large lobed green leaves with toothed margins"
+  ],
+  [
+    "morning glory",
+    "blue, purple, pink, or white",
+    "funnel-shaped petals with radiating veins",
+    "heart-shaped green leaves on twining stems"
+  ],
+  [
+    "passion flower",
+    "white and purple with filaments around center",
+    "five petals with prominent corona filaments",
+    "lobed green leaves and climbing tendrils"
+  ],
+  [
+    "lotus",
+    "pink or white with yellow center",
+    "broad overlapping petals forming large round flowers",
+    "large circular leaves rising above water"
+  ],
+  [
+    "toad lily",
+    "white or purple spotted",
+    "six narrow petals often recurved",
+    "lance-shaped green leaves along arching stems"
+  ],
+  [
+    "anthurium",
+    "red, pink, or white spathe with yellow spadix",
+    "shiny heart-shaped spathe enclosing central spadix",
+    "large glossy heart-shaped green leaves"
+  ],
+  [
+    "frangipani",
+    "white, pink, or yellow with contrasting center",
+    "five broad petals overlapping in spiral",
+    "thick leathery elongated leaves on branching stems"
+  ],
+  [
+    "clematis",
+    "purple, pink, blue, or white",
+    "four to eight broad petals forming star-shaped flowers",
+    "compound green leaves on climbing vines"
+  ],
+  [
+    "hibiscus",
+    "red, pink, yellow, or orange with dark throat",
+    "five broad petals with protruding staminal column",
+    "broad green leaves with serrated edges"
+  ],
+  [
+    "columbine",
+    "blue, purple, red, or yellow",
+    "five petals with long backward spurs",
+    "deeply lobed delicate green leaves"
+  ],
+  [
+    "desert-rose",
+    "pink, red, or white with darker throat",
+    "five broad petals forming trumpet shape",
+    "thick succulent stem with sparse green leaves"
+  ],
+  [
+    "tree mallow",
+    "pink, purple, or white",
+    "five broad petals forming shallow cup",
+    "lobed green leaves on tall woody stems"
+  ],
+  [
+    "magnolia",
+    "white, pink, or purple",
+    "large broad waxy petals in cup shape",
+    "large glossy oval green leaves on woody tree"
+  ],
+  [
+    "cyclamen",
+    "pink, red, or white",
+    "five reflexed petals curving upward",
+    "heart-shaped variegated green leaves"
+  ],
+  [
+    "watercress",
+    "white with yellow center",
+    "four small rounded petals in clusters",
+    "pinnate green leaves with round leaflets"
+  ],
+  [
+    "canna lily",
+    "red, orange, or yellow",
+    "large broad asymmetrical petals forming open flowers",
+    "long paddle-shaped green leaves with tropical appearance"
+  ],
+  [
+    "hippeastrum",
+    "red, pink, white, or striped",
+    "six broad trumpet-shaped petals with radial symmetry",
+    "strap-like green leaves arising from bulb"
+  ],
+  [
+    "bee balm",
+    "red, pink, or purple",
+    "clusters of tubular petals arranged in a crown-like head",
+    "aromatic lance-shaped green leaves"
+  ],
+  [
+    "ball moss",
+    "gray-green",
+    "tiny tubular flowers emerging from spherical clumps",
+    "thread-like leaves forming dense tufts"
+  ],
+  [
+    "foxglove",
+    "purple, pink, or white with spotted throats",
+    "tall spikes of tubular bell-shaped petals",
+    "large lanceolate green leaves at the base"
+  ],
+  [
+    "bougainvillea",
+    "bright magenta, purple, pink, or orange bracts",
+    "small white tubular flowers surrounded by colorful bracts",
+    "woody climbing stems with ovate green leaves"
+  ],
+  [
+    "camellia",
+    "pink, red, or white",
+    "numerous overlapping rounded petals forming rose-like blooms",
+    "shiny dark green oval leaves"
+  ],
+  [
+    "mallow",
+    "pink, purple, or white with darker veins",
+    "five broad petals forming shallow open cup",
+    "lobed green leaves with serrated edges"
+  ],
+  [
+    "mexican petunia",
+    "purple, pink, or white",
+    "five broad trumpet-shaped petals",
+    "narrow lance-shaped green leaves on upright stems"
+  ],
+  [
+    "bromelia",
+    "red, orange, yellow, or purple bracts",
+    "spiky bracts surrounding small central flowers",
+    "stiff strap-like green leaves forming rosettes"
+  ],
+  [
+    "blanket flower",
+    "red and yellow with banded patterns",
+    "strap-shaped petals with toothed tips",
+    "hairy lance-shaped green leaves"
+  ],
+  [
+    "trumpet creeper",
+    "orange or red",
+    "large tubular trumpet-shaped petals",
+    "compound green leaves with serrated edges on climbing stems"
+  ],
+  [
+    "blackberry lily",
+    "orange with red spots",
+    "six broad petals spreading flat",
+    "sword-shaped green leaves in fans"
+  ]
+]

@@ -1,0 +1,284 @@
+[
+  [
+    "banded",
+    "parallel bands or stripes as primary shapes",
+    "medium to wide scale bands repeating across surface",
+    "clear straight edges between bands"
+  ],
+  [
+    "blotchy",
+    "irregular patches and spots",
+    "large uneven blotches covering surface",
+    "blurred and fuzzy edges around patches"
+  ],
+  [
+    "braided",
+    "interwoven strand-like shapes",
+    "medium-sized strands crossing repeatedly",
+    "smooth curved edges following braid pattern"
+  ],
+  [
+    "bubbly",
+    "round bubble-like circular shapes",
+    "varied scale with small to medium bubbles",
+    "soft diffuse edges giving inflated appearance"
+  ],
+  [
+    "bumpy",
+    "irregular raised mound-like shapes",
+    "small to medium bumps distributed unevenly",
+    "rounded soft edges without sharp boundaries"
+  ],
+  [
+    "chequered",
+    "square or rectangular block shapes",
+    "medium uniform scale repeated in grid",
+    "sharp straight edges forming clear boundaries"
+  ],
+  [
+    "cobwebbed",
+    "thin radiating and circular thread shapes",
+    "fine-scale lines forming delicate network",
+    "thin sharp edges with intersecting points"
+  ],
+  [
+    "cracked",
+    "irregular fissure-like line shapes",
+    "fine to medium cracks spreading unevenly",
+    "sharp jagged edges along fracture lines"
+  ],
+  [
+    "crosshatched",
+    "intersecting straight line shapes",
+    "medium scale lines overlapping in layers",
+    "sharp clean edges where lines cross"
+  ],
+  [
+    "crystalline",
+    "angular polygonal crystal-like shapes",
+    "medium to large facets repeating",
+    "sharp well-defined edges with high clarity"
+  ],
+  [
+    "dotted",
+    "round dot-like shapes",
+    "small evenly spaced elements",
+    "sharp edges defining each dot"
+  ],
+  [
+    "fibrous",
+    "thin elongated fiber-like shapes",
+    "fine scale strands grouped together",
+    "frayed or uneven edges along fibers"
+  ],
+  [
+    "flecked",
+    "small scattered speck-like shapes",
+    "tiny irregular elements spread sparsely",
+    "soft indistinct edges blending with background"
+  ],
+  [
+    "freckled",
+    "irregular small spot shapes",
+    "small to medium scattered elements",
+    "slightly blurred edges around spots"
+  ],
+  [
+    "frilly",
+    "wavy ruffle-like shapes",
+    "medium scale folds with repetition",
+    "soft curving edges with irregular outlines"
+  ],
+  [
+    "gauzy",
+    "thin mesh-like thread shapes",
+    "fine delicate scale across surface",
+    "soft translucent edges with fading boundaries"
+  ],
+  [
+    "grid",
+    "square or rectangular cell shapes",
+    "medium to large repeating units",
+    "sharp straight edges forming clear intersections"
+  ],
+  [
+    "grooved",
+    "linear channel-like shapes",
+    "medium parallel grooves repeated",
+    "sharp defined edges along grooves"
+  ],
+  [
+    "honeycombed",
+    "hexagonal cell-like shapes",
+    "medium uniform repeating pattern",
+    "sharp straight edges forming closed cells"
+  ],
+  [
+    "interlaced",
+    "woven strand-like crossing shapes",
+    "medium scale with repeated overlaps",
+    "smooth curved edges following weave"
+  ],
+  [
+    "knitted",
+    "looped interlocking yarn-like shapes",
+    "medium repeating loops forming fabric structure",
+    "soft rounded edges where loops connect"
+  ],
+  [
+    "lacelike",
+    "delicate openwork floral or net shapes",
+    "fine scale with intricate repeating motifs",
+    "thin sharp edges outlining ornate holes"
+  ],
+  [
+    "lined",
+    "parallel straight line shapes",
+    "medium to fine evenly spaced lines",
+    "sharp clean edges defining each line"
+  ],
+  [
+    "marbled",
+    "irregular vein-like swirling shapes",
+    "large to medium flowing streaks",
+    "soft blurred edges blending into each other"
+  ],
+  [
+    "matted",
+    "tangled compressed strand-like shapes",
+    "medium dense clusters without uniform spacing",
+    "fuzzy indistinct edges merging together"
+  ],
+  [
+    "meshed",
+    "intersecting net-like polygonal shapes",
+    "medium repeating open cells",
+    "sharp thin edges forming clear mesh structure"
+  ],
+  [
+    "paisley",
+    "curved droplet-shaped motifs",
+    "medium to large ornate elements",
+    "smooth defined edges outlining teardrop curves"
+  ],
+  [
+    "perforated",
+    "round or oval hole shapes",
+    "medium evenly spaced openings",
+    "sharp clean edges around cut-outs"
+  ],
+  [
+    "pitted",
+    "small sunken pit-like shapes",
+    "fine to medium scattered depressions",
+    "sharp recessed edges marking indentations"
+  ],
+  [
+    "pleated",
+    "folded parallel ridge-like shapes",
+    "medium to large regular folds",
+    "sharp linear edges separating ridges"
+  ],
+  [
+    "polka-dotted",
+    "regular round dot shapes",
+    "medium uniform size evenly spaced",
+    "sharp well-defined edges"
+  ],
+  [
+    "porous",
+    "irregular hole-like shapes",
+    "small to medium uneven openings",
+    "soft irregular edges around pores"
+  ],
+  [
+    "potholed",
+    "large irregular cavity-like shapes",
+    "medium to large scattered depressions",
+    "rough jagged edges defining holes"
+  ],
+  [
+    "scaly",
+    "overlapping plate-like shapes",
+    "medium repeating scales in layers",
+    "sharp curved edges with slight overlap"
+  ],
+  [
+    "smeared",
+    "elongated streak-like shapes",
+    "medium uneven smudges spreading across surface",
+    "blurred diffuse edges with low clarity"
+  ],
+  [
+    "spiralled",
+    "curved spiral coil-like shapes",
+    "medium to large continuous loops",
+    "smooth curved edges following spiral path"
+  ],
+  [
+    "sprinkled",
+    "small scattered speck shapes",
+    "fine scale sparsely distributed",
+    "soft diffuse edges blending into background"
+  ],
+  [
+    "stained",
+    "irregular blot-like shapes",
+    "large uneven patches spreading randomly",
+    "blurred diffuse edges without clear boundaries"
+  ],
+  [
+    "stratified",
+    "layered band-like shapes",
+    "medium to large stacked layers",
+    "sharp straight edges separating strata"
+  ],
+  [
+    "striped",
+    "parallel elongated stripe shapes",
+    "medium to wide stripes repeating",
+    "sharp straight edges defining each stripe"
+  ],
+  [
+    "studded",
+    "raised stud-like round or square shapes",
+    "medium evenly spaced elements",
+    "sharp defined edges around each stud"
+  ],
+  [
+    "swirly",
+    "curved flowing swirl shapes",
+    "medium to large continuous loops",
+    "smooth soft edges blending into curves"
+  ],
+  [
+    "veined",
+    "branching vein-like line shapes",
+    "fine to medium scale spreading network",
+    "thin sharp edges forming clear vein paths"
+  ],
+  [
+    "waffled",
+    "grid-like recessed square shapes",
+    "medium repeating cells in uniform pattern",
+    "sharp straight edges forming depressions"
+  ],
+  [
+    "woven",
+    "interlaced strand-like shapes",
+    "medium scale strands crossing regularly",
+    "smooth curved edges following weave"
+  ],
+  [
+    "wrinkled",
+    "irregular fold-like line shapes",
+    "medium to fine dense creases",
+    "soft uneven edges along wrinkles"
+  ],
+  [
+    "zigzagged",
+    "angular zigzag line shapes",
+    "medium repeating sharp turns",
+    "sharp pointed edges along angles"
+  ]
+]

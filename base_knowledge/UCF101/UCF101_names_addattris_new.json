@@ -1,0 +1,810 @@
+[
+  [
+    "Apply_Eye_Makeup",
+    "cosmetic application around eyes",
+    "makeup tools and brushes",
+    "colorful products on eyelids",
+    "precise hand movements near eye area",
+    "mirror reflection commonly visible"
+  ],
+  [
+    "Apply_Lipstick",
+    "lip coloring process",
+    "lipstick tube or brush",
+    "mouth slightly open",
+    "focused attention on lip contours",
+    "twisting motion of lipstick tube"
+  ],
+  [
+    "Archery",
+    "bow and arrow sport",
+    "drawn bow with arrow",
+    "target board visible",
+    "steady arm extension posture",
+    "finger release technique at anchor point"
+  ],
+  [
+    "Baby_Crawling",
+    "infant movement on hands and knees",
+    "low body position",
+    "alternating limb motion",
+    "unsteady wobbling movements",
+    "small body size close to ground"
+  ],
+  [
+    "Balance_Beam",
+    "gymnastics on narrow beam",
+    "precise footwork",
+    "elevated platform",
+    "arms extended for balance control",
+    "beam width of approximately 10 centimeters"
+  ],
+  [
+    "Band_Marching",
+    "musical performance while walking",
+    "synchronized group movement",
+    "instruments and uniforms",
+    "coordinated stepping patterns in formation",
+    "multiple performers moving together"
+  ],
+  [
+    "Baseball_Pitch",
+    "throwing ball to batter",
+    "wind-up motion",
+    "pitcher's mound setup",
+    "high leg kick before release",
+    "overhand throwing trajectory"
+  ],
+  [
+    "Basketball",
+    "ball sport with hoop",
+    "dribbling or shooting",
+    "court and basket visible",
+    "orange spherical ball bouncing",
+    "elevated hoop at 10 feet height"
+  ],
+  [
+    "Basketball_Dunk",
+    "forceful shot through hoop",
+    "high jumping motion",
+    "dramatic arm extension",
+    "ball pushed downward through rim",
+    "player's hand above basket level"
+  ],
+  [
+    "Bench_Press",
+    "weightlifting on bench",
+    "barbell lifting motion",
+    "lying position",
+    "spotter standing behind for safety",
+    "vertical arm extension above chest"
+  ],
+  [
+    "Biking",
+    "riding bicycle",
+    "pedaling motion",
+    "handlebars and wheels",
+    "circular leg rotation pattern",
+    "seated position on saddle"
+  ],
+  [
+    "Billiards",
+    "cue sport with balls",
+    "pool cue striking",
+    "felt table surface",
+    "bent-over aiming posture",
+    "numbered colored balls arrangement"
+  ],
+  [
+    "Blow_Dry_Hair",
+    "hair styling with hot air",
+    "hair dryer device",
+    "brush and styling",
+    "handheld electrical appliance with cord",
+    "hair flowing from air stream"
+  ],
+  [
+    "Blowing_Candles",
+    "extinguishing candle flames",
+    "mouth near candles",
+    "birthday cake context",
+    "pursed lips directing air stream",
+    "flickering flames responding to breath"
+  ],
+  [
+    "Body_Weight_Squats",
+    "squatting exercise",
+    "up and down motion",
+    "no equipment needed",
+    "knees bending to 90 degrees",
+    "arms extended forward for balance"
+  ],
+  [
+    "Bowling",
+    "rolling ball at pins",
+    "bowling lane",
+    "underhand rolling motion",
+    "heavy ball with finger holes",
+    "long polished wooden lane surface"
+  ],
+  [
+    "Boxing_Punching_Bag",
+    "hitting heavy bag",
+    "boxing gloves",
+    "rhythmic punching",
+    "large cylindrical suspended bag",
+    "swinging motion of bag after impact"
+  ],
+  [
+    "Boxing_Speed_Bag",
+    "rapid bag striking",
+    "small teardrop bag",
+    "fast hand movements",
+    "rhythmic rebounding pattern",
+    "bag mounted on swivel platform"
+  ],
+  [
+    "Breast_Stroke",
+    "swimming stroke style",
+    "circular arm motion",
+    "frog-like leg kick",
+    "simultaneous symmetrical arm movement",
+    "head emerging periodically for breathing"
+  ],
+  [
+    "Brushing_Teeth",
+    "oral hygiene activity",
+    "toothbrush movement",
+    "bathroom setting",
+    "back and forth scrubbing motion",
+    "toothpaste foam visible around mouth"
+  ],
+  [
+    "Clean_And_Jerk",
+    "Olympic weightlifting",
+    "two-phase lifting",
+    "heavy barbell",
+    "explosive upward thrust motion",
+    "split stance or squat position"
+  ],
+  [
+    "Cliff_Diving",
+    "jumping from high cliff",
+    "vertical fall motion",
+    "water below",
+    "significant height from water surface",
+    "rocky cliff edge as launching point"
+  ],
+  [
+    "Cricket_Bowling",
+    "delivering cricket ball",
+    "overarm throwing",
+    "run-up approach",
+    "straight arm windmill motion",
+    "long running approach before release"
+  ],
+  [
+    "Cricket_Shot",
+    "batting with cricket bat",
+    "ball striking motion",
+    "protective gear",
+    "flat-faced wooden bat",
+    "sideways batting stance position"
+  ],
+  [
+    "Cutting_In_Kitchen",
+    "food preparation",
+    "knife and cutting board",
+    "chopping motions",
+    "downward slicing through ingredients",
+    "ingredients being separated into pieces"
+  ],
+  [
+    "Diving",
+    "entering water headfirst",
+    "diving board platform",
+    "streamlined position",
+    "tucked or pike body position",
+    "rotating somersaults in air"
+  ],
+  [
+    "Drumming",
+    "percussion playing",
+    "drumsticks and drums",
+    "rhythmic movements",
+    "striking motion toward drum heads",
+    "multiple circular drums arrangement"
+  ],
+  [
+    "Fencing",
+    "sword fighting sport",
+    "protective mask and uniform",
+    "lunging motions",
+    "long thin blade weapon",
+    "forward thrusting attack movements"
+  ],
+  [
+    "Field_Hockey_Penalty",
+    "hockey penalty shot",
+    "stick and ball",
+    "goal setup",
+    "curved stick hitting small ball",
+    "one-on-one confrontation with goalkeeper"
+  ],
+  [
+    "Floor_Gymnastics",
+    "acrobatic routine",
+    "tumbling and flips",
+    "padded floor mat",
+    "choreographed sequence with music",
+    "multiple aerial rotations"
+  ],
+  [
+    "Frisbee_Catch",
+    "catching flying disc",
+    "reaching motion",
+    "spinning frisbee",
+    "flat circular disc rotating in flight",
+    "arms extending upward or outward"
+  ],
+  [
+    "Front_Crawl",
+    "swimming stroke",
+    "alternating arms",
+    "flutter kick",
+    "face-down horizontal body position",
+    "windmill-like arm rotation pattern"
+  ],
+  [
+    "Golf_Swing",
+    "hitting golf ball",
+    "club swinging arc",
+    "follow-through motion",
+    "long club with small head",
+    "rotational hip and shoulder turn"
+  ],
+  [
+    "Haircut",
+    "hair trimming service",
+    "scissors or clippers",
+    "salon chair",
+    "cape covering client's body",
+    "stylist standing behind or beside client"
+  ],
+  [
+    "Hammer_Throw",
+    "spinning and throwing",
+    "heavy ball on wire",
+    "throwing circle",
+    "multiple full-body rotations",
+    "wire handle extending from metal ball"
+  ],
+  [
+    "Hammering",
+    "striking with hammer",
+    "up and down motion",
+    "construction work",
+    "repetitive downward striking force",
+    "nail or object being driven into surface"
+  ],
+  [
+    "Handstand_Pushups",
+    "inverted exercise",
+    "upside down position",
+    "arm bending motion",
+    "feet elevated above head level",
+    "vertical body alignment against wall"
+  ],
+  [
+    "Handstand_Walking",
+    "walking on hands",
+    "inverted movement",
+    "hand stepping",
+    "legs pointing straight upward",
+    "alternating hand placement for locomotion"
+  ],
+  [
+    "Head_Massage",
+    "scalp manipulation",
+    "circular motions",
+    "therapeutic touch",
+    "fingers pressing into scalp area",
+    "recipient in relaxed seated position"
+  ],
+  [
+    "High_Jump",
+    "jumping over bar",
+    "running approach",
+    "landing mat",
+    "curved approach run trajectory",
+    "back-first clearance over horizontal bar"
+  ],
+  [
+    "Horse_Race",
+    "competitive horse racing",
+    "jockeys riding",
+    "race track",
+    "multiple horses running simultaneously",
+    "jockeys in colorful racing silks"
+  ],
+  [
+    "Horse_Riding",
+    "riding horse",
+    "reins and saddle",
+    "various gaits",
+    "rider's legs gripping horse's sides",
+    "rhythmic bouncing motion with horse"
+  ],
+  [
+    "Hula_Hoop",
+    "rotating hoop around body",
+    "hip movements",
+    "circular hoop",
+    "continuous circular rotation at waist",
+    "plastic ring spinning horizontally"
+  ],
+  [
+    "Ice_Dancing",
+    "artistic skating",
+    "graceful movements",
+    "ice surface",
+    "partner coordination and lifts",
+    "choreographed routine with musical interpretation"
+  ],
+  [
+    "Javelin_Throw",
+    "throwing spear-like implement",
+    "running approach",
+    "overhand motion",
+    "long pointed projectile",
+    "crossover stepping pattern before release"
+  ],
+  [
+    "Juggling_Balls",
+    "keeping balls airborne",
+    "throwing and catching",
+    "circular patterns",
+    "multiple objects in continuous motion",
+    "arc-shaped trajectories between hands"
+  ],
+  [
+    "Jump_Rope",
+    "jumping over rope",
+    "rhythmic jumping",
+    "rope handles",
+    "rope rotating in circular path",
+    "continuous hopping over moving rope"
+  ],
+  [
+    "Jumping_Jack",
+    "exercise with jumping",
+    "arms and legs spreading",
+    "full-body coordination",
+    "simultaneous limb extension and retraction",
+    "star-shaped body position at peak"
+  ],
+  [
+    "Kayaking",
+    "paddling watercraft",
+    "double-bladed paddle",
+    "narrow boat",
+    "seated position inside enclosed cockpit",
+    "alternating side-to-side paddle strokes"
+  ],
+  [
+    "Knitting",
+    "creating fabric with needles",
+    "yarn and needles",
+    "repetitive stitching",
+    "interlocking loops of yarn",
+    "two pointed needles crossing each other"
+  ],
+  [
+    "Long_Jump",
+    "horizontal jumping",
+    "running and leaping",
+    "sand pit",
+    "explosive takeoff from board",
+    "forward body extension in flight"
+  ],
+  [
+    "Lunges",
+    "stepping exercise",
+    "deep knee bend",
+    "alternating legs",
+    "front knee bent at 90-degree angle",
+    "rear knee lowering toward ground"
+  ],
+  [
+    "Military_Parade",
+    "ceremonial marching",
+    "synchronized formation",
+    "military uniforms",
+    "rigid upright posture while marching",
+    "large group moving in precise lines"
+  ],
+  [
+    "Mixing",
+    "combining ingredients",
+    "stirring motion",
+    "mixing bowl",
+    "circular stirring pattern in bowl",
+    "ingredients blending into uniform consistency"
+  ],
+  [
+    "Mopping_Floor",
+    "cleaning floor",
+    "mop and bucket",
+    "back and forth motion",
+    "wet mop head sliding across surface",
+    "pushing and pulling motion pattern"
+  ],
+  [
+    "Nunchucks",
+    "martial arts weapon",
+    "two connected sticks",
+    "spinning movements",
+    "chain or cord linking two handles",
+    "rapid figure-eight motion patterns"
+  ],
+  [
+    "Parallel_Bars",
+    "gymnastics apparatus",
+    "two horizontal bars",
+    "swinging movements",
+    "body suspended between two rails",
+    "straight-arm support position"
+  ],
+  [
+    "Pizza_Tossing",
+    "spinning dough in air",
+    "circular dough",
+    "kitchen setting",
+    "dough rotating while airborne",
+    "catching and throwing upward motion"
+  ],
+  [
+    "Playing_Cello",
+    "bowing stringed instrument",
+    "large instrument between legs",
+    "bow across strings",
+    "seated position with endpin on floor",
+    "deep resonant sound production"
+  ],
+  [
+    "Playing_Daf",
+    "striking frame drum",
+    "circular drum",
+    "hand patterns",
+    "large round frame with jingles",
+    "held vertically while playing"
+  ],
+  [
+    "Playing_Dhol",
+    "beating Indian drum",
+    "wooden sticks",
+    "barrel-shaped drum",
+    "drum suspended from shoulder strap",
+    "striking both ends with different sticks"
+  ],
+  [
+    "Playing_Flute",
+    "blowing woodwind instrument",
+    "horizontal position",
+    "finger holes",
+    "held sideways across body",
+    "air blown across embouchure hole"
+  ],
+  [
+    "Playing_Guitar",
+    "strumming stringed instrument",
+    "fretted neck",
+    "pick or fingers",
+    "six strings stretched over sound hole",
+    "one hand pressing frets while other strums"
+  ],
+  [
+    "Playing_Piano",
+    "pressing keyboard keys",
+    "black and white keys",
+    "both hands coordination",
+    "seated position on bench facing keyboard",
+    "fingers striking keys in sequence"
+  ],
+  [
+    "Playing_Sitar",
+    "plucking Indian instrument",
+    "long neck",
+    "cross-legged position",
+    "multiple sympathetic strings beneath main strings",
+    "gourd-shaped resonating chamber"
+  ],
+  [
+    "Playing_Tabla",
+    "striking hand drums",
+    "finger techniques",
+    "seated position",
+    "pair of drums of different sizes",
+    "complex finger striking patterns on drum heads"
+  ],
+  [
+    "Playing_Violin",
+    "bowing small instrument",
+    "held under chin",
+    "bow and strings",
+    "instrument resting on shoulder and collarbone",
+    "bow drawn across four strings"
+  ],
+  [
+    "Pole_Vault",
+    "vaulting over bar",
+    "long flexible pole",
+    "landing mat",
+    "pole bending during upward thrust",
+    "running approach with pole carried upright"
+  ],
+  [
+    "Pommel_Horse",
+    "gymnastics with handles",
+    "circular leg swings",
+    "padded apparatus",
+    "two handles protruding from top surface",
+    "legs swinging in scissor-like circular motion"
+  ],
+  [
+    "Pull_Ups",
+    "pulling body up",
+    "hanging from bar",
+    "arm bending motion",
+    "chin rising above bar level",
+    "overhand or underhand grip on bar"
+  ],
+  [
+    "Punch",
+    "striking with fist",
+    "forward thrust",
+    "rapid movement",
+    "clenched fist extending from shoulder",
+    "hip rotation generating power"
+  ],
+  [
+    "Push_Ups",
+    "pushing body up",
+    "hands on ground",
+    "up and down motion",
+    "straight body plank position",
+    "chest lowering toward ground"
+  ],
+  [
+    "Rafting",
+    "navigating water rapids",
+    "inflatable raft",
+    "multiple paddlers",
+    "turbulent white water surrounding raft",
+    "team paddling in synchronized manner"
+  ],
+  [
+    "Rock_Climbing_Indoor",
+    "climbing artificial wall",
+    "colored holds",
+    "harness and rope",
+    "textured vertical wall with attached grips",
+    "climber secured by safety rope system"
+  ],
+  [
+    "Rope_Climbing",
+    "ascending vertical rope",
+    "hand gripping",
+    "upward movement",
+    "thick rope hanging from above",
+    "legs wrapping around rope for support"
+  ],
+  [
+    "Rowing",
+    "propelling boat with oars",
+    "seated backward",
+    "rhythmic pulling",
+    "sliding seat moving back and forth",
+    "oars extending from both sides of boat"
+  ],
+  [
+    "Salsa_Spin",
+    "rotating dance move",
+    "spinning motion",
+    "dance rhythm",
+    "rapid rotation on ball of foot",
+    "partner-led turning motion"
+  ],
+  [
+    "Shaving_Beard",
+    "removing facial hair",
+    "razor movement",
+    "shaving cream",
+    "blade gliding across face surface",
+    "white foam covering facial area"
+  ],
+  [
+    "Shotput",
+    "throwing heavy ball",
+    "shoulder push",
+    "throwing circle",
+    "heavy metal sphere held at neck",
+    "explosive pushing motion from shoulder"
+  ],
+  [
+    "Skate_Boarding",
+    "riding wheeled board",
+    "four wheels",
+    "tricks and jumps",
+    "deck with grip tape surface",
+    "rider balancing on moving board"
+  ],
+  [
+    "Skiing",
+    "gliding on snow",
+    "skis and poles",
+    "downhill movement",
+    "two long narrow skis on feet",
+    "poles planted for balance and propulsion"
+  ],
+  [
+    "Skijet",
+    "riding watercraft",
+    "motorized vehicle",
+    "water spray",
+    "standing or seated on motorized vehicle",
+    "rooster tail spray behind craft"
+  ],
+  [
+    "Sky_Diving",
+    "jumping from aircraft",
+    "free-falling motion",
+    "parachute deployment",
+    "extreme altitude with clouds visible",
+    "spread-eagle body position during freefall"
+  ],
+  [
+    "Soccer_Juggling",
+    "keeping ball airborne",
+    "feet and head contact",
+    "continuous control",
+    "ball bouncing repeatedly off body parts",
+    "no hand contact with ball"
+  ],
+  [
+    "Soccer_Penalty",
+    "penalty kick opportunity",
+    "ball toward goal",
+    "goalkeeper defending",
+    "ball placed on penalty spot",
+    "one-on-one situation with goalkeeper"
+  ],
+  [
+    "Still_Rings",
+    "gymnastics on rings",
+    "suspended rings",
+    "strength movements",
+    "two hanging rings gripped by hands",
+    "static hold positions demonstrating strength"
+  ],
+  [
+    "Sumo_Wrestling",
+    "Japanese wrestling",
+    "circular ring",
+    "traditional attire",
+    "mawashi belt worn by wrestlers",
+    "elevated clay ring boundary"
+  ],
+  [
+    "Surfing",
+    "riding ocean waves",
+    "surfboard balance",
+    "wave spray",
+    "standing position on moving board",
+    "wave curling behind or around surfer"
+  ],
+  [
+    "Swing",
+    "back and forth motion",
+    "suspended seat",
+    "pendulum movement",
+    "chains or ropes supporting seat",
+    "arc-shaped trajectory through air"
+  ],
+  [
+    "Table_Tennis_Shot",
+    "hitting ball with paddle",
+    "ping pong table",
+    "small white ball",
+    "lightweight ball bouncing on table",
+    "net dividing table in middle"
+  ],
+  [
+    "Tai_Chi",
+    "slow martial arts",
+    "flowing movements",
+    "meditative balance",
+    "extremely slow controlled motions",
+    "weight shifting between stances"
+  ],
+  [
+    "Tennis_Swing",
+    "hitting ball with racket",
+    "tennis court",
+    "forehand or backhand",
+    "stringed racket with oval head",
+    "follow-through arc across body"
+  ],
+  [
+    "Throw_Discus",
+    "spinning and releasing disc",
+    "rotating motion",
+    "throwing circle",
+    "flat circular disc held in hand",
+    "one-and-a-half rotation before release"
+  ],
+  [
+    "Trampoline_Jumping",
+    "bouncing on elastic surface",
+    "high bouncing",
+    "aerial maneuvers",
+    "elastic mat surface propelling body upward",
+    "repeated high-amplitude bouncing"
+  ],
+  [
+    "Typing",
+    "inputting text on keyboard",
+    "finger movements",
+    "computer screen",
+    "rapid finger tapping on keys",
+    "hands positioned over keyboard layout"
+  ],
+  [
+    "Uneven_Bars",
+    "gymnastics on different height bars",
+    "swinging between bars",
+    "release movements",
+    "two bars at different heights",
+    "transitions between high and low bar"
+  ],
+  [
+    "Volleyball_Spiking",
+    "forceful downward hit",
+    "jumping over net",
+    "volleyball court",
+    "arm swinging overhead with open hand",
+    "attacking motion from above net height"
+  ],
+  [
+    "Walking_With_Dog",
+    "strolling with dog",
+    "leash and pet",
+    "outdoor setting",
+    "leash connecting person to dog",
+    "dog walking alongside or ahead of person"
+  ],
+  [
+    "Wall_Pushups",
+    "pushing against wall",
+    "hands on wall",
+    "angled body position",
+    "body at diagonal angle to wall",
+    "arms bending while facing wall"
+  ],
+  [
+    "Writing_On_Board",
+    "creating text on board",
+    "marker or chalk",
+    "large writing surface",
+    "arm moving across vertical surface",
+    "text appearing on whiteboard or blackboard"
+  ],
+  [
+    "Yo_Yo",
+    "manipulating string toy",
+    "spinning disc",
+    "up and down motion",
+    "string wound around axle of disc",
+    "disc returning to hand after drop"
+  ]
+]

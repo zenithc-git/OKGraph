@@ -1,0 +1,803 @@
+[
+    [
+      "707-320",
+      "long-range narrow-body jet airliner",
+      "four underwing-mounted turbofan engines",
+      "swept wings with pronounced dihedral",
+      "distinctive oval fuselage cross-section",
+      "tall landing gear for ground clearance"
+    ],
+    [
+      "727-200",
+      "tri-jet narrow-body commercial aircraft",
+      "three rear-mounted engines with center S-duct",
+      "T-tail configuration",
+      "clean wing design without engine pylons",
+      "built-in airstairs at rear fuselage"
+    ],
+    [
+      "737-200",
+      "short-range twin-jet airliner",
+      "two underwing turbofan engines with flat bottom",
+      "short landing gear with engine ground clearance",
+      "small diameter fuselage",
+      "cigar-shaped engine nacelles"
+    ],
+    [
+      "737-300",
+      "second-generation 737 variant",
+      "two CFM56 engines with larger diameter",
+      "extended fuselage compared to 737-200",
+      "flattened engine nacelles underneath wings",
+      "winglets optional on wingtips"
+    ],
+    [
+      "737-400",
+      "stretched version of 737 Classic series",
+      "longer fuselage than 737-300",
+      "two CFM56 high-bypass turbofans",
+      "increased passenger capacity seating",
+      "extended wing span for better performance"
+    ],
+    [
+      "737-500",
+      "shortened 737 Classic variant",
+      "compact fuselage length",
+      "two CFM56-3 engines",
+      "similar cockpit to other 737 Classics",
+      "reduced seating capacity configuration"
+    ],
+    [
+      "737-600",
+      "smallest Next Generation 737 model",
+      "two CFM56-7B engines",
+      "blended winglets as standard",
+      "modern glass cockpit displays",
+      "shortened fuselage for regional routes"
+    ],
+    [
+      "737-700",
+      "medium-range Next Generation 737",
+      "two advanced CFM56-7B turbofans",
+      "raked wingtips or blended winglets",
+      "improved aerodynamic wing design",
+      "extended range capability"
+    ],
+    [
+      "737-800",
+      "stretched Next Generation 737 variant",
+      "longer fuselage than 737-700",
+      "two powerful CFM56-7B27 engines",
+      "split scimitar winglets available",
+      "increased passenger and cargo capacity"
+    ],
+    [
+      "737-900",
+      "longest Next Generation 737 model",
+      "extended fuselage length",
+      "two high-thrust CFM56 engines",
+      "optional extra emergency exits",
+      "blended or split scimitar winglets"
+    ],
+    [
+      "747-100",
+      "original jumbo jet wide-body aircraft",
+      "four Pratt & Whitney JT9D engines",
+      "distinctive upper deck hump",
+      "wide fuselage with dual aisles",
+      "large wingspan with pronounced sweep"
+    ],
+    [
+      "747-200",
+      "improved version of original 747",
+      "four more powerful turbofan engines",
+      "extended upper deck compared to 100",
+      "increased fuel capacity in wings",
+      "strengthened landing gear structure"
+    ],
+    [
+      "747-300",
+      "stretched upper deck 747 variant",
+      "extended upper deck with more windows",
+      "four high-bypass turbofan engines",
+      "distinctive stretched hump profile",
+      "increased passenger capacity upstairs"
+    ],
+    [
+      "747-400",
+      "advanced technology jumbo jet",
+      "winglets on wing tips",
+      "four modern high-efficiency engines",
+      "glass cockpit with two-crew operation",
+      "extended range fuel tanks"
+    ],
+    [
+      "757-200",
+      "narrow-body twin-jet medium aircraft",
+      "two underwing high-bypass turbofans",
+      "tall landing gear for engine clearance",
+      "sleek narrow fuselage design",
+      "pointed nose cone profile"
+    ],
+    [
+      "757-300",
+      "stretched version of 757 family",
+      "significantly longer fuselage",
+      "two powerful turbofan engines",
+      "additional emergency exit doors",
+      "extended passenger cabin length"
+    ],
+    [
+      "767-200",
+      "wide-body twin-engine airliner",
+      "two large underwing turbofan engines",
+      "wide fuselage with twin aisles",
+      "rounded nose section",
+      "medium-length fuselage configuration"
+    ],
+    [
+      "767-300",
+      "stretched wide-body twin-jet",
+      "extended fuselage compared to 767-200",
+      "two high-thrust turbofan engines",
+      "increased cabin length for passengers",
+      "optional winglets for efficiency"
+    ],
+    [
+      "767-400",
+      "longest 767 variant produced",
+      "significantly stretched fuselage",
+      "raked wingtips as standard",
+      "two powerful turbofan engines",
+      "extended main landing gear"
+    ],
+    [
+      "777-200",
+      "large twin-engine wide-body jet",
+      "two massive turbofan engines",
+      "wide fuselage with spacious cabin",
+      "six wheels on each main landing gear",
+      "raked wingtips without winglets"
+    ],
+    [
+      "777-300",
+      "stretched ultra-long twin-jet",
+      "significantly extended fuselage length",
+      "two extremely large diameter engines",
+      "longest twin-engine aircraft",
+      "multiple emergency exit configurations"
+    ],
+    [
+      "A300B4",
+      "wide-body twin-engine European airliner",
+      "two underwing turbofan engines",
+      "wide fuselage with twin aisles",
+      "conventional tail configuration",
+      "first twin-engine wide-body design"
+    ],
+    [
+      "A310",
+      "shortened wide-body twin-jet",
+      "two large turbofan engines",
+      "smaller fuselage than A300",
+      "advanced wing design with winglets",
+      "two-crew glass cockpit"
+    ],
+    [
+      "A318",
+      "smallest member of A320 family",
+      "two underwing turbofan engines",
+      "shortened fuselage configuration",
+      "wingtip fences or sharklets",
+      "compact regional jet size"
+    ],
+    [
+      "A319",
+      "shortened A320 family variant",
+      "two CFM56 or IAE V2500 engines",
+      "reduced fuselage length",
+      "wingtip fences as standard",
+      "versatile short-range capability"
+    ],
+    [
+      "A320",
+      "narrow-body twin-jet airliner",
+      "two underwing high-bypass turbofans",
+      "fly-by-wire flight control system",
+      "side-stick controllers in cockpit",
+      "wingtip fences or sharklet winglets"
+    ],
+    [
+      "A321",
+      "stretched A320 family member",
+      "extended fuselage with more capacity",
+      "two powerful turbofan engines",
+      "additional emergency exit doors",
+      "longer cabin for increased seating"
+    ],
+    [
+      "A330-200",
+      "wide-body twin-engine long-range jet",
+      "two large underwing turbofan engines",
+      "wide fuselage with twin aisles",
+      "medium-length fuselage configuration",
+      "wingtip fences on wing ends"
+    ],
+    [
+      "A330-300",
+      "stretched wide-body twin-jet",
+      "longer fuselage than A330-200",
+      "two high-thrust turbofan engines",
+      "increased passenger capacity",
+      "similar wing design to A330-200"
+    ],
+    [
+      "A340-200",
+      "four-engine long-range wide-body",
+      "four underwing turbofan engines",
+      "medium-length wide fuselage",
+      "extended range fuel capacity",
+      "conventional tail configuration"
+    ],
+    [
+      "A340-300",
+      "stretched four-engine wide-body jet",
+      "four CFM56 turbofan engines",
+      "longer fuselage than A340-200",
+      "increased passenger seating",
+      "similar wing to A330 family"
+    ],
+    [
+      "A340-500",
+      "ultra-long-range four-engine aircraft",
+      "four Rolls-Royce Trent engines",
+      "extended fuselage length",
+      "massive fuel capacity in wings",
+      "reinforced landing gear structure"
+    ],
+    [
+      "A340-600",
+      "longest four-engine commercial jet",
+      "extremely stretched fuselage",
+      "four powerful Trent turbofans",
+      "multiple door configurations",
+      "extended wingspan for efficiency"
+    ],
+    [
+      "A380",
+      "double-deck wide-body superjumbo",
+      "four turbofan engines on wings",
+      "full-length double-deck fuselage",
+      "massive wingspan with winglets",
+      "two passenger decks throughout"
+    ],
+    [
+      "ATR-42",
+      "regional twin-turboprop aircraft",
+      "two wing-mounted turboprop engines",
+      "high-mounted straight wings",
+      "short fuselage for regional service",
+      "fixed tricycle landing gear"
+    ],
+    [
+      "ATR-72",
+      "stretched twin-turboprop regional",
+      "two Pratt & Whitney turboprops",
+      "extended fuselage compared to ATR-42",
+      "high-wing configuration",
+      "six-blade propellers on engines"
+    ],
+    [
+      "An-12",
+      "Soviet military transport aircraft",
+      "four turboprop engines on wings",
+      "high-wing cargo configuration",
+      "rear loading ramp door",
+      "glazed nose for navigator"
+    ],
+    [
+      "BAE 146-200",
+      "regional quad-jet airliner",
+      "four high-mounted turbofan engines",
+      "T-tail configuration",
+      "short fuselage for regional routes",
+      "quiet operation engines"
+    ],
+    [
+      "BAE 146-300",
+      "stretched quad-jet regional aircraft",
+      "four high-mounted Lycoming engines",
+      "extended fuselage length",
+      "T-tail with high horizontal stabilizer",
+      "increased passenger capacity"
+    ],
+    [
+      "BAE-125",
+      "business jet with twin engines",
+      "two rear-mounted turbofan engines",
+      "low-wing configuration",
+      "small cabin for executives",
+      "T-tail design"
+    ],
+    [
+      "Beechcraft 1900",
+      "twin-turboprop commuter aircraft",
+      "two wing-mounted turboprop engines",
+      "low-wing design with straight wings",
+      "T-tail configuration",
+      "unpressurized or pressurized cabin"
+    ],
+    [
+      "Boeing 717",
+      "short-range twin-jet airliner",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "clean wing without engine pylons",
+      "compact fuselage for regional service"
+    ],
+    [
+      "C-130",
+      "military tactical transport aircraft",
+      "four turboprop engines on high wing",
+      "high-wing cargo configuration",
+      "rear loading ramp for vehicles",
+      "large cargo hold fuselage"
+    ],
+    [
+      "C-47",
+      "military transport version of DC-3",
+      "two radial piston engines",
+      "low-wing configuration",
+      "tail-dragger landing gear",
+      "large cargo door on side"
+    ],
+    [
+      "CRJ-200",
+      "regional twin-jet aircraft",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "narrow fuselage for 50 passengers",
+      "clean wing design"
+    ],
+    [
+      "CRJ-700",
+      "stretched regional jet",
+      "two rear-mounted GE turbofans",
+      "extended fuselage compared to CRJ-200",
+      "T-tail with high stabilizer",
+      "increased seating capacity"
+    ],
+    [
+      "CRJ-900",
+      "longest CRJ family variant",
+      "two rear-mounted turbofan engines",
+      "significantly stretched fuselage",
+      "T-tail configuration",
+      "90-passenger capacity cabin"
+    ],
+    [
+      "Cessna 172",
+      "single-engine light aircraft",
+      "one piston engine with propeller",
+      "high-wing configuration",
+      "fixed tricycle landing gear",
+      "four-seat cabin interior"
+    ],
+    [
+      "Cessna 208",
+      "single-turboprop utility aircraft",
+      "one turboprop engine on nose",
+      "high-wing design with struts",
+      "fixed landing gear with large tires",
+      "cargo pod under fuselage optional"
+    ],
+    [
+      "Cessna 525",
+      "light business jet",
+      "two rear-mounted turbofan engines",
+      "low-wing configuration",
+      "T-tail design",
+      "small cabin for 6-8 passengers"
+    ],
+    [
+      "Cessna 560",
+      "mid-size business jet",
+      "two rear-mounted turbofan engines",
+      "low-swept wing design",
+      "T-tail configuration",
+      "stand-up cabin interior"
+    ],
+    [
+      "Challenger 600",
+      "large business jet",
+      "two rear-mounted turbofan engines",
+      "wide-body business jet fuselage",
+      "low-wing configuration",
+      "spacious cabin with stand-up height"
+    ],
+    [
+      "DC-10",
+      "tri-jet wide-body airliner",
+      "three turbofan engines configuration",
+      "one engine mounted on tail",
+      "two underwing engine pods",
+      "wide fuselage with twin aisles"
+    ],
+    [
+      "DC-3",
+      "classic twin-engine propeller aircraft",
+      "two radial piston engines",
+      "low-wing configuration",
+      "tail-wheel landing gear",
+      "corrugated metal skin fuselage"
+    ],
+    [
+      "DC-6",
+      "four-engine propeller airliner",
+      "four radial piston engines",
+      "low-wing configuration",
+      "pressurized cabin fuselage",
+      "tricycle landing gear"
+    ],
+    [
+      "DC-8",
+      "long-range four-engine jet",
+      "four underwing turbojet engines",
+      "swept wings with low mounting",
+      "narrow fuselage with single aisle",
+      "conventional tail configuration"
+    ],
+    [
+      "DC-9-30",
+      "twin-jet short-range airliner",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "clean wing without pylons",
+      "stretched fuselage variant"
+    ],
+    [
+      "DH-82",
+      "biplane trainer aircraft",
+      "one radial piston engine",
+      "two wings stacked vertically",
+      "open cockpit for pilot and student",
+      "fixed tail-dragger landing gear"
+    ],
+    [
+      "DHC-1",
+      "single-engine bush plane",
+      "one radial piston engine",
+      "high-wing configuration",
+      "fixed conventional landing gear",
+      "tandem seating cockpit"
+    ],
+    [
+      "DHC-6",
+      "twin-turboprop STOL aircraft",
+      "two wing-mounted turboprop engines",
+      "high-wing with fixed landing gear",
+      "boxy fuselage for cargo and passengers",
+      "short takeoff and landing capability"
+    ],
+    [
+      "DHC-8-100",
+      "twin-turboprop regional airliner",
+      "two turboprop engines on wings",
+      "high-wing configuration",
+      "T-tail design",
+      "short fuselage for 37-40 passengers"
+    ],
+    [
+      "DHC-8-300",
+      "stretched Dash 8 variant",
+      "two Pratt & Whitney turboprops",
+      "extended fuselage length",
+      "high-wing with T-tail",
+      "increased passenger capacity"
+    ],
+    [
+      "DR-400",
+      "single-engine light aircraft",
+      "one piston engine with propeller",
+      "low-wing configuration",
+      "fixed tricycle landing gear",
+      "distinctive sliding canopy"
+    ],
+    [
+      "Dornier 328",
+      "twin-turboprop regional aircraft",
+      "two wing-mounted turboprop engines",
+      "low-wing configuration",
+      "T-tail design",
+      "30-passenger cabin capacity"
+    ],
+    [
+      "E-170",
+      "regional twin-jet airliner",
+      "two underwing turbofan engines",
+      "low-wing configuration",
+      "conventional tail",
+      "70-80 passenger seating"
+    ],
+    [
+      "E-190",
+      "stretched E-Jet family member",
+      "two underwing CF34 turbofans",
+      "extended fuselage compared to E-170",
+      "low-wing with winglets",
+      "100-passenger capacity cabin"
+    ],
+    [
+      "E-195",
+      "largest E-Jet original series",
+      "two underwing turbofan engines",
+      "longest fuselage in E-Jet family",
+      "low-wing configuration",
+      "120-passenger seating capacity"
+    ],
+    [
+      "EMB-120",
+      "twin-turboprop regional aircraft",
+      "two wing-mounted turboprop engines",
+      "low-wing configuration",
+      "T-tail design",
+      "30-passenger pressurized cabin"
+    ],
+    [
+      "ERJ 135",
+      "regional twin-jet aircraft",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "shortened fuselage for 37 passengers",
+      "clean wing design"
+    ],
+    [
+      "ERJ 145",
+      "stretched regional jet",
+      "two rear-mounted Rolls-Royce turbofans",
+      "T-tail with high stabilizer",
+      "50-passenger cabin configuration",
+      "narrow fuselage with single aisle"
+    ],
+    [
+      "Embraer Legacy 600",
+      "business jet derivative",
+      "two underwing turbofan engines",
+      "low-wing configuration",
+      "executive cabin interior",
+      "winglets on wing tips"
+    ],
+    [
+      "Eurofighter Typhoon",
+      "twin-engine fighter aircraft",
+      "two afterburning turbofan engines",
+      "delta wing with canards",
+      "single-seat or two-seat cockpit",
+      "twin vertical stabilizers"
+    ],
+    [
+      "F-16A/B",
+      "single-engine fighter jet",
+      "one afterburning turbofan engine",
+      "blended wing-body design",
+      "single vertical stabilizer",
+      "bubble canopy cockpit"
+    ],
+    [
+      "F/A-18",
+      "twin-engine carrier-based fighter",
+      "two afterburning turbofan engines",
+      "twin vertical stabilizers",
+      "leading edge extensions on wings",
+      "single or two-seat cockpit"
+    ],
+    [
+      "Falcon 2000",
+      "large business jet",
+      "two rear-mounted turbofan engines",
+      "low-wing configuration",
+      "conventional tail",
+      "wide-body business jet cabin"
+    ],
+    [
+      "Falcon 900",
+      "tri-jet business aircraft",
+      "three rear-mounted turbofan engines",
+      "one engine on tail centerline",
+      "low-wing design",
+      "long-range executive cabin"
+    ],
+    [
+      "Fokker 100",
+      "twin-jet regional airliner",
+      "two rear-mounted Rolls-Royce turbofans",
+      "T-tail configuration",
+      "clean wing without engine pylons",
+      "100-passenger capacity fuselage"
+    ],
+    [
+      "Fokker 50",
+      "twin-turboprop regional aircraft",
+      "two wing-mounted Pratt & Whitney turboprops",
+      "high-wing configuration",
+      "50-passenger cabin",
+      "six-blade propellers"
+    ],
+    [
+      "Fokker 70",
+      "shortened twin-jet regional",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "reduced fuselage length",
+      "70-80 passenger seating"
+    ],
+    [
+      "Global Express",
+      "ultra-long-range business jet",
+      "two rear-mounted turbofan engines",
+      "low-wing configuration",
+      "conventional tail",
+      "spacious stand-up cabin"
+    ],
+    [
+      "Gulfstream IV",
+      "large business jet",
+      "two rear-mounted Rolls-Royce turbofans",
+      "low-swept wing design",
+      "T-tail configuration",
+      "long-range executive cabin"
+    ],
+    [
+      "Gulfstream V",
+      "ultra-long-range business jet",
+      "two rear-mounted turbofan engines",
+      "extended wingspan with winglets",
+      "low-wing configuration",
+      "luxurious wide cabin interior"
+    ],
+    [
+      "Hawk T1",
+      "military jet trainer aircraft",
+      "one turbofan engine",
+      "low-wing configuration",
+      "tandem seating cockpit",
+      "conventional tail with single fin"
+    ],
+    [
+      "Il-76",
+      "Soviet military transport jet",
+      "four turbofan engines on wings",
+      "high-wing cargo configuration",
+      "rear loading ramp door",
+      "glazed nose for navigator"
+    ],
+    [
+      "L-1011",
+      "tri-jet wide-body airliner",
+      "three Rolls-Royce turbofan engines",
+      "one S-duct engine in tail",
+      "two underwing engine pods",
+      "wide fuselage with twin aisles"
+    ],
+    [
+      "MD-11",
+      "tri-jet long-range wide-body",
+      "three turbofan engines configuration",
+      "winglets on wing tips",
+      "one tail-mounted engine",
+      "stretched fuselage from DC-10"
+    ],
+    [
+      "MD-80",
+      "twin-jet narrow-body airliner",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "stretched fuselage from DC-9",
+      "clean wing design"
+    ],
+    [
+      "MD-87",
+      "shortened MD-80 variant",
+      "two rear-mounted Pratt & Whitney turbofans",
+      "reduced fuselage length",
+      "T-tail with high stabilizer",
+      "compact regional jet size"
+    ],
+    [
+      "MD-90",
+      "advanced twin-jet airliner",
+      "two rear-mounted IAE V2500 engines",
+      "T-tail configuration",
+      "modernized MD-80 design",
+      "glass cockpit avionics"
+    ],
+    [
+      "Metroliner",
+      "twin-turboprop commuter aircraft",
+      "two wing-mounted turboprop engines",
+      "low-wing configuration",
+      "T-tail design",
+      "19-passenger pressurized cabin"
+    ],
+    [
+      "Model B200",
+      "twin-turboprop business aircraft",
+      "two wing-mounted Pratt & Whitney turboprops",
+      "low-wing configuration",
+      "T-tail design",
+      "pressurized executive cabin"
+    ],
+    [
+      "PA-28",
+      "single-engine light aircraft",
+      "one piston engine with propeller",
+      "low-wing configuration",
+      "fixed tricycle landing gear",
+      "four-seat cabin interior"
+    ],
+    [
+      "SR-20",
+      "single-engine composite aircraft",
+      "one piston engine on nose",
+      "low-wing configuration",
+      "fixed tricycle landing gear",
+      "whole-aircraft parachute system"
+    ],
+    [
+      "Saab 2000",
+      "high-speed twin-turboprop",
+      "two wing-mounted turboprop engines",
+      "low-wing configuration",
+      "T-tail design",
+      "50-58 passenger capacity"
+    ],
+    [
+      "Saab 340",
+      "twin-turboprop regional airliner",
+      "two wing-mounted turboprop engines",
+      "low-wing configuration",
+      "T-tail design",
+      "30-36 passenger cabin"
+    ],
+    [
+      "Spitfire",
+      "World War II fighter aircraft",
+      "one Rolls-Royce Merlin piston engine",
+      "elliptical wing planform",
+      "single-seat cockpit with bubble canopy",
+      "retractable tail-dragger landing gear"
+    ],
+    [
+      "Tornado",
+      "variable-sweep wing fighter",
+      "two afterburning turbofan engines",
+      "swing-wing variable geometry",
+      "twin vertical stabilizers",
+      "two-seat tandem cockpit"
+    ],
+    [
+      "Tu-134",
+      "Soviet twin-jet airliner",
+      "two rear-mounted turbofan engines",
+      "T-tail configuration",
+      "glazed nose for navigator",
+      "clean wing without pylons"
+    ],
+    [
+      "Tu-154",
+      "Soviet tri-jet airliner",
+      "three rear-mounted turbofan engines",
+      "T-tail configuration",
+      "one S-duct center engine",
+      "swept wings with low mounting"
+    ],
+    [
+      "Yak-42",
+      "Soviet tri-jet regional aircraft",
+      "three rear-mounted turbofan engines",
+      "T-tail configuration",
+      "one centerline tail engine",
+      "high-wing configuration"
+    ]
+  ]
+  

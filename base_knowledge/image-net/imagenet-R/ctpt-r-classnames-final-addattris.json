@@ -1,0 +1,1602 @@
+[
+    [
+      "goldfish",
+      "a small freshwater fish",
+      "bright orange or golden coloration",
+      "a rounded compact body with flowing fins",
+      "smooth shimmering scales",
+      "large protruding eyes"
+    ],
+    [
+      "great white shark",
+      "a large marine predator",
+      "grey-blue coloration on top and white underneath",
+      "a torpedo-shaped streamlined body",
+      "multiple rows of sharp triangular teeth",
+      "a distinctive pointed snout"
+    ],
+    [
+      "hammerhead shark",
+      "a medium-sized marine fish",
+      "grey-brown coloration",
+      "a distinctive flattened hammer-shaped head",
+      "eyes positioned at the ends of the head extensions",
+      "a streamlined body with dorsal fins"
+    ],
+    [
+      "stingray",
+      "a flat cartilaginous fish",
+      "brown or grey mottled coloration",
+      "a diamond-shaped flattened body",
+      "a long whip-like tail with venomous barb",
+      "smooth skin and wing-like pectoral fins"
+    ],
+    [
+      "hen",
+      "a medium-sized domestic bird",
+      "reddish-brown or white feathered plumage",
+      "a compact rounded body with short wings",
+      "a red comb and wattles on the head",
+      "strong clawed feet for scratching"
+    ],
+    [
+      "ostrich",
+      "the largest flightless bird",
+      "black and white plumage with pink skin",
+      "an extremely long neck and powerful legs",
+      "small wings relative to body size",
+      "a small head with large eyes"
+    ],
+    [
+      "goldfinch",
+      "a small songbird",
+      "bright yellow body with black wings and cap",
+      "a compact finch-like body shape",
+      "a short conical seed-eating beak",
+      "distinctive undulating flight pattern"
+    ],
+    [
+      "junco",
+      "a small sparrow-like bird",
+      "dark grey head and back with white belly",
+      "a rounded compact body with short tail",
+      "white outer tail feathers visible in flight",
+      "a small pink or yellowish beak"
+    ],
+    [
+      "bald eagle",
+      "a large bird of prey",
+      "distinctive white head and tail with brown body",
+      "a massive wingspan reaching 7-8 feet",
+      "powerful yellow talons and hooked beak",
+      "piercing yellow eyes"
+    ],
+    [
+      "vulture",
+      "a large scavenging bird",
+      "predominantly black or dark brown plumage",
+      "a large body with broad wings for soaring",
+      "a featherless head and neck",
+      "a hooked beak adapted for tearing flesh"
+    ],
+    [
+      "smooth newt",
+      "a small amphibian",
+      "bright orange coloration with dark spots",
+      "a slender elongated body with four legs",
+      "smooth moist skin that changes texture seasonally",
+      "a flattened tail for swimming"
+    ],
+    [
+      "axolotl",
+      "an aquatic salamander",
+      "pink, white, or dark coloration",
+      "an elongated body with external gills",
+      "four legs with webbed feet",
+      "a broad flat head with small lidless eyes"
+    ],
+    [
+      "tree frog",
+      "a small arboreal amphibian",
+      "bright green coloration for camouflage",
+      "a compact body with long powerful hind legs",
+      "adhesive toe pads for climbing",
+      "large prominent eyes for night vision"
+    ],
+    [
+      "green iguana",
+      "a large herbivorous reptile",
+      "bright green coloration that can change with mood",
+      "an elongated body with a distinctive spinal crest",
+      "a long whip-like tail and dewlap under chin",
+      "sharp claws and a third eye on top of head"
+    ],
+    [
+      "chameleon",
+      "a small color-changing reptile",
+      "the ability to change colors rapidly",
+      "a laterally compressed body with casque on head",
+      "independently moving eyes and projectile tongue",
+      "zygodactyl feet for gripping branches"
+    ],
+    [
+      "Indian cobra",
+      "a venomous snake",
+      "brown, black, or cream coloration with hood markings",
+      "a long cylindrical body that can rear up",
+      "an expandable hood with distinctive eye-spot patterns",
+      "hollow fangs for injecting venom"
+    ],
+    [
+      "scorpion",
+      "an arachnid arthropod",
+      "dark brown or black coloration",
+      "a segmented body with eight legs and pincers",
+      "a curved tail ending in a venomous stinger",
+      "a hard exoskeleton and fluorescent properties"
+    ],
+    [
+      "tarantula",
+      "a large hairy spider",
+      "dark brown or black coloration with patterns",
+      "a robust body covered in dense hairs",
+      "eight thick legs and prominent fangs",
+      "the ability to kick urticating hairs when threatened"
+    ],
+    [
+      "centipede",
+      "a segmented arthropod",
+      "brown or reddish coloration",
+      "an elongated body with many segments",
+      "one pair of legs per body segment",
+      "venomous claws and long antennae"
+    ],
+    [
+      "peafowl",
+      "a large ornamental bird",
+      "iridescent blue and green plumage with eye-spots",
+      "an elaborate fan-shaped tail display in males",
+      "a crested head and long elegant neck",
+      "strong legs with spurs for defense"
+    ],
+    [
+      "lorikeet",
+      "a small colorful parrot",
+      "rainbow-colored plumage with red, blue, green, and yellow",
+      "a slender body adapted for nectar feeding",
+      "a brush-tipped tongue for collecting nectar",
+      "strong zygodactyl feet for climbing"
+    ],
+    [
+      "hummingbird",
+      "the smallest bird species",
+      "iridescent green, red, or blue metallic coloration",
+      "a tiny body weighing only 2-20 grams",
+      "rapidly beating wings that create humming sound",
+      "a long needle-like beak for reaching nectar"
+    ],
+    [
+      "toucan",
+      "a tropical bird",
+      "black body with white chest and colorful markings",
+      "a compact body with short wings",
+      "an oversized colorful beak up to 8 inches long",
+      "zygodactyl feet and bright blue skin around eyes"
+    ],
+    [
+      "duck",
+      "a medium-sized waterfowl",
+      "brown body with iridescent green head in males",
+      "a streamlined body adapted for swimming",
+      "webbed feet and waterproof feathers",
+      "a broad flat bill for filter feeding"
+    ],
+    [
+      "goose",
+      "a large waterfowl",
+      "white, grey, or brown plumage",
+      "a long neck and robust body larger than ducks",
+      "webbed feet and strong wings for long migration",
+      "a honking call and aggressive territorial behavior"
+    ],
+    [
+      "black swan",
+      "a large waterfowl",
+      "entirely black plumage with white flight feathers",
+      "an elegant curved neck longer than body",
+      "a bright red-orange beak with white tip",
+      "webbed black feet and graceful swimming motion"
+    ],
+    [
+      "koala",
+      "a small marsupial",
+      "grey fur with white chest patches",
+      "a compact rounded body with large head",
+      "large black nose and fluffy ears",
+      "strong claws for gripping eucalyptus branches"
+    ],
+    [
+      "jellyfish",
+      "a marine cnidarian",
+      "translucent or transparent bell-shaped body",
+      "a gelatinous umbrella-shaped medusa form",
+      "trailing tentacles with stinging cells",
+      "no brain, blood, or central nervous system"
+    ],
+    [
+      "snail",
+      "a small gastropod mollusk",
+      "brown, beige, or striped spiral shell",
+      "a soft slimy body that can retract into shell",
+      "a muscular foot for locomotion and tentacles with eyes",
+      "a rasping tongue called radula for feeding"
+    ],
+    [
+      "American lobster",
+      "a large marine crustacean",
+      "dark green or brown coloration turning red when cooked",
+      "an elongated body with segmented abdomen",
+      "two large asymmetrical claws and eight walking legs",
+      "long antennae and compound eyes on stalks"
+    ],
+    [
+      "hermit crab",
+      "a small crustacean",
+      "reddish-orange or brown coloration",
+      "a soft curved abdomen that fits in shells",
+      "asymmetrical claws with right claw typically larger",
+      "the behavior of inhabiting empty snail shells"
+    ],
+    [
+      "flamingo",
+      "a large wading bird",
+      "pink or red plumage from carotenoid pigments",
+      "an extremely long curved neck and legs",
+      "webbed feet and a distinctive downward-curved beak",
+      "the ability to stand on one leg for extended periods"
+    ],
+    [
+      "great egret",
+      "a large wading bird",
+      "pure white plumage year-round",
+      "a tall slender body with S-shaped neck",
+      "long black legs and yellow pointed beak",
+      "elegant plume feathers during breeding season"
+    ],
+    [
+      "pelican",
+      "a large water bird",
+      "white or brown plumage with darker wing markings",
+      "a massive body with broad wingspan",
+      "an enormous beak with expandable throat pouch",
+      "webbed feet and distinctive diving feeding behavior"
+    ],
+    [
+      "king penguin",
+      "a large flightless seabird",
+      "black back, white front, and orange head markings",
+      "a streamlined torpedo-shaped body for swimming",
+      "flipper-like wings and orange feet",
+      "dense waterproof feathers and upright walking posture"
+    ],
+    [
+      "grey whale",
+      "a massive marine mammal",
+      "mottled grey coloration with lighter patches",
+      "an enormous body reaching 40-50 feet in length",
+      "a narrow head with baleen plates for filter feeding",
+      "distinctive knobby ridges instead of dorsal fin"
+    ],
+    [
+      "killer whale",
+      "a large marine mammal",
+      "distinctive black and white coloration pattern",
+      "a robust streamlined body up to 32 feet long",
+      "a tall triangular dorsal fin and rounded head",
+      "conical teeth and complex social pod structure"
+    ],
+    [
+      "sea lion",
+      "a large marine mammal",
+      "brown or tan coloration with darker flippers",
+      "a streamlined body with external ear flaps",
+      "powerful front and rear flippers for swimming and walking",
+      "whiskers and the ability to rotate rear flippers forward"
+    ],
+    [
+      "Chihuahua",
+      "the smallest dog breed",
+      "tan, white, black, or mixed coloration",
+      "a tiny compact body weighing 2-6 pounds",
+      "large erect ears and prominent round eyes",
+      "a short or long coat and apple or deer-shaped head"
+    ],
+    [
+      "Shih Tzu",
+      "a small toy dog breed",
+      "gold, white, black, or multicolored long coat",
+      "a compact sturdy body with short legs",
+      "a flat face with large dark eyes and short muzzle",
+      "a double coat that requires regular grooming"
+    ],
+    [
+      "Afghan Hound",
+      "a large sighthound breed",
+      "cream, black, or red silky coat",
+      "a tall elegant body with narrow waist",
+      "long silky hair covering entire body",
+      "a long narrow head with high-set ears"
+    ],
+    [
+      "Basset Hound",
+      "a medium-sized scent hound",
+      "tricolor black, white, and tan markings",
+      "a long low body with very short legs",
+      "extremely long drooping ears and sad expression",
+      "loose skin and powerful scenting ability"
+    ],
+    [
+      "Beagle",
+      "a medium-sized hound dog",
+      "tricolor brown, black, and white coat",
+      "a compact muscular body with sturdy build",
+      "long drooping ears and gentle brown eyes",
+      "a white-tipped tail and excellent tracking nose"
+    ],
+    [
+      "Bloodhound",
+      "a large scent hound",
+      "black and tan or liver and tan coloration",
+      "a powerful muscular body with deep chest",
+      "extremely long ears and deeply wrinkled face",
+      "the most accurate scenting ability of all dogs"
+    ],
+    [
+      "Italian Greyhound",
+      "a small sighthound breed",
+      "fawn, black, blue, or white smooth coat",
+      "a slender delicate body with long thin legs",
+      "a narrow elongated head and rose-shaped ears",
+      "a tucked-up abdomen and high-stepping gait"
+    ],
+    [
+      "Whippet",
+      "a medium-sized sighthound",
+      "various colors including brindle, fawn, or white",
+      "a lean athletic body built for speed",
+      "a long narrow head and small folded ears",
+      "a deep chest and tucked-up waist like a small greyhound"
+    ],
+    [
+      "Weimaraner",
+      "a large sporting dog",
+      "distinctive silver-grey coat coloration",
+      "a athletic muscular body with deep chest",
+      "amber or blue-grey eyes and high-set ears",
+      "a docked tail and webbed feet for swimming"
+    ],
+    [
+      "Yorkshire Terrier",
+      "a small toy terrier breed",
+      "blue and tan silky coat coloration",
+      "a tiny compact body weighing 4-7 pounds",
+      "long silky hair that parts down the middle",
+      "small V-shaped erect ears and dark sparkling eyes"
+    ],
+    [
+      "Boston Terrier",
+      "a small non-sporting breed",
+      "black and white tuxedo-like markings",
+      "a compact square muscular body",
+      "a flat face with large round prominent eyes",
+      "erect ears and a short screwed tail"
+    ],
+    [
+      "Scottish Terrier",
+      "a small terrier breed",
+      "black, brindle, or wheaten wiry coat",
+      "a compact low-set body with short legs",
+      "a long head with bushy eyebrows and beard",
+      "erect pointed ears and a high-carried tail"
+    ],
+    [
+      "West Highland White Terrier",
+      "a small terrier breed",
+      "pure white double coat",
+      "a compact sturdy body with deep chest",
+      "a round head with dark eyes and black nose",
+      "small pointed erect ears and carrot-shaped tail"
+    ],
+    [
+      "Golden Retriever",
+      "a large sporting dog breed",
+      "lustrous golden coat in various shades",
+      "a strong athletic body with broad head",
+      "feathering on legs, chest, and tail",
+      "friendly dark eyes and water-repellent double coat"
+    ],
+    [
+      "Labrador Retriever",
+      "a large sporting dog breed",
+      "yellow, black, or chocolate solid coat colors",
+      "a strong well-balanced body with broad skull",
+      "a thick otter-like tail and webbed feet",
+      "kind eyes and water-resistant double coat"
+    ],
+    [
+      "Cocker Spaniel",
+      "a medium-sized sporting dog",
+      "various colors including black, buff, or parti-color",
+      "a compact body with well-balanced proportions",
+      "long silky ears that hang close to head",
+      "feathering on legs and body with gentle expression"
+    ],
+    [
+      "collie",
+      "a large herding dog breed",
+      "sable, tricolor, or blue merle coat patterns",
+      "an elegant well-proportioned body with deep chest",
+      "a long narrow head with almond-shaped eyes",
+      "a luxurious double coat with abundant mane"
+    ],
+    [
+      "Border Collie",
+      "a medium-sized herding dog",
+      "black and white or various color combinations",
+      "an athletic agile body with intense gaze",
+      "moderate feathering and weather-resistant coat",
+      "erect or semi-erect ears and intelligent expression"
+    ],
+    [
+      "Rottweiler",
+      "a large working dog breed",
+      "black coat with rust-colored markings",
+      "a powerful muscular body with broad chest",
+      "a broad head with well-developed cheek muscles",
+      "triangular drop ears and docked tail"
+    ],
+    [
+      "German Shepherd Dog",
+      "a large herding breed",
+      "black and tan or solid black coloration",
+      "a noble muscular body with sloping back",
+      "erect pointed ears and bushy tail",
+      "a double coat and confident alert expression"
+    ],
+    [
+      "Boxer",
+      "a large working dog breed",
+      "fawn or brindle coat with white markings",
+      "a square muscular body with broad chest",
+      "a distinctive flat face and undershot jaw",
+      "cropped or natural drop ears and docked tail"
+    ],
+    [
+      "French Bulldog",
+      "a small companion breed",
+      "brindle, fawn, white, or pied coloration",
+      "a compact muscular body with heavy bone structure",
+      "a flat face with prominent round eyes",
+      "distinctive bat ears and short screwed tail"
+    ],
+    [
+      "St. Bernard",
+      "a giant working dog breed",
+      "red and white or brown and white markings",
+      "a massive powerful body weighing 120-200 pounds",
+      "a broad head with wrinkled forehead",
+      "dense coat and gentle giant temperament"
+    ],
+    [
+      "Siberian Husky",
+      "a large working sled dog",
+      "black, grey, red, or white coat combinations",
+      "a compact athletic body built for endurance",
+      "erect triangular ears and distinctive facial mask",
+      "a thick double coat and curled sickle tail"
+    ],
+    [
+      "Dalmatian",
+      "a large non-sporting breed",
+      "white coat with black or liver spots",
+      "a lean muscular body with elegant outline",
+      "distinctive spotted pattern unique to each dog",
+      "high-set ears and strong endurance for running"
+    ],
+    [
+      "pug",
+      "a small toy breed",
+      "fawn or black coat with dark facial mask",
+      "a compact square body with wrinkled face",
+      "large prominent dark eyes and short muzzle",
+      "a curled tail and distinctive breathing sounds"
+    ],
+    [
+      "Pomeranian",
+      "a tiny toy breed",
+      "orange, black, white, or cream fluffy coat",
+      "a compact body weighing 3-7 pounds",
+      "a fox-like face with erect pointed ears",
+      "a double coat forming a mane around neck"
+    ],
+    [
+      "Chow Chow",
+      "a medium-sized non-sporting breed",
+      "red, black, blue, cinnamon, or cream coat",
+      "a compact square body with sturdy build",
+      "a distinctive blue-black tongue and scowling expression",
+      "small triangular erect ears and lion-like mane"
+    ],
+    [
+      "Pembroke Welsh Corgi",
+      "a small herding dog breed",
+      "red, sable, fawn, or tricolor coat",
+      "a long low body with short sturdy legs",
+      "large erect ears and fox-like facial expression",
+      "a naturally short tail or docked tail"
+    ],
+    [
+      "Toy Poodle",
+      "the smallest poodle variety",
+      "curly coat in various solid colors",
+      "a tiny elegant body under 10 inches tall",
+      "a refined head with dark oval eyes",
+      "hypoallergenic non-shedding curly coat"
+    ],
+    [
+      "Standard Poodle",
+      "the largest poodle variety",
+      "curly coat in black, white, brown, or other solid colors",
+      "an elegant athletic body over 15 inches tall",
+      "a long straight muzzle and hanging ears",
+      "a hypoallergenic coat requiring professional grooming"
+    ],
+    [
+      "grey wolf",
+      "a large wild canid",
+      "grey, white, black, or brown coat coloration",
+      "a powerful muscular body with broad chest",
+      "erect pointed ears and yellow or amber eyes",
+      "a bushy tail and pack hunting behavior"
+    ],
+    [
+      "hyena",
+      "a medium-sized carnivorous mammal",
+      "spotted brown or striped coat patterns",
+      "a robust body with sloping back and powerful jaws",
+      "rounded ears and distinctive laughing vocalization",
+      "strong bone-crushing teeth and scavenging behavior"
+    ],
+    [
+      "red fox",
+      "a medium-sized wild canid",
+      "reddish-orange coat with white chest and black markings",
+      "a slender body with pointed snout and ears",
+      "a long bushy tail with white tip",
+      "excellent hearing and solitary hunting behavior"
+    ],
+    [
+      "tabby cat",
+      "a domestic cat with distinctive markings",
+      "brown, grey, or orange coat with dark stripes",
+      "a medium-sized flexible body with retractable claws",
+      "distinctive M-shaped marking on forehead",
+      "excellent night vision and independent nature"
+    ],
+    [
+      "leopard",
+      "a large wild cat",
+      "golden-yellow coat with black rosette spots",
+      "a muscular body built for climbing and stalking",
+      "powerful jaws and retractable claws",
+      "excellent night vision and solitary territorial behavior"
+    ],
+    [
+      "snow leopard",
+      "a large mountain cat",
+      "pale grey coat with dark rosettes and spots",
+      "a stocky body with thick fur for cold climates",
+      "large paws that act as snowshoes",
+      "an extremely long thick tail for balance"
+    ],
+    [
+      "lion",
+      "a large African cat",
+      "golden-tan coat with darker mane in males",
+      "a powerful muscular body with broad chest",
+      "a distinctive mane around male's head and neck",
+      "social pride structure and cooperative hunting"
+    ],
+    [
+      "tiger",
+      "the largest wild cat species",
+      "orange coat with distinctive black stripes",
+      "a massive muscular body weighing up to 660 pounds",
+      "powerful jaws with long canine teeth",
+      "excellent swimming ability and solitary nature"
+    ],
+    [
+      "cheetah",
+      "a large spotted cat",
+      "golden-yellow coat with solid black spots",
+      "a lean body built for speed with long legs",
+      "distinctive black tear marks from eyes to mouth",
+      "semi-retractable claws and fastest land speed"
+    ],
+    [
+      "polar bear",
+      "the largest bear species",
+      "white or cream-colored fur for Arctic camouflage",
+      "a massive body weighing up to 1,500 pounds",
+      "large paws with non-slip pads for ice walking",
+      "excellent swimming ability and carnivorous diet"
+    ],
+    [
+      "meerkat",
+      "a small mongoose species",
+      "tan or grey coat with darker bands",
+      "a slender body with long tail for balance",
+      "dark patches around eyes to reduce glare",
+      "sentinel behavior and complex social structure"
+    ],
+    [
+      "ladybug",
+      "a small beneficial beetle",
+      "red or orange wing covers with black spots",
+      "a dome-shaped body measuring 1-10 millimeters",
+      "six short legs and clubbed antennae",
+      "the ability to secrete yellow fluid when threatened"
+    ],
+    [
+      "fly",
+      "a small winged insect",
+      "dark metallic or black coloration",
+      "a compact body with large compound eyes",
+      "two transparent wings and sticky foot pads",
+      "rapid reproduction cycle and disease-carrying potential"
+    ],
+    [
+      "bee",
+      "a flying pollinating insect",
+      "yellow and black striped fuzzy body",
+      "a robust body covered in branched hairs",
+      "specialized pollen baskets on hind legs",
+      "social colony structure and honey production ability"
+    ],
+    [
+      "ant",
+      "a small social insect",
+      "black, brown, or red coloration",
+      "a segmented body with narrow waist",
+      "strong mandibles and elbowed antennae",
+      "complex colonial social structure and chemical communication"
+    ],
+    [
+      "grasshopper",
+      "a jumping insect",
+      "green or brown coloration for camouflage",
+      "an elongated body with powerful hind legs",
+      "long antennae and chewing mouthparts",
+      "the ability to leap 20 times its body length"
+    ],
+    [
+      "cockroach",
+      "a resilient insect",
+      "brown or black shiny coloration",
+      "a flattened oval body with long antennae",
+      "six spiny legs and leathery wing covers",
+      "remarkable survival ability and rapid reproduction"
+    ],
+    [
+      "praying mantis",
+      "a predatory insect",
+      "green or brown camouflage coloration",
+      "an elongated body with triangular head",
+      "raptorial forelegs for catching prey",
+      "excellent vision and patient hunting behavior"
+    ],
+    [
+      "dragonfly",
+      "a large flying insect",
+      "metallic blue, green, or red coloration",
+      "a long slender body with four transparent wings",
+      "enormous compound eyes covering most of head",
+      "exceptional flying ability and aquatic larval stage"
+    ],
+    [
+      "monarch butterfly",
+      "a large migratory butterfly",
+      "orange wings with black borders and white spots",
+      "a delicate body with 3-4 inch wingspan",
+      "distinctive migration pattern spanning generations",
+      "toxic compounds from milkweed diet for protection"
+    ],
+    [
+      "starfish",
+      "a marine echinoderm",
+      "orange, red, purple, or brown coloration",
+      "a star-shaped body with five arms radiating from center",
+      "tube feet on underside for movement",
+      "remarkable regeneration ability to regrow lost arms"
+    ],
+    [
+      "cottontail rabbit",
+      "a small lagomorph mammal",
+      "brown or grey fur with white cottony tail",
+      "a compact body with powerful hind legs",
+      "long ears and large eyes positioned on sides",
+      "continuously growing teeth and herbivorous diet"
+    ],
+    [
+      "porcupine",
+      "a large rodent",
+      "dark fur with sharp quills covering back",
+      "a stocky body with short legs and small head",
+      "30,000 quills that detach when touched",
+      "excellent climbing ability and nocturnal habits"
+    ],
+    [
+      "fox squirrel",
+      "a large tree squirrel",
+      "rusty-red, grey, or black fur coloration",
+      "a robust body with bushy tail half its length",
+      "strong claws for climbing and cheek pouches",
+      "scatter-hoarding behavior for nut storage"
+    ],
+    [
+      "beaver",
+      "a large aquatic rodent",
+      "dark brown waterproof fur",
+      "a stocky body with flat scaly tail and webbed hind feet",
+      "large orange incisors for cutting wood and dam building"
+    ],
+    [
+      "guinea pig",
+      "a small domestic rodent",
+      "white, black, brown, or mixed fur colors",
+      "a compact rounded body with short legs",
+      "large eyes and no visible tail",
+      "continuously growing teeth and social squeaking behavior"
+    ],
+    [
+      "zebra",
+      "a large African equid",
+      "distinctive black and white striped pattern",
+      "a horse-like body with sturdy legs and hooves",
+      "erect mane and large rounded ears",
+      "unique stripe pattern individual to each animal"
+    ],
+    [
+      "pig",
+      "a medium-sized domestic mammal",
+      "pink, black, or spotted skin coloration",
+      "a stout body with short legs and curly tail",
+      "a flat snout for rooting and small eyes",
+      "excellent sense of smell and high intelligence"
+    ],
+    [
+      "hippopotamus",
+      "a large semi-aquatic mammal",
+      "grey-brown thick hairless skin",
+      "a massive barrel-shaped body weighing up to 4,000 pounds",
+      "enormous jaws with large canine teeth",
+      "eyes and nostrils positioned on top of head"
+    ],
+    [
+      "bison",
+      "a large North American bovid",
+      "dark brown shaggy fur",
+      "a massive body with pronounced shoulder hump",
+      "large curved horns and broad head",
+      "thick winter coat and migratory herd behavior"
+    ],
+    [
+      "gazelle",
+      "a medium-sized antelope",
+      "tan or brown coat with white underside",
+      "a slender graceful body with long thin legs",
+      "curved horns and large dark eyes",
+      "exceptional speed and leaping ability for predator evasion"
+    ],
+    [
+      "llama",
+      "a large South American camelid",
+      "white, brown, black, or mixed woolly coat",
+      "a tall body with long curved neck",
+      "large eyes with long eyelashes and banana-shaped ears",
+      "soft padded feet and spitting defense behavior"
+    ],
+    [
+      "skunk",
+      "a small carnivorous mammal",
+      "black fur with distinctive white stripes",
+      "a compact body with bushy tail",
+      "short legs and long claws for digging",
+      "ability to spray foul-smelling liquid as defense"
+    ],
+    [
+      "badger",
+      "a medium-sized carnivorous mammal",
+      "grey fur with distinctive black and white facial stripes",
+      "a low-slung muscular body with powerful limbs",
+      "long claws for digging extensive burrow systems",
+      "fierce temperament and excellent digging ability"
+    ],
+    [
+      "orangutan",
+      "a large arboreal ape",
+      "reddish-brown long shaggy hair",
+      "a robust body with extremely long arms",
+      "large cheek pads in mature males",
+      "high intelligence and tool-using behavior"
+    ],
+    [
+      "gorilla",
+      "the largest living primate",
+      "black or dark grey fur with silver back in males",
+      "a massive muscular body weighing up to 400 pounds",
+      "broad chest and prominent brow ridge",
+      "knuckle-walking locomotion and gentle herbivorous nature"
+    ],
+    [
+      "chimpanzee",
+      "a large intelligent ape",
+      "black or dark brown fur with pink face",
+      "a muscular body with long arms and opposable thumbs",
+      "prominent ears and expressive facial features",
+      "complex social behavior and advanced tool use"
+    ],
+    [
+      "gibbon",
+      "a small arboreal ape",
+      "black, brown, or blonde fur coloration",
+      "a slender body with extremely long arms",
+    "no tail and calloused sitting pads",
+    "spectacular brachiating ability through trees"
+  ],
+  [
+    "baboon",
+    "a large terrestrial primate",
+    "olive-brown fur with colorful facial skin",
+    "a dog-like elongated snout and powerful build",
+    "prominent canine teeth and cheek pouches",
+    "complex social hierarchy and ground-dwelling lifestyle"
+  ],
+  [
+    "giant panda",
+    "a large bear species",
+    "distinctive black and white fur pattern",
+    "a round body with powerful jaw muscles",
+    "pseudo-thumb for gripping bamboo stalks",
+    "specialized diet consisting almost entirely of bamboo"
+  ],
+  [
+    "eel",
+    "a long snake-like fish",
+    "dark brown, green, or black coloration",
+    "an elongated cylindrical body up to 6 feet long",
+    "continuous dorsal and anal fins",
+    "scaleless slimy skin and catadromous life cycle"
+  ],
+  [
+    "clownfish",
+    "a small marine fish",
+    "bright orange body with white bands outlined in black",
+    "a compact oval body 2-5 inches long",
+    "protective mucus coating for anemone symbiosis",
+    "sequential hermaphroditism and anemone partnership"
+  ],
+  [
+    "pufferfish",
+    "a medium-sized marine fish",
+    "brown, grey, or yellow coloration with patterns",
+    "a rounded body that can inflate when threatened",
+    "large eyes and beak-like mouth",
+    "toxic tetrodotoxin in organs for defense"
+  ],
+  [
+    "accordion",
+    "a portable musical instrument",
+    "black or colored exterior with metallic buttons",
+    "a rectangular bellows-operated design",
+    "piano-style keys on one side and buttons on other",
+    "reed-based sound production through air pressure"
+  ],
+  [
+    "ambulance",
+    "an emergency medical vehicle",
+    "white color with red cross markings",
+    "a large box-shaped body with high roof",
+    "flashing lights and emergency sirens",
+    "specialized medical equipment and stretcher capacity"
+  ],
+  [
+    "assault rifle",
+    "a military firearm",
+    "black or camouflage coloration",
+    "a long barrel with pistol grip and stock",
+    "selective fire capability and detachable magazine",
+    "intermediate cartridge and effective range up to 400 meters"
+  ],
+  [
+    "backpack",
+    "a portable carrying bag",
+    "various colors including black, blue, or red",
+    "a rectangular shape with shoulder straps",
+    "multiple compartments and zippers",
+    "padded straps and water-resistant material"
+  ],
+  [
+    "barn",
+    "a large agricultural building",
+    "red color with white trim traditionally",
+    "a rectangular structure with peaked roof",
+    "large doors for equipment and animal access",
+    "hay loft storage and ventilation systems"
+  ],
+  [
+    "wheelbarrow",
+    "a wheeled garden tool",
+    "red, green, or galvanized metal coloration",
+    "a deep tray with single wheel and two handles",
+    "pneumatic tire for easy rolling over terrain",
+    "tilting mechanism for dumping loads"
+  ],
+  [
+    "basketball",
+    "a spherical sports ball",
+    "orange color with black curved lines",
+    "a round shape 9.4 inches in diameter",
+    "pebbled leather surface for grip",
+    "specific air pressure for proper bounce characteristics"
+  ],
+  [
+    "bathtub",
+    "a large bathroom fixture",
+    "white or colored porcelain finish",
+    "an elongated oval basin shape",
+    "faucet and drain fittings",
+    "smooth interior surface and overflow drain"
+  ],
+  [
+    "lighthouse",
+    "a tall navigational structure",
+    "white color with red or colored stripes",
+    "a cylindrical tower with lantern room on top",
+    "powerful rotating beacon light",
+    "spiral staircase and coastal positioning"
+  ],
+  [
+    "beer glass",
+    "a drinking vessel",
+    "clear transparent glass material",
+    "a cylindrical or tapered shape with handle",
+    "thick bottom and rim for durability",
+    "capacity typically ranging from 12-20 ounces"
+  ],
+  [
+    "binoculars",
+    "an optical viewing instrument",
+    "black or camouflage coloration",
+    "dual telescope tubes joined together",
+    "adjustable eyepieces and focus wheel",
+    "magnification power typically 8x to 12x"
+  ],
+  [
+    "birdhouse",
+    "a small shelter for birds",
+    "natural wood or painted bright colors",
+    "a box shape with sloped roof",
+    "entrance hole sized for specific bird species",
+    "mounting hardware and drainage holes"
+  ],
+  [
+    "bow tie",
+    "a formal neckwear accessory",
+    "black, white, or patterned fabric",
+    "a butterfly or batwing shape",
+    "adjustable neck band and center knot",
+    "silk or satin material with formal appearance"
+  ],
+  [
+    "broom",
+    "a cleaning tool",
+    "natural wood handle with straw or synthetic bristles",
+    "a long straight handle with wide brush head",
+    "tightly bound bristles for sweeping debris",
+    "angled cut bristles for corner cleaning"
+  ],
+  [
+    "bucket",
+    "a cylindrical container",
+    "galvanized steel or plastic in various colors",
+    "a wide opening with curved handle",
+    "reinforced rim and pour spout",
+    "capacity typically ranging from 1-5 gallons"
+  ],
+  [
+    "cauldron",
+    "a large cooking pot",
+    "black cast iron construction",
+    "a round deep bowl with three legs",
+    "heavy-duty handle for lifting",
+    "thick walls for even heat distribution"
+  ],
+  [
+    "candle",
+    "a wax lighting source",
+    "white, colored, or natural wax appearance",
+    "a cylindrical or shaped form with wick",
+    "steady flame when lit",
+    "melting wax and pleasant fragrance options"
+  ],
+  [
+    "cannon",
+    "a large artillery weapon",
+    "dark metal or bronze coloration",
+    "a long cylindrical barrel on wheeled carriage",
+    "muzzle-loading design with large bore",
+    "historical military significance and ceremonial use"
+  ],
+  [
+    "canoe",
+    "a narrow watercraft",
+    "natural wood or colored fiberglass finish",
+    "a long pointed shape with open top",
+    "lightweight construction for portability",
+    "paddle propulsion and shallow water capability"
+  ],
+  [
+    "carousel",
+    "a rotating amusement ride",
+    "bright multicolored decorative paint",
+    "a circular platform with ornate horses",
+    "calliope music and up-down motion",
+    "elaborate Victorian-style decorations"
+  ],
+  [
+    "castle",
+    "a fortified medieval structure",
+    "grey stone construction",
+    "massive walls with towers and battlements",
+    "defensive features like moats and drawbridges",
+    "great halls and royal living quarters"
+  ],
+  [
+    "mobile phone",
+    "a portable communication device",
+    "black, white, or colored plastic/metal casing",
+    "a rectangular shape fitting in palm",
+    "touchscreen display and camera",
+    "wireless connectivity and app functionality"
+  ],
+  [
+    "cowboy hat",
+    "a wide-brimmed hat",
+    "brown, black, or tan felt or straw material",
+    "a high crown with creased top",
+    "wide upturned brim for sun protection",
+    "chin strap and decorative hatband"
+  ],
+  [
+    "electric guitar",
+    "a stringed musical instrument",
+    "various colors with glossy finish",
+    "a solid body with long neck",
+    "six strings and electronic pickups",
+    "amplification capability and effects processing"
+  ],
+  [
+    "fire truck",
+    "an emergency response vehicle",
+    "bright red color for visibility",
+    "a large chassis with extended ladder",
+    "water tanks and firefighting equipment",
+    "flashing lights and loud sirens"
+  ],
+  [
+    "flute",
+    "a woodwind musical instrument",
+    "silver or gold metallic finish",
+    "a long cylindrical tube with holes",
+    "keys and pads for note production",
+    "side-blown embouchure and high pitch range"
+  ],
+  [
+    "gas mask or respirator",
+    "protective breathing equipment",
+    "black or olive green rubber construction",
+    "a full face coverage with eye protection",
+    "replaceable filter cartridges",
+    "sealed design for chemical protection"
+  ],
+  [
+    "grand piano",
+    "a large keyboard instrument",
+    "black or wood-grain finish",
+    "a horizontal string layout with curved case",
+    "88 keys and three pedals",
+    "concert-quality sound projection and resonance"
+  ],
+  [
+    "guillotine",
+    "a historical execution device",
+    "dark wood frame with metal blade",
+    "a tall vertical structure with sliding mechanism",
+    "weighted blade for swift operation",
+    "restraining stocks and release mechanism"
+  ],
+  [
+    "hammer",
+    "a striking tool",
+    "steel head with wooden or fiberglass handle",
+    "a weighted head with flat striking surface",
+    "claw or ball peen on opposite end",
+    "ergonomic grip and balanced weight distribution"
+  ],
+  [
+    "harmonica",
+    "a small wind instrument",
+    "chrome or colored metal casing",
+    "a rectangular shape with holes",
+    "reed plates for sound production",
+    "diatonic or chromatic note arrangement"
+  ],
+  [
+    "harp",
+    "a large stringed instrument",
+    "gold or wood finish with decorative details",
+    "a triangular frame with vertical strings",
+    "pedals for pitch adjustment",
+    "concert size reaching 6 feet in height"
+  ],
+  [
+    "hatchet",
+    "a small axe tool",
+    "steel blade with wooden handle",
+    "a compact single-handed design",
+    "sharp cutting edge and hammer poll",
+    "lightweight construction for portability"
+  ],
+  [
+    "jeep",
+    "a rugged off-road vehicle",
+    "olive green or various utility colors",
+    "a boxy design with high ground clearance",
+    "four-wheel drive capability",
+    "removable doors and fold-down windshield"
+  ],
+  [
+    "joystick",
+    "a gaming control device",
+    "black plastic construction with colored buttons",
+    "a vertical stick with grip handle",
+    "directional movement and trigger buttons",
+    "USB or wireless connectivity"
+  ],
+  [
+    "lab coat",
+    "protective medical clothing",
+    "white color for cleanliness visibility",
+    "a long length reaching below knees",
+    "button front closure and multiple pockets",
+    "cotton or polyester blend material"
+  ],
+  [
+    "lawn mower",
+    "a grass cutting machine",
+    "red, green, or black colored housing",
+    "a wheeled platform with cutting deck",
+    "rotating blade system and grass collection bag",
+    "push or self-propelled operation"
+  ],
+  [
+    "lipstick",
+    "a cosmetic product",
+    "various colors in metallic tube",
+    "a small cylindrical shape",
+    "retractable waxy formula",
+    "smooth application and color payoff"
+  ],
+  [
+    "mailbox",
+    "a mail receptacle",
+    "red, blue, or black painted metal",
+    "a rectangular or cylindrical shape",
+    "hinged door and mail slot",
+    "weather-resistant construction and locking mechanism"
+  ],
+  [
+    "missile",
+    "a guided projectile weapon",
+    "white or camouflage coloration",
+    "a cylindrical body with fins",
+    "guidance system and explosive warhead",
+    "rocket propulsion and long-range capability"
+  ],
+  [
+    "mitten",
+    "a hand warming garment",
+    "various colors in wool or synthetic material",
+    "a thumb section and finger compartment",
+    "knitted or sewn construction",
+    "cuff extending over wrist"
+  ],
+  [
+    "parachute",
+    "a fabric descent device",
+    "bright colors for visibility",
+    "a large circular or square canopy",
+    "suspension lines and harness system",
+    "controlled descent rate and steering capability"
+  ],
+  [
+    "pickup truck",
+    "a light-duty vehicle",
+    "various colors with durable paint finish",
+    "an open cargo bed behind cab",
+    "higher ground clearance than cars",
+    "towing capability and four-wheel drive options"
+  ],
+  [
+    "pirate ship",
+    "a historical sailing vessel",
+    "dark wood hull with weathered appearance",
+    "multiple masts with square-rigged sails",
+    "cannon ports and skull-and-crossbones flag",
+    "crew quarters and treasure storage areas"
+  ],
+  [
+    "revolver",
+    "a rotating cylinder handgun",
+    "blued steel or stainless finish",
+    "a curved grip and trigger guard",
+    "rotating cylinder holding 6 rounds",
+    "single or double-action firing mechanism"
+  ],
+  [
+    "rugby ball",
+    "an oval sports ball",
+    "brown leather with white stitching",
+    "an elongated oval shape with pointed ends",
+    "textured surface for grip",
+    "specific size and weight regulations"
+  ],
+  [
+    "sandal",
+    "an open-toe footwear",
+    "various colors in leather or synthetic materials",
+    "a sole with strap system",
+    "minimal foot coverage for ventilation",
+    "buckle or slip-on closure"
+  ],
+  [
+    "saxophone",
+    "a brass wind instrument",
+    "golden brass finish with lacquer",
+    "a curved conical body with keys",
+    "single reed mouthpiece",
+    "rich tone quality and jazz association"
+  ],
+  [
+    "school bus",
+    "a student transport vehicle",
+    "bright yellow color for safety",
+    "a long rectangular body with high seating",
+    "stop sign arm and flashing lights",
+    "multiple passenger windows and emergency exits"
+  ],
+  [
+    "schooner",
+    "a sailing vessel",
+    "white or varnished wood hull",
+    "two or more masts with fore-and-aft sails",
+    "sleek lines for speed",
+    "traditional rigging and maritime heritage"
+  ],
+  [
+    "shield",
+    "a defensive weapon",
+    "metallic finish with heraldic designs",
+    "a circular or rectangular shape",
+    "arm straps and handle grip",
+    "reinforced construction for protection"
+  ],
+  [
+    "soccer ball",
+    "a spherical sports ball",
+    "black and white hexagonal pattern",
+    "a round shape 27-28 inches in circumference",
+    "synthetic leather panels",
+    "specific air pressure for consistent bounce"
+  ],
+  [
+    "space shuttle",
+    "a reusable spacecraft",
+    "white color with black heat tiles",
+    "a winged orbiter design",
+    "large cargo bay and crew compartment",
+    "rocket engines and landing capability"
+  ],
+  [
+    "spider web",
+    "a silk structure",
+    "transparent or silvery appearance",
+    "a radial pattern with spiral threads",
+    "sticky capture spirals",
+    "geometric precision and strength"
+  ],
+  [
+    "steam locomotive",
+    "a coal-powered train engine",
+    "black color with brass and steel details",
+    "a large boiler with smokestack",
+    "driving wheels and coupling rods",
+    "steam whistle and vintage railroad heritage"
+  ],
+  [
+    "scarf",
+    "a neck accessory",
+    "various colors and patterns",
+    "a long rectangular shape",
+    "soft fabric like silk or wool",
+    "decorative and warming functions"
+  ],
+  [
+    "submarine",
+    "an underwater vessel",
+    "dark grey or black hull",
+    "a cylindrical pressure hull with conning tower",
+    "periscope and diving capability",
+    "ballast tanks for submerging"
+  ],
+  [
+    "tank",
+    "an armored combat vehicle",
+    "camouflage or olive green paint",
+    "a heavily armored hull with turret",
+    "tracked propulsion system",
+    "main gun and machine gun armament"
+  ],
+  [
+    "tennis ball",
+    "a sports ball",
+    "fluorescent yellow-green color",
+    "a spherical shape 2.7 inches in diameter",
+    "fuzzy felt covering",
+    "pressurized core for consistent bounce"
+  ],
+  [
+    "tractor",
+    "an agricultural vehicle",
+    "red, green, or blue color schemes",
+    "a powerful engine with large rear wheels",
+    "hydraulic systems for implement attachment",
+    "cab protection and farming versatility"
+  ],
+  [
+    "trombone",
+    "a brass wind instrument",
+    "golden brass finish",
+    "a long slide mechanism",
+    "a large bell and mouthpiece",
+    "seven slide positions for different pitches"
+  ],
+  [
+    "vase",
+    "a decorative container",
+    "various colors in ceramic or glass",
+    "a tall narrow shape with wide opening",
+    "smooth glazed surface",
+    "flower-holding purpose and artistic design"
+  ],
+  [
+    "violin",
+    "a bowed string instrument",
+    "reddish-brown wood finish with varnish",
+    "a curved body with f-holes",
+    "four strings and fine tuners",
+    "chin rest and shoulder rest for playing position"
+  ],
+  [
+    "military aircraft",
+    "a combat airplane",
+    "grey or camouflage paint scheme",
+    "swept wings and jet engines",
+    "weapon systems and radar equipment",
+    "high speed and maneuverability"
+  ],
+  [
+    "wine bottle",
+    "a beverage container",
+    "dark green or clear glass",
+    "a tall narrow shape with long neck",
+    "cork closure and wine label",
+    "750ml standard capacity"
+  ],
+  [
+    "ice cream",
+    "a frozen dessert",
+    "various colors depending on flavor",
+    "a scooped round shape on cone or in bowl",
+    "creamy smooth texture",
+    "sweet taste and cold temperature"
+  ],
+  [
+    "bagel",
+    "a ring-shaped bread",
+    "golden brown color with shiny crust",
+    "a round shape with hole in center",
+    "dense chewy texture",
+    "various toppings like sesame or poppy seeds"
+  ],
+  [
+    "pretzel",
+    "a twisted baked snack",
+    "golden brown color with salt crystals",
+    "a distinctive knot shape",
+    "crispy crunchy texture",
+    "traditional German origin and salty flavor"
+  ],
+  [
+    "cheeseburger",
+    "a sandwich food",
+    "golden brown bun with colorful ingredients",
+    "a layered construction with meat patty",
+    "cheese, lettuce, tomato, and condiments",
+    "handheld size and fast-food popularity"
+  ],
+  [
+    "hot dog",
+    "a sausage food",
+    "pink or brown meat color in bun",
+    "a cylindrical shape in split bun",
+    "various toppings like mustard and relish",
+    "grilled or boiled preparation methods"
+  ],
+  [
+    "cabbage",
+    "a leafy vegetable",
+    "green or purple coloration",
+    "a round compact head of leaves",
+    "thick crunchy texture",
+    "mild flavor and high nutritional value"
+  ],
+  [
+    "broccoli",
+    "a cruciferous vegetable",
+    "bright green color",
+    "a tree-like structure with florets",
+    "thick edible stem and leaves",
+    "high vitamin C content and healthy reputation"
+  ],
+  [
+    "cucumber",
+    "a vine vegetable",
+    "bright green skin with pale interior",
+    "a cylindrical elongated shape",
+    "high water content and crisp texture",
+    "mild refreshing taste and cooling properties"
+  ],
+  [
+    "bell pepper",
+    "a sweet pepper vegetable",
+    "red, yellow, green, or orange colors",
+    "a bell-like shape with thick walls",
+    "crisp texture and sweet flavor",
+    "high vitamin C content and versatile cooking uses"
+  ],
+  [
+    "mushroom",
+    "an edible fungus",
+    "white, brown, or tan coloration",
+    "a cap and stem structure",
+    "soft spongy texture",
+    "earthy flavor and umami taste"
+  ],
+  [
+    "Granny Smith apple",
+    "a tart apple variety",
+    "bright green skin color",
+    "a round shape with slight ribbing",
+    "firm crisp white flesh",
+    "tart flavor perfect for baking"
+  ],
+  [
+    "strawberry",
+    "a red berry fruit",
+    "bright red color with green leafy top",
+    "a heart-shaped form with seeds on surface",
+    "sweet juicy flesh",
+    "high vitamin C and antioxidant content"
+  ],
+  [
+    "lemon",
+    "a citrus fruit",
+    "bright yellow color",
+    "an oval shape with pointed ends",
+    "sour acidic juice and aromatic zest",
+    "high citric acid content and culinary versatility"
+  ],
+  [
+    "pineapple",
+    "a tropical fruit",
+    "golden yellow flesh with spiky brown exterior",
+    "a cylindrical shape with crown of leaves",
+    "sweet tangy flavor and juicy texture",
+    "bromelain enzyme and tropical origin"
+  ],
+  [
+    "banana",
+    "a tropical fruit",
+    "yellow color when ripe",
+    "a curved elongated shape",
+    "soft sweet flesh and edible peel",
+    "high potassium content and quick energy"
+  ],
+  [
+    "pomegranate",
+    "a seeded fruit",
+    "deep red exterior and interior",
+    "a round shape with crown-like calyx",
+    "hundreds of ruby-red seeds inside",
+    "antioxidant properties and tart-sweet flavor"
+  ],
+  [
+    "pizza",
+    "a flatbread dish",
+    "golden brown crust with colorful toppings",
+    "a circular flat shape cut into triangular slices",
+    "cheese, sauce, and various toppings",
+    "Italian origin and worldwide popularity"
+  ],
+  [
+    "burrito",
+    "a wrapped food",
+    "tan tortilla exterior with colorful filling",
+    "a cylindrical wrapped shape",
+    "rice, beans, meat, and vegetable filling",
+    "Mexican origin and handheld convenience"
+  ],
+  [
+    "espresso",
+    "a coffee beverage",
+    "dark brown color with golden crema",
+    "a small concentrated serving size",
+    "intense rich flavor and aroma",
+    "Italian origin and high caffeine concentration"
+  ],
+  [
+    "volcano",
+    "a geological formation",
+    "dark rock with red lava flows",
+    "a conical mountain shape with crater",
+    "explosive eruption capability",
+    "magma chamber and tectonic plate activity"
+  ],
+  [
+    "baseball player",
+    "a sports athlete",
+    "team uniform colors with number",
+    "athletic build with cap and glove",
+    "batting stance or fielding position",
+    "professional training and competitive skills"
+  ],
+  [
+    "scuba diver",
+    "an underwater explorer",
+    "black wetsuit with bright equipment",
+    "full-body coverage with diving mask and fins",
+    "oxygen tank and breathing apparatus",
+    "underwater navigation and safety equipment"
+  ],
+  [
+    "acorn",
+    "a tree nut",
+    "brown color with lighter cap",
+    "an oval shape with pointed bottom",
+    "hard shell protecting inner seed",
+    "oak tree origin and wildlife food source"
+  ]
+]
+  

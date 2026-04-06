@@ -1,0 +1,602 @@
+[
+  [
+    "goldfish"
+  ],
+  [
+    "great white shark"
+  ],
+  [
+    "hammerhead shark"
+  ],
+  [
+    "stingray"
+  ],
+  [
+    "hen"
+  ],
+  [
+    "ostrich"
+  ],
+  [
+    "goldfinch"
+  ],
+  [
+    "junco"
+  ],
+  [
+    "bald eagle"
+  ],
+  [
+    "vulture"
+  ],
+  [
+    "smooth newt"
+  ],
+  [
+    "axolotl"
+  ],
+  [
+    "tree frog"
+  ],
+  [
+    "green iguana"
+  ],
+  [
+    "chameleon"
+  ],
+  [
+    "Indian cobra"
+  ],
+  [
+    "scorpion"
+  ],
+  [
+    "tarantula"
+  ],
+  [
+    "centipede"
+  ],
+  [
+    "peafowl"
+  ],
+  [
+    "lorikeet"
+  ],
+  [
+    "hummingbird"
+  ],
+  [
+    "toucan"
+  ],
+  [
+    "duck"
+  ],
+  [
+    "goose"
+  ],
+  [
+    "black swan"
+  ],
+  [
+    "koala"
+  ],
+  [
+    "jellyfish"
+  ],
+  [
+    "snail"
+  ],
+  [
+    "American lobster"
+  ],
+  [
+    "hermit crab"
+  ],
+  [
+    "flamingo"
+  ],
+  [
+    "great egret"
+  ],
+  [
+    "pelican"
+  ],
+  [
+    "king penguin"
+  ],
+  [
+    "grey whale"
+  ],
+  [
+    "killer whale"
+  ],
+  [
+    "sea lion"
+  ],
+  [
+    "Chihuahua"
+  ],
+  [
+    "Shih Tzu"
+  ],
+  [
+    "Afghan Hound"
+  ],
+  [
+    "Basset Hound"
+  ],
+  [
+    "Beagle"
+  ],
+  [
+    "Bloodhound"
+  ],
+  [
+    "Italian Greyhound"
+  ],
+  [
+    "Whippet"
+  ],
+  [
+    "Weimaraner"
+  ],
+  [
+    "Yorkshire Terrier"
+  ],
+  [
+    "Boston Terrier"
+  ],
+  [
+    "Scottish Terrier"
+  ],
+  [
+    "West Highland White Terrier"
+  ],
+  [
+    "Golden Retriever"
+  ],
+  [
+    "Labrador Retriever"
+  ],
+  [
+    "Cocker Spaniel"
+  ],
+  [
+    "collie"
+  ],
+  [
+    "Border Collie"
+  ],
+  [
+    "Rottweiler"
+  ],
+  [
+    "German Shepherd Dog"
+  ],
+  [
+    "Boxer"
+  ],
+  [
+    "French Bulldog"
+  ],
+  [
+    "St. Bernard"
+  ],
+  [
+    "Siberian Husky"
+  ],
+  [
+    "Dalmatian"
+  ],
+  [
+    "pug"
+  ],
+  [
+    "Pomeranian"
+  ],
+  [
+    "Chow Chow"
+  ],
+  [
+    "Pembroke Welsh Corgi"
+  ],
+  [
+    "Toy Poodle"
+  ],
+  [
+    "Standard Poodle"
+  ],
+  [
+    "grey wolf"
+  ],
+  [
+    "hyena"
+  ],
+  [
+    "red fox"
+  ],
+  [
+    "tabby cat"
+  ],
+  [
+    "leopard"
+  ],
+  [
+    "snow leopard"
+  ],
+  [
+    "lion"
+  ],
+  [
+    "tiger"
+  ],
+  [
+    "cheetah"
+  ],
+  [
+    "polar bear"
+  ],
+  [
+    "meerkat"
+  ],
+  [
+    "ladybug"
+  ],
+  [
+    "fly"
+  ],
+  [
+    "bee"
+  ],
+  [
+    "ant"
+  ],
+  [
+    "grasshopper"
+  ],
+  [
+    "cockroach"
+  ],
+  [
+    "praying mantis"
+  ],
+  [
+    "dragonfly"
+  ],
+  [
+    "monarch butterfly"
+  ],
+  [
+    "starfish"
+  ],
+  [
+    "cottontail rabbit"
+  ],
+  [
+    "porcupine"
+  ],
+  [
+    "fox squirrel"
+  ],
+  [
+    "beaver"
+  ],
+  [
+    "guinea pig"
+  ],
+  [
+    "zebra"
+  ],
+  [
+    "pig"
+  ],
+  [
+    "hippopotamus"
+  ],
+  [
+    "bison"
+  ],
+  [
+    "gazelle"
+  ],
+  [
+    "llama"
+  ],
+  [
+    "skunk"
+  ],
+  [
+    "badger"
+  ],
+  [
+    "orangutan"
+  ],
+  [
+    "gorilla"
+  ],
+  [
+    "chimpanzee"
+  ],
+  [
+    "gibbon"
+  ],
+  [
+    "baboon"
+  ],
+  [
+    "giant panda"
+  ],
+  [
+    "eel"
+  ],
+  [
+    "clownfish"
+  ],
+  [
+    "pufferfish"
+  ],
+  [
+    "accordion"
+  ],
+  [
+    "ambulance"
+  ],
+  [
+    "assault rifle"
+  ],
+  [
+    "backpack"
+  ],
+  [
+    "barn"
+  ],
+  [
+    "wheelbarrow"
+  ],
+  [
+    "basketball"
+  ],
+  [
+    "bathtub"
+  ],
+  [
+    "lighthouse"
+  ],
+  [
+    "beer glass"
+  ],
+  [
+    "binoculars"
+  ],
+  [
+    "birdhouse"
+  ],
+  [
+    "bow tie"
+  ],
+  [
+    "broom"
+  ],
+  [
+    "bucket"
+  ],
+  [
+    "cauldron"
+  ],
+  [
+    "candle"
+  ],
+  [
+    "cannon"
+  ],
+  [
+    "canoe"
+  ],
+  [
+    "carousel"
+  ],
+  [
+    "castle"
+  ],
+  [
+    "mobile phone"
+  ],
+  [
+    "cowboy hat"
+  ],
+  [
+    "electric guitar"
+  ],
+  [
+    "fire truck"
+  ],
+  [
+    "flute"
+  ],
+  [
+    "gas mask or respirator"
+  ],
+  [
+    "grand piano"
+  ],
+  [
+    "guillotine"
+  ],
+  [
+    "hammer"
+  ],
+  [
+    "harmonica"
+  ],
+  [
+    "harp"
+  ],
+  [
+    "hatchet"
+  ],
+  [
+    "jeep"
+  ],
+  [
+    "joystick"
+  ],
+  [
+    "lab coat"
+  ],
+  [
+    "lawn mower"
+  ],
+  [
+    "lipstick"
+  ],
+  [
+    "mailbox"
+  ],
+  [
+    "missile"
+  ],
+  [
+    "mitten"
+  ],
+  [
+    "parachute"
+  ],
+  [
+    "pickup truck"
+  ],
+  [
+    "pirate ship"
+  ],
+  [
+    "revolver"
+  ],
+  [
+    "rugby ball"
+  ],
+  [
+    "sandal"
+  ],
+  [
+    "saxophone"
+  ],
+  [
+    "school bus"
+  ],
+  [
+    "schooner"
+  ],
+  [
+    "shield"
+  ],
+  [
+    "soccer ball"
+  ],
+  [
+    "space shuttle"
+  ],
+  [
+    "spider web"
+  ],
+  [
+    "steam locomotive"
+  ],
+  [
+    "scarf"
+  ],
+  [
+    "submarine"
+  ],
+  [
+    "tank"
+  ],
+  [
+    "tennis ball"
+  ],
+  [
+    "tractor"
+  ],
+  [
+    "trombone"
+  ],
+  [
+    "vase"
+  ],
+  [
+    "violin"
+  ],
+  [
+    "military aircraft"
+  ],
+  [
+    "wine bottle"
+  ],
+  [
+    "ice cream"
+  ],
+  [
+    "bagel"
+  ],
+  [
+    "pretzel"
+  ],
+  [
+    "cheeseburger"
+  ],
+  [
+    "hot dog"
+  ],
+  [
+    "cabbage"
+  ],
+  [
+    "broccoli"
+  ],
+  [
+    "cucumber"
+  ],
+  [
+    "bell pepper"
+  ],
+  [
+    "mushroom"
+  ],
+  [
+    "Granny Smith apple"
+  ],
+  [
+    "strawberry"
+  ],
+  [
+    "lemon"
+  ],
+  [
+    "pineapple"
+  ],
+  [
+    "banana"
+  ],
+  [
+    "pomegranate"
+  ],
+  [
+    "pizza"
+  ],
+  [
+    "burrito"
+  ],
+  [
+    "espresso"
+  ],
+  [
+    "volcano"
+  ],
+  [
+    "baseball player"
+  ],
+  [
+    "scuba diver"
+  ],
+  [
+    "acorn"
+  ]
+]

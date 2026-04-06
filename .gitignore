@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+.DS_Store
+.ipynb_checkpoints/
+logs/
+*.log
+entropy_log.json
+prediction_log.json
+slowthink_gpt_log.json

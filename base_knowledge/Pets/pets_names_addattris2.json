@@ -1,0 +1,261 @@
+[
+  [
+    "abyssinian",
+    "slender fine-boned cat",
+    "short ruddy ticked coat",
+    "large almond-shaped amber eyes",
+    "big pointed ears"
+  ],
+  [
+    "american_bulldog",
+    "large muscular dog",
+    "short smooth white coat often with patches",
+    "broad square head with strong jaws",
+    "medium pendant or semi-prick ears"
+  ],
+  [
+    "american_pit_bull_terrier",
+    "medium strong athletic dog",
+    "short glossy coat in many colors",
+    "broad flat head with round eyes",
+    "medium semi-prick ears"
+  ],
+  [
+    "basset_hound",
+    "elongated short-legged dog",
+    "short dense tricolor coat",
+    "very long drooping ears",
+    "loose wrinkled facial skin"
+  ],
+  [
+    "beagle",
+    "small compact dog",
+    "short dense tricolor coat",
+    "large soft brown eyes",
+    "long floppy ears"
+  ],
+  [
+    "bengal",
+    "muscular athletic cat",
+    "short dense coat with leopard-like spots",
+    "green or gold expressive eyes",
+    "small rounded ears"
+  ],
+  [
+    "birman",
+    "sturdy medium cat",
+    "long silky pointed coat with white gloves",
+    "deep blue round eyes",
+    "medium rounded ears"
+  ],
+  [
+    "bombay",
+    "medium compact cat",
+    "short sleek jet-black coat",
+    "copper or golden round eyes",
+    "small rounded ears"
+  ],
+  [
+    "boxer",
+    "medium muscular dog",
+    "short smooth fawn or brindle coat",
+    "broad head with short muzzle",
+    "medium floppy ears"
+  ],
+  [
+    "british_Shorthair",
+    "cobby heavy-set cat",
+    "short dense plush blue-gray coat",
+    "large round copper eyes",
+    "small rounded ears"
+  ],
+  [
+    "chihuahua",
+    "tiny delicate dog",
+    "short smooth or long flowing coat",
+    "apple-shaped head with large eyes",
+    "large erect ears"
+  ],
+  [
+    "egyptian_Mau",
+    "graceful medium cat",
+    "short fine spotted silver or bronze coat",
+    "large green almond eyes",
+    "medium slightly flared ears"
+  ],
+  [
+    "english_cocker_spaniel",
+    "medium sturdy dog",
+    "medium silky coat with feathering",
+    "gentle round dark eyes",
+    "long pendulous ears"
+  ],
+  [
+    "english_setter",
+    "large athletic dog",
+    "long flat silky coat with feathering",
+    "white coat with speckled belton markings",
+    "long low-set ears"
+  ],
+  [
+    "german_shorthaired",
+    "athletic medium-large dog",
+    "short sleek liver or ticked coat",
+    "broad head with long muzzle",
+    "medium floppy ears"
+  ],
+  [
+    "great_pyrenees",
+    "giant majestic dog",
+    "long thick white double coat",
+    "broad head with dark gentle eyes",
+    "small pendant ears"
+  ],
+  [
+    "havanese",
+    "small sturdy dog",
+    "long silky wavy coat",
+    "rounded head with dark expressive eyes",
+    "plumed tail curled over back"
+  ],
+  [
+    "japanese_chin",
+    "tiny compact dog",
+    "long flowing silky coat",
+    "broad short muzzle with large round eyes",
+    "plumed tail carried over back"
+  ],
+  [
+    "keeshond",
+    "medium sturdy dog",
+    "thick double coat with mane-like ruff",
+    "fox-like face with dark spectacles",
+    "plumed tail curled tightly over back"
+  ],
+  [
+    "leonberger",
+    "giant powerful dog",
+    "medium-long dense golden coat with black mask",
+    "broad head with dark eyes",
+    "long bushy tail carried low"
+  ],
+  [
+    "maine_Coon",
+    "large muscular cat",
+    "long shaggy coat with mane",
+    "tall tufted ears with lynx tips",
+    "very long bushy tail"
+  ],
+  [
+    "miniature_pinscher",
+    "small compact dog",
+    "short smooth red or black-and-tan coat",
+    "narrow head with dark eyes",
+    "erect ears set high"
+  ],
+  [
+    "newfoundland",
+    "giant heavy dog",
+    "thick water-resistant double coat",
+    "broad head with gentle expression",
+    "long bushy tail"
+  ],
+  [
+    "persian",
+    "cobby round-bodied cat",
+    "long thick flowing coat",
+    "flat face with short nose",
+    "large round copper eyes"
+  ],
+  [
+    "pomeranian",
+    "tiny fluffy dog",
+    "long dense double coat",
+    "fox-like head with bright eyes",
+    "plumed tail curled over back"
+  ],
+  [
+    "pug",
+    "small compact dog",
+    "short smooth fawn or black coat",
+    "round head with flat wrinkled face",
+    "curled tail tightly over back"
+  ],
+  [
+    "ragdoll",
+    "large docile cat",
+    "semi-long silky coat with pointed coloration",
+    "blue oval eyes",
+    "long plumed tail"
+  ],
+  [
+    "russian_Blue",
+    "slender elegant cat",
+    "short dense plush blue-gray coat",
+    "vivid green almond eyes",
+    "long tapering tail"
+  ],
+  [
+    "saint_bernard",
+    "giant massive dog",
+    "short or medium dense coat",
+    "broad head with drooping lips",
+    "long heavy tail"
+  ],
+  [
+    "samoyed",
+    "large fluffy dog",
+    "long thick white coat",
+    "broad head with smiling expression",
+    "plumed tail curled over back"
+  ],
+  [
+    "scottish_terrier",
+    "small sturdy dog",
+    "hard wiry medium coat",
+    "long head with bushy eyebrows",
+    "erect tail carried upright"
+  ],
+  [
+    "shiba_inu",
+    "small compact dog",
+    "double coat with stiff outer hair",
+    "fox-like head with dark almond eyes",
+    "curled tail over back"
+  ],
+  [
+    "siamese",
+    "slender fine-boned cat",
+    "short sleek cream coat with dark points",
+    "wedge-shaped head with blue almond eyes",
+    "long thin tail"
+  ],
+  [
+    "sphynx",
+    "medium muscular cat",
+    "hairless wrinkled skin",
+    "large lemon-shaped eyes",
+    "big upright ears"
+  ],
+  [
+    "staffordshire_bull_terrier",
+    "medium muscular dog",
+    "short smooth coat",
+    "broad head with strong jaw",
+    "medium tapering tail"
+  ],
+  [
+    "wheaten_terrier",
+    "medium sturdy dog",
+    "soft silky wheaten-colored coat",
+    "rectangular head with small ears",
+    "medium erect tail"
+  ],
+  [
+    "yorkshire_terrier",
+    "tiny delicate dog",
+    "long silky steel blue and tan coat",
+    "small head with dark eyes",
+    "long straight tail"
+  ]
+]

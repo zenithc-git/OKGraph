@@ -1,0 +1,602 @@
+[
+  [
+    "accordion",
+    "musical instrument with bellows",
+    "expandable pleated section",
+    "keyboard on one side"
+  ],
+  [
+    "airplane",
+    "flying vehicle with wings",
+    "fixed wings and engines",
+    "body for passengers or cargo"
+  ],
+  [
+    "anchor",
+    "heavy metal ship mooring device",
+    "curved hooks that dig into seabed",
+    "long shaft with ring"
+  ],
+  [
+    "ant",
+    "small social insect",
+    "six legs and segmented body",
+    "antennae and mandibles"
+  ],
+  [
+    "barrel",
+    "cylindrical liquid container",
+    "wooden staves with metal hoops",
+    "flat circular ends"
+  ],
+  [
+    "bass",
+    "large stringed instrument",
+    "four thick strings",
+    "long neck and hollow body"
+  ],
+  [
+    "beaver",
+    "semi-aquatic rodent",
+    "flat paddle-shaped tail",
+    "webbed feet and large teeth"
+  ],
+  [
+    "binocular",
+    "optical magnifying instrument",
+    "two telescopes joined together",
+    "adjustable eyepieces"
+  ],
+  [
+    "bonsai",
+    "miniature tree in container",
+    "pruned branches and roots",
+    "shallow decorative pot"
+  ],
+  [
+    "brain",
+    "central nervous system organ",
+    "folded gray surface",
+    "two connected hemispheres"
+  ],
+  [
+    "brontosaurus",
+    "large long-necked dinosaur",
+    "very long tail",
+    "four massive legs"
+  ],
+  [
+    "buddha",
+    "seated meditation figure",
+    "crossed legs position",
+    "robes and serene expression"
+  ],
+  [
+    "butterfly",
+    "flying insect with colorful wings",
+    "four large patterned wings",
+    "long antennae and slender body"
+  ],
+  [
+    "camera",
+    "photograph capturing device",
+    "lens and viewfinder",
+    "buttons and controls"
+  ],
+  [
+    "cannon",
+    "large military weapon",
+    "long cylindrical barrel",
+    "wheels and firing mechanism"
+  ],
+  [
+    "car_side",
+    "side view of automobile",
+    "four wheels and doors",
+    "windows and lights"
+  ],
+  [
+    "ceiling_fan",
+    "overhead rotating appliance",
+    "multiple angled blades",
+    "motor housing in center"
+  ],
+  [
+    "cellphone",
+    "portable communication device",
+    "rectangular screen",
+    "buttons or touch interface"
+  ],
+  [
+    "chair",
+    "furniture for sitting",
+    "four legs and seat",
+    "backrest for support"
+  ],
+  [
+    "chandelier",
+    "ornate hanging light fixture",
+    "multiple extending arms",
+    "decorative crystals or glass"
+  ],
+  [
+    "cougar_body",
+    "large wild cat body",
+    "muscular build",
+    "long tail and tawny fur"
+  ],
+  [
+    "cougar_face",
+    "wild cat head",
+    "piercing eyes",
+    "black nose and rounded ears"
+  ],
+  [
+    "crab",
+    "hard-shelled crustacean",
+    "two large claws",
+    "eight walking legs"
+  ],
+  [
+    "crayfish",
+    "freshwater crustacean",
+    "large claws and antennae",
+    "segmented tail fan"
+  ],
+  [
+    "crocodile",
+    "large semi-aquatic reptile",
+    "long snout with sharp teeth",
+    "armored scales and powerful tail"
+  ],
+  [
+    "crocodile_head",
+    "large reptile skull",
+    "elongated jaws with teeth",
+    "eyes and nostrils on top"
+  ],
+  [
+    "cup",
+    "small drinking vessel",
+    "handle for gripping",
+    "circular rim"
+  ],
+  [
+    "dalmatian",
+    "spotted dog breed",
+    "black spots on white fur",
+    "lean athletic build"
+  ],
+  [
+    "dollar_bill",
+    "paper currency",
+    "green ink and designs",
+    "portraits and official seals"
+  ],
+  [
+    "dolphin",
+    "intelligent marine mammal",
+    "streamlined body and fin",
+    "beak-like snout and blowhole"
+  ],
+  [
+    "dragonfly",
+    "flying insect with transparent wings",
+    "four large wings",
+    "huge eyes and long abdomen"
+  ],
+  [
+    "electric_guitar",
+    "amplified stringed instrument",
+    "magnetic pickups",
+    "solid body with controls"
+  ],
+  [
+    "elephant",
+    "largest land mammal",
+    "long flexible trunk",
+    "large ears and thick legs"
+  ],
+  [
+    "emu",
+    "large flightless bird",
+    "long legs for running",
+    "long neck and brown feathers"
+  ],
+  [
+    "euphonium",
+    "brass wind instrument",
+    "conical bore and wide bell",
+    "valves and curved tubing"
+  ],
+  [
+    "ewer",
+    "decorative pitcher",
+    "wide body and narrow neck",
+    "ornate spout and patterns"
+  ],
+  [
+    "face",
+    "front of human head",
+    "eyes, nose, and mouth",
+    "eyebrows and cheeks"
+  ],
+  [
+    "ferry",
+    "passenger and vehicle boat",
+    "multiple decks",
+    "loading ramps and windows"
+  ],
+  [
+    "flamingo",
+    "pink wading bird",
+    "curved S-shaped neck",
+    "long legs and curved beak"
+  ],
+  [
+    "flamingo_head",
+    "pink bird head and neck",
+    "curved black-tipped beak",
+    "long neck and small eyes"
+  ],
+  [
+    "garfield",
+    "orange cartoon cat",
+    "black stripes on orange fur",
+    "round face with grumpy expression"
+  ],
+  [
+    "gerenuk",
+    "long-necked African antelope",
+    "extremely long thin legs",
+    "large ears and reddish coat"
+  ],
+  [
+    "gramophone",
+    "early sound recording device",
+    "large horn for amplification",
+    "rotating turntable"
+  ],
+  [
+    "grand_piano",
+    "large horizontal instrument",
+    "curved wing-shaped body",
+    "88 keys and pedals"
+  ],
+  [
+    "hawksbill",
+    "sea turtle with overlapping shell",
+    "hooked beak",
+    "flippers and tortoiseshell pattern"
+  ],
+  [
+    "headphone",
+    "audio device for ears",
+    "two ear cups with headband",
+    "padded cushions"
+  ],
+  [
+    "hedgehog",
+    "small spiny mammal",
+    "sharp quills on back",
+    "pointed snout"
+  ],
+  [
+    "helicopter",
+    "rotorcraft with spinning blades",
+    "main rotor on top",
+    "tail rotor and landing gear"
+  ],
+  [
+    "ibis",
+    "wading bird with curved beak",
+    "long thin legs",
+    "downward-curved bill"
+  ],
+  [
+    "inline_skate",
+    "roller skate with wheels in line",
+    "three to five wheels in row",
+    "ankle boot with brake"
+  ],
+  [
+    "joshua_tree",
+    "tall desert plant",
+    "thick branching trunk",
+    "clusters of spiky leaves"
+  ],
+  [
+    "kangaroo",
+    "large hopping marsupial",
+    "powerful hind legs",
+    "long tail and pouch"
+  ],
+  [
+    "ketch",
+    "two-masted sailing vessel",
+    "main mast and shorter mizzen",
+    "triangular sails"
+  ],
+  [
+    "lamp",
+    "electrical lighting device",
+    "base and shade",
+    "switch for control"
+  ],
+  [
+    "laptop",
+    "portable computer",
+    "hinged folding screen",
+    "built-in keyboard"
+  ],
+  [
+    "leopard",
+    "spotted wild cat",
+    "rosette spots on golden fur",
+    "muscular build"
+  ],
+  [
+    "llama",
+    "South American camelid",
+    "long curved neck",
+    "thick woolly fur"
+  ],
+  [
+    "lobster",
+    "large marine crustacean",
+    "two large claws",
+    "segmented tail with fan"
+  ],
+  [
+    "lotus",
+    "sacred water flower",
+    "large round petals",
+    "floating circular leaves"
+  ],
+  [
+    "mandolin",
+    "small stringed instrument",
+    "eight strings in pairs",
+    "pear-shaped body"
+  ],
+  [
+    "mayfly",
+    "delicate flying insect",
+    "large transparent wings",
+    "long tail filaments"
+  ],
+  [
+    "menorah",
+    "Jewish ceremonial candelabrum",
+    "seven or nine branches",
+    "central stem with arms"
+  ],
+  [
+    "metronome",
+    "musical timing device",
+    "swinging pendulum",
+    "pyramidal wooden case"
+  ],
+  [
+    "minaret",
+    "tall tower at mosque",
+    "cylindrical shaft",
+    "balcony and pointed top"
+  ],
+  [
+    "motorbike",
+    "two-wheeled motor vehicle",
+    "engine between wheels",
+    "handlebars and seat"
+  ],
+  [
+    "nautilus",
+    "marine mollusk with spiral shell",
+    "chambered shell with patterns",
+    "tentacles from opening"
+  ],
+  [
+    "octopus",
+    "marine mollusk with eight arms",
+    "suction cups on tentacles",
+    "bulbous head with large eyes"
+  ],
+  [
+    "okapi",
+    "forest giraffe with striped legs",
+    "reddish fur with white stripes",
+    "long tongue and short horns"
+  ],
+  [
+    "pagoda",
+    "multi-story Asian tower",
+    "multiple levels with upturned eaves",
+    "ornate decorations"
+  ],
+  [
+    "panda",
+    "black and white bear",
+    "black patches around eyes",
+    "round body shape"
+  ],
+  [
+    "pigeon",
+    "common urban bird",
+    "iridescent neck feathers",
+    "plump body and small head"
+  ],
+  [
+    "pizza",
+    "round flatbread with toppings",
+    "melted cheese surface",
+    "tomato sauce base"
+  ],
+  [
+    "platypus",
+    "egg-laying mammal with duck bill",
+    "flat beaver-like tail",
+    "webbed feet"
+  ],
+  [
+    "pyramid",
+    "triangular stone monument",
+    "four faces meeting at point",
+    "square base"
+  ],
+  [
+    "revolver",
+    "handgun with rotating cylinder",
+    "cylinder holding bullets",
+    "trigger and grip"
+  ],
+  [
+    "rhino",
+    "large thick-skinned mammal",
+    "horns on snout",
+    "thick gray skin"
+  ],
+  [
+    "rooster",
+    "male chicken with colorful plumage",
+    "large red comb",
+    "curved tail feathers"
+  ],
+  [
+    "saxophone",
+    "brass wind instrument",
+    "curved body with reed",
+    "keys and flared bell"
+  ],
+  [
+    "schooner",
+    "sailing ship with multiple masts",
+    "fore-and-aft sails",
+    "sleek hull"
+  ],
+  [
+    "scissors",
+    "cutting tool with two blades",
+    "sharp pivoting blades",
+    "finger holes in handles"
+  ],
+  [
+    "scorpion",
+    "arachnid with venomous tail",
+    "large pincers",
+    "segmented tail with stinger"
+  ],
+  [
+    "sea_horse",
+    "marine fish with horse-like head",
+    "curled prehensile tail",
+    "long tubular snout"
+  ],
+  [
+    "snoopy",
+    "white cartoon beagle",
+    "black ears and nose",
+    "round head and body"
+  ],
+  [
+    "soccer_ball",
+    "spherical ball for football",
+    "black and white panels",
+    "round shape with seams"
+  ],
+  [
+    "stapler",
+    "office binding tool",
+    "hinged metal body",
+    "spring mechanism"
+  ],
+  [
+    "starfish",
+    "marine animal with radiating arms",
+    "five arms from central body",
+    "tube feet underneath"
+  ],
+  [
+    "stegosaurus",
+    "dinosaur with back plates",
+    "large triangular plates in rows",
+    "tail spikes"
+  ],
+  [
+    "stop_sign",
+    "octagonal red traffic sign",
+    "white STOP letters",
+    "eight equal sides"
+  ],
+  [
+    "strawberry",
+    "red heart-shaped fruit",
+    "small surface seeds",
+    "green leafy top"
+  ],
+  [
+    "sunflower",
+    "large yellow flower",
+    "yellow petals around dark center",
+    "tall thick stem"
+  ],
+  [
+    "tick",
+    "small blood-sucking arachnid",
+    "eight legs when mature",
+    "flattened oval body"
+  ],
+  [
+    "trilobite",
+    "extinct marine arthropod fossil",
+    "segmented three-lobed body",
+    "compound eyes on stalks"
+  ],
+  [
+    "umbrella",
+    "collapsible rain canopy",
+    "fabric over metal ribs",
+    "central pole with handle"
+  ],
+  [
+    "watch",
+    "wrist timepiece",
+    "circular face with markers",
+    "hands and strap"
+  ],
+  [
+    "water_lilly",
+    "floating aquatic flower",
+    "broad floating leaves",
+    "large petals with yellow center"
+  ],
+  [
+    "wheelchair",
+    "mobility aid with wheels",
+    "two large rear wheels",
+    "seat with backrest"
+  ],
+  [
+    "wild_cat",
+    "small feline predator",
+    "striped or spotted fur",
+    "sharp claws and pointed ears"
+  ],
+  [
+    "windsor_chair",
+    "wooden chair with spindle back",
+    "vertical spindles in back",
+    "solid wooden seat"
+  ],
+  [
+    "wrench",
+    "tool for gripping nuts and bolts",
+    "adjustable jaw openings",
+    "long handle for leverage"
+  ],
+  [
+    "yin_yang",
+    "circular balance symbol",
+    "two interlocking curved sections",
+    "contrasting black and white colors"
+  ]
+]

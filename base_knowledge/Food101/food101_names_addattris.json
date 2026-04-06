@@ -1,0 +1,812 @@
+[
+    [
+      "apple_pie",
+      "traditional American dessert with fruit filling",
+      "flaky golden-brown crust",
+      "sweet cinnamon-spiced apple chunks",
+      "lattice or solid top pastry layer",
+      "crimped edges around the rim"
+    ],
+    [
+      "baby_back_ribs",
+      "slow-cooked pork ribs from the back",
+      "curved rack of bones with meat",
+      "glossy barbecue sauce coating",
+      "charred or caramelized edges",
+      "tender meat between bones"
+    ],
+    [
+      "baklava",
+      "Middle Eastern layered pastry dessert",
+      "thin crispy phyllo dough layers",
+      "chopped nuts between each layer",
+      "sweet honey or syrup glaze",
+      "diamond or square cut shapes"
+    ],
+    [
+      "beef_carpaccio",
+      "thinly sliced raw beef appetizer",
+      "paper-thin translucent red meat slices",
+      "olive oil and lemon dressing",
+      "shaved parmesan cheese on top",
+      "arugula or microgreens as garnish"
+    ],
+    [
+      "beef_tartare",
+      "finely chopped raw beef dish",
+      "minced red meat in round shape",
+      "raw egg yolk on top",
+      "capers and onions as garnish",
+      "seasoning mixed throughout"
+    ],
+    [
+      "beet_salad",
+      "salad featuring cooked beets",
+      "deep purple or red beet slices",
+      "goat cheese crumbles",
+      "mixed greens as base",
+      "nuts and vinaigrette dressing"
+    ],
+    [
+      "beignets",
+      "French fried dough pastries",
+      "square or rectangular shape",
+      "puffy golden-brown exterior",
+      "thick coating of powdered sugar",
+      "hollow airy interior"
+    ],
+    [
+      "bibimbap",
+      "Korean mixed rice bowl",
+      "white rice as base layer",
+      "colorful arranged vegetables on top",
+      "fried egg in center",
+      "red gochujang sauce"
+    ],
+    [
+      "bread_pudding",
+      "baked dessert made from stale bread",
+      "cubed bread pieces throughout",
+      "custard soaked texture",
+      "golden-brown baked top",
+      "raisins or dried fruit mixed in"
+    ],
+    [
+      "breakfast_burrito",
+      "wrapped tortilla with morning ingredients",
+      "large flour tortilla wrapping",
+      "scrambled eggs inside",
+      "cheese and breakfast meat filling",
+      "cylindrical rolled shape"
+    ],
+    [
+      "bruschetta",
+      "Italian toasted bread appetizer",
+      "grilled bread slices as base",
+      "diced tomatoes on top",
+      "fresh basil leaves",
+      "olive oil drizzle"
+    ],
+    [
+      "caesar_salad",
+      "classic Roman salad with romaine",
+      "crisp romaine lettuce leaves",
+      "parmesan cheese shavings",
+      "crunchy croutons",
+      "creamy white caesar dressing"
+    ],
+    [
+      "cannoli",
+      "Italian fried pastry tube dessert",
+      "crispy tubular shell",
+      "sweet ricotta cream filling",
+      "chocolate chips at ends",
+      "powdered sugar dusting"
+    ],
+    [
+      "caprese_salad",
+      "Italian salad with tomato and mozzarella",
+      "thick sliced red tomatoes",
+      "white mozzarella rounds",
+      "fresh basil leaves between slices",
+      "balsamic glaze drizzle"
+    ],
+    [
+      "carrot_cake",
+      "spiced cake with shredded carrots",
+      "orange-brown cake layers",
+      "white cream cheese frosting",
+      "shredded carrots throughout",
+      "chopped walnuts or pecans"
+    ],
+    [
+      "ceviche",
+      "Latin American raw fish dish",
+      "cubed white fish pieces",
+      "citrus marinade coating",
+      "diced onions and cilantro",
+      "colorful peppers mixed in"
+    ],
+    [
+      "cheese_plate",
+      "assorted cheese presentation",
+      "multiple cheese varieties arranged",
+      "crackers or bread alongside",
+      "grapes or dried fruits",
+      "nuts scattered around"
+    ],
+    [
+      "cheesecake",
+      "creamy cheese-based dessert",
+      "thick pale yellow filling layer",
+      "graham cracker crust base",
+      "smooth flat top surface",
+      "fruit or sauce topping"
+    ],
+    [
+      "chicken_curry",
+      "Indian spiced chicken stew",
+      "orange or yellow curry sauce",
+      "chicken pieces in sauce",
+      "aromatic spices throughout",
+      "thick gravy consistency"
+    ],
+    [
+      "chicken_quesadilla",
+      "Mexican grilled tortilla with chicken",
+      "folded or flat tortilla",
+      "melted cheese inside",
+      "grilled chicken pieces",
+      "golden-brown grill marks"
+    ],
+    [
+      "chicken_wings",
+      "fried or baked chicken wing pieces",
+      "small drumettes and flats",
+      "crispy skin exterior",
+      "sauce coating or dry rub",
+      "visible bone structure"
+    ],
+    [
+      "chocolate_cake",
+      "rich cocoa-based layer cake",
+      "dark brown cake layers",
+      "chocolate frosting between layers",
+      "moist dense crumb texture",
+      "chocolate shavings or ganache"
+    ],
+    [
+      "chocolate_mousse",
+      "airy French chocolate dessert",
+      "light fluffy texture",
+      "dark brown color",
+      "smooth creamy consistency",
+      "whipped cream topping"
+    ],
+    [
+      "churros",
+      "Spanish fried dough pastry",
+      "long ridged cylindrical shape",
+      "golden-brown crispy exterior",
+      "cinnamon sugar coating",
+      "star-shaped ridges along length"
+    ],
+    [
+      "clam_chowder",
+      "creamy seafood soup",
+      "thick white or cream-colored broth",
+      "clam pieces throughout",
+      "diced potatoes and celery",
+      "bacon bits on top"
+    ],
+    [
+      "club_sandwich",
+      "triple-decker sandwich with multiple fillings",
+      "three layers of toasted bread",
+      "turkey and bacon slices",
+      "lettuce and tomato layers",
+      "toothpicks holding sections together"
+    ],
+    [
+      "crab_cakes",
+      "fried patties made from crab meat",
+      "golden-brown round patties",
+      "visible lump crab meat",
+      "crispy breaded exterior",
+      "creamy interior texture"
+    ],
+    [
+      "creme_brulee",
+      "French custard dessert with caramelized top",
+      "smooth pale custard base",
+      "hard caramelized sugar crust",
+      "shallow ramekin presentation",
+      "cracked glassy top surface"
+    ],
+    [
+      "croque_madame",
+      "French ham and cheese sandwich with egg",
+      "grilled bread with melted cheese",
+      "ham slices inside",
+      "fried egg on top",
+      "creamy bechamel sauce"
+    ],
+    [
+      "cup_cakes",
+      "individual-sized frosted cakes",
+      "paper wrapper around base",
+      "domed cake top",
+      "swirled frosting on top",
+      "sprinkles or decorations"
+    ],
+    [
+      "deviled_eggs",
+      "stuffed hard-boiled egg halves",
+      "white egg white halves",
+      "yellow yolk filling piped in center",
+      "paprika sprinkled on top",
+      "oval boat-like shape"
+    ],
+    [
+      "donuts",
+      "fried sweet dough rings",
+      "circular shape with hole in center",
+      "glazed or frosted coating",
+      "colorful sprinkles or toppings",
+      "soft fluffy interior"
+    ],
+    [
+      "dumplings",
+      "filled dough pockets",
+      "pleated crescent or round shape",
+      "thin translucent wrapper",
+      "meat or vegetable filling inside",
+      "steamed or fried texture"
+    ],
+    [
+      "edamame",
+      "steamed young soybeans in pods",
+      "bright green color",
+      "fuzzy oval pods",
+      "beans visible inside pods",
+      "coarse salt coating"
+    ],
+    [
+      "eggs_benedict",
+      "poached eggs on English muffin",
+      "toasted English muffin base",
+      "poached eggs with runny yolk",
+      "hollandaise sauce drizzled over",
+      "ham or bacon underneath eggs"
+    ],
+    [
+      "escargots",
+      "cooked snails in garlic butter",
+      "snails in spiral shells",
+      "garlic butter sauce",
+      "parsley garnish",
+      "special serving dish with indentations"
+    ],
+    [
+      "falafel",
+      "fried Middle Eastern chickpea balls",
+      "round or oval brown balls",
+      "crispy textured exterior",
+      "green interior from herbs",
+      "rough bumpy surface"
+    ],
+    [
+      "filet_mignon",
+      "tender beef steak cut",
+      "thick round steak shape",
+      "charred grill marks",
+      "pink to red center when sliced",
+      "minimal fat marbling"
+    ],
+    [
+      "fish_and_chips",
+      "British fried fish with potato",
+      "large battered fish fillet",
+      "thick-cut fried potato wedges",
+      "golden-brown crispy coating",
+      "lemon wedge on side"
+    ],
+    [
+      "foie_gras",
+      "luxury fatty duck or goose liver",
+      "pale beige or pink color",
+      "smooth creamy texture",
+      "rectangular or round slice shape",
+      "rich buttery appearance"
+    ],
+    [
+      "french_fries",
+      "deep-fried potato strips",
+      "long thin rectangular strips",
+      "golden-yellow color",
+      "crispy exterior texture",
+      "salt crystals on surface"
+    ],
+    [
+      "french_onion_soup",
+      "caramelized onion soup with cheese",
+      "dark brown broth",
+      "melted cheese crust on top",
+      "toasted bread floating",
+      "caramelized onion strands throughout"
+    ],
+    [
+      "french_toast",
+      "egg-battered fried bread slices",
+      "thick bread slices",
+      "golden-brown surface",
+      "powdered sugar dusting",
+      "syrup pooling on plate"
+    ],
+    [
+      "fried_calamari",
+      "deep-fried squid rings",
+      "circular ring shapes",
+      "golden breaded coating",
+      "crispy crunchy texture",
+      "lemon wedges alongside"
+    ],
+    [
+      "fried_rice",
+      "stir-fried rice with vegetables",
+      "individual separated rice grains",
+      "mixed vegetables throughout",
+      "scrambled egg pieces",
+      "soy sauce brown coloring"
+    ],
+    [
+      "frozen_yogurt",
+      "soft-serve frozen dessert",
+      "swirled soft-serve shape",
+      "pale pastel colors",
+      "smooth creamy texture",
+      "toppings sprinkled on surface"
+    ],
+    [
+      "garlic_bread",
+      "toasted bread with garlic butter",
+      "sliced bread pieces",
+      "golden-brown toasted surface",
+      "visible garlic pieces",
+      "melted butter sheen"
+    ],
+    [
+      "gnocchi",
+      "Italian potato dumplings",
+      "small pillow-shaped pieces",
+      "ridged or smooth surface",
+      "pale white or yellow color",
+      "sauce coating each piece"
+    ],
+    [
+      "greek_salad",
+      "Mediterranean salad with feta",
+      "chunky cucumber and tomato pieces",
+      "white feta cheese cubes",
+      "black olives scattered",
+      "red onion slices"
+    ],
+    [
+      "grilled_cheese_sandwich",
+      "toasted sandwich with melted cheese",
+      "golden-brown toasted bread",
+      "melted cheese visible at edges",
+      "crispy buttered exterior",
+      "grill marks or pressed lines"
+    ],
+    [
+      "grilled_salmon",
+      "cooked salmon fillet",
+      "pink to orange flesh color",
+      "charred grill marks on surface",
+      "flaky layered texture",
+      "crispy skin on one side"
+    ],
+    [
+      "guacamole",
+      "mashed avocado dip",
+      "chunky green paste texture",
+      "diced tomatoes and onions mixed in",
+      "cilantro leaves throughout",
+      "lime juice coating"
+    ],
+    [
+      "gyoza",
+      "Japanese pan-fried dumplings",
+      "crescent-shaped pleated wrapper",
+      "crispy golden bottom",
+      "soft steamed top portion",
+      "visible pleats along edge"
+    ],
+    [
+      "hamburger",
+      "ground beef patty in bun",
+      "round sesame seed bun",
+      "beef patty between buns",
+      "lettuce and tomato layers",
+      "melted cheese slice"
+    ],
+    [
+      "hot_and_sour_soup",
+      "spicy Chinese soup with vinegar",
+      "dark brown murky broth",
+      "visible mushroom strips",
+      "tofu cubes floating",
+      "egg ribbons throughout"
+    ],
+    [
+      "hot_dog",
+      "sausage in elongated bun",
+      "long split bun",
+      "cylindrical sausage inside",
+      "condiment stripes on top",
+      "grilled or steamed appearance"
+    ],
+    [
+      "huevos_rancheros",
+      "Mexican fried eggs with salsa",
+      "fried eggs on tortilla",
+      "red or green salsa covering",
+      "refried beans on side",
+      "crumbled cheese topping"
+    ],
+    [
+      "hummus",
+      "Middle Eastern chickpea dip",
+      "smooth beige paste",
+      "swirled circular presentation",
+      "olive oil pool in center",
+      "paprika or herbs sprinkled on top"
+    ],
+    [
+      "ice_cream",
+      "frozen dairy dessert",
+      "rounded scoops in bowl or cone",
+      "smooth creamy texture",
+      "various colors depending on flavor",
+      "melting edges or drips"
+    ],
+    [
+      "lasagna",
+      "Italian layered pasta dish",
+      "visible horizontal pasta layers",
+      "red meat sauce between layers",
+      "melted cheese on top",
+      "rectangular baked casserole shape"
+    ],
+    [
+      "lobster_bisque",
+      "creamy lobster soup",
+      "smooth orange-pink color",
+      "thick velvety texture",
+      "lobster meat pieces floating",
+      "cream swirl on surface"
+    ],
+    [
+      "lobster_roll_sandwich",
+      "lobster meat in split-top bun",
+      "toasted split-top hot dog bun",
+      "chunky lobster meat filling",
+      "mayonnaise coating",
+      "lettuce underneath meat"
+    ],
+    [
+      "macaroni_and_cheese",
+      "pasta in cheese sauce",
+      "elbow macaroni noodles",
+      "creamy orange cheese sauce",
+      "breadcrumb topping when baked",
+      "gooey melted texture"
+    ],
+    [
+      "macarons",
+      "French sandwich cookies",
+      "two round flat cookies",
+      "smooth domed tops",
+      "ruffled feet at base",
+      "filling between cookie halves"
+    ],
+    [
+      "miso_soup",
+      "Japanese soybean paste soup",
+      "cloudy brown or beige broth",
+      "tofu cubes floating",
+      "seaweed pieces",
+      "green onion garnish"
+    ],
+    [
+      "mussels",
+      "cooked shellfish in shells",
+      "dark blue-black shells",
+      "orange or cream-colored meat inside",
+      "shells opened to reveal meat",
+      "broth or sauce pooling"
+    ],
+    [
+      "nachos",
+      "tortilla chips with toppings",
+      "triangular tortilla chips layered",
+      "melted cheese drizzled over",
+      "jalapeños and sour cream",
+      "colorful toppings scattered"
+    ],
+    [
+      "omelette",
+      "folded egg dish",
+      "half-moon folded shape",
+      "golden-yellow egg exterior",
+      "filling visible at edges",
+      "fluffy thick texture"
+    ],
+    [
+      "onion_rings",
+      "deep-fried battered onion circles",
+      "circular ring shapes",
+      "golden-brown breading",
+      "crispy textured coating",
+      "hollow center opening"
+    ],
+    [
+      "oysters",
+      "raw shellfish on half shell",
+      "rough gray shells",
+      "glistening gray meat inside",
+      "served on ice bed",
+      "lemon wedges alongside"
+    ],
+    [
+      "pad_thai",
+      "Thai stir-fried rice noodle dish",
+      "flat rice noodles",
+      "orange-brown sauce coating",
+      "bean sprouts and peanuts",
+      "lime wedge on side"
+    ],
+    [
+      "paella",
+      "Spanish rice dish with seafood",
+      "yellow saffron rice base",
+      "shellfish arranged on top",
+      "large shallow pan presentation",
+      "lemon wedges around edges"
+    ],
+    [
+      "pancakes",
+      "flat griddle cakes stacked",
+      "round flat cake layers stacked",
+      "golden-brown surface",
+      "butter pat on top",
+      "syrup dripping down sides"
+    ],
+    [
+      "panna_cotta",
+      "Italian molded cream dessert",
+      "smooth white custard dome",
+      "jelly-like wobbling texture",
+      "fruit sauce or coulis on top",
+      "glossy surface sheen"
+    ],
+    [
+      "peking_duck",
+      "Chinese roasted duck dish",
+      "crispy mahogany-colored skin",
+      "thin sliced duck meat",
+      "served with thin pancakes",
+      "glossy lacquered appearance"
+    ],
+    [
+      "pho",
+      "Vietnamese noodle soup",
+      "clear brown broth",
+      "flat rice noodles submerged",
+      "thin beef slices on top",
+      "fresh herbs and bean sprouts"
+    ],
+    [
+      "pizza",
+      "round flatbread with toppings",
+      "circular shape with slices",
+      "melted cheese covering surface",
+      "tomato sauce base layer",
+      "various toppings scattered"
+    ],
+    [
+      "pork_chop",
+      "grilled or fried pork cut",
+      "thick meat chop with bone",
+      "charred grill marks",
+      "bone protruding from edge",
+      "browned seared surface"
+    ],
+    [
+      "poutine",
+      "Canadian fries with gravy and cheese",
+      "french fries as base",
+      "brown gravy poured over",
+      "cheese curds on top",
+      "melting cheese pieces"
+    ],
+    [
+      "prime_rib",
+      "roasted beef rib cut",
+      "large bone-in beef roast",
+      "pink to red interior",
+      "browned crusty exterior",
+      "visible rib bones"
+    ],
+    [
+      "pulled_pork_sandwich",
+      "shredded pork in bun",
+      "soft hamburger bun",
+      "stringy shredded pork filling",
+      "barbecue sauce coating",
+      "coleslaw topping"
+    ],
+    [
+      "ramen",
+      "Japanese noodle soup",
+      "curly yellow noodles",
+      "rich brown or white broth",
+      "soft-boiled egg halves",
+      "sliced pork and green onions"
+    ],
+    [
+      "ravioli",
+      "stuffed Italian pasta squares",
+      "square or round pasta pillows",
+      "crimped sealed edges",
+      "filling visible through pasta",
+      "sauce coating each piece"
+    ],
+    [
+      "red_velvet_cake",
+      "red-colored layered cake",
+      "deep red or burgundy cake layers",
+      "white cream cheese frosting",
+      "multiple stacked layers",
+      "moist dense crumb texture"
+    ],
+    [
+      "risotto",
+      "Italian creamy rice dish",
+      "individual rice grains in cream",
+      "thick creamy consistency",
+      "pale white or colored sauce",
+      "ingredients mixed throughout"
+    ],
+    [
+      "samosa",
+      "Indian fried pastry triangle",
+      "triangular or cone shape",
+      "golden-brown flaky crust",
+      "spiced filling inside",
+      "crispy layered exterior"
+    ],
+    [
+      "sashimi",
+      "sliced raw fish",
+      "thin rectangular fish slices",
+      "vibrant pink, red, or white color",
+      "arranged in rows on plate",
+      "garnish of shredded daikon"
+    ],
+    [
+      "scallops",
+      "seared shellfish medallions",
+      "round disc-shaped pieces",
+      "golden-brown seared crust",
+      "white or cream interior",
+      "caramelized surface"
+    ],
+    [
+      "seaweed_salad",
+      "Japanese marinated seaweed dish",
+      "bright green stringy strands",
+      "glossy oily coating",
+      "sesame seeds sprinkled",
+      "tangled noodle-like appearance"
+    ],
+    [
+      "shrimp_and_grits",
+      "Southern dish with shrimp and cornmeal",
+      "creamy white grits base",
+      "pink cooked shrimp on top",
+      "sauce or gravy coating",
+      "green onions or herbs garnish"
+    ],
+    [
+      "spaghetti_bolognese",
+      "pasta with meat sauce",
+      "long thin spaghetti noodles",
+      "red meat sauce on top",
+      "ground beef throughout sauce",
+      "parmesan cheese sprinkled"
+    ],
+    [
+      "spaghetti_carbonara",
+      "pasta with egg and bacon sauce",
+      "long spaghetti noodles",
+      "creamy white sauce coating",
+      "bacon or pancetta pieces",
+      "black pepper specks"
+    ],
+    [
+      "spring_rolls",
+      "wrapped Asian appetizer rolls",
+      "cylindrical rolled shape",
+      "translucent rice paper wrapper",
+      "vegetables visible through wrapper",
+      "served whole or halved"
+    ],
+    [
+      "steak",
+      "grilled beef cut",
+      "thick rectangular meat portion",
+      "charred grill marks on surface",
+      "pink to red center when cut",
+      "juices pooling on plate"
+    ],
+    [
+      "strawberry_shortcake",
+      "layered cake with strawberries",
+      "light golden cake layers",
+      "fresh sliced strawberries between layers",
+      "whipped cream topping",
+      "whole strawberry garnish"
+    ],
+    [
+      "sushi",
+      "Japanese rice with fish",
+      "small rectangular or round pieces",
+      "white rice base or wrap",
+      "raw fish on top or inside",
+      "nori seaweed wrapping"
+    ],
+    [
+      "tacos",
+      "Mexican folded tortilla dish",
+      "folded corn or flour tortilla",
+      "meat filling inside",
+      "shredded lettuce and cheese",
+      "salsa or sauce topping"
+    ],
+    [
+      "takoyaki",
+      "Japanese octopus balls",
+      "round ball shape",
+      "golden-brown exterior",
+      "octopus piece inside",
+      "sauce drizzle and bonito flakes on top"
+    ],
+    [
+      "tiramisu",
+      "Italian coffee-flavored dessert",
+      "layered rectangular dessert",
+      "cocoa powder dusted top",
+      "coffee-soaked ladyfinger layers",
+      "mascarpone cream between layers"
+    ],
+    [
+      "tuna_tartare",
+      "diced raw tuna dish",
+      "small cubed red tuna pieces",
+      "molded cylindrical or square shape",
+      "sesame seeds coating",
+      "avocado or cucumber accompaniment"
+    ],
+    [
+      "waffles",
+      "grid-patterned breakfast cake",
+      "square or round shape",
+      "deep grid pattern indentations",
+      "golden-brown crispy exterior",
+      "butter and syrup in grid squares"
+    ]
+  ]
+  
+  

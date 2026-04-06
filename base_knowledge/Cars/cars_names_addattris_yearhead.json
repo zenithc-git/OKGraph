@@ -1,0 +1,1374 @@
+[
+  [
+    "2000 AM General Hummer SUV",
+    "large full-size SUV with a boxy military-style silhouette",
+    "flat vertical grille with multiple narrow slots",
+    "very wide body with high ground clearance",
+    "heavy-duty frame structure with angular panels"
+  ],
+  [
+    "2012 Acura RL Sedan",
+    "mid-size luxury sedan with smooth curved silhouette",
+    "shield-style grille with horizontal bars",
+    "balanced proportions with long hood and trunk",
+    "unibody sedan structure with four doors"
+  ],
+  [
+    "2012 Acura TL Sedan",
+    "mid-size sedan with sporty stance",
+    "angular shield-shaped grille",
+    "wide body with slightly shorter rear deck",
+    "four-door structure with integrated trunk"
+  ],
+  [
+    "2008 Acura TL Type S",
+    "mid-size sport sedan",
+    "sharp-edged shield grille with sporty detailing",
+    "low stance with wider body than base TL",
+    "four-door sedan structure with sport trim"
+  ],
+  [
+    "2012 Acura TSX Sedan",
+    "compact executive sedan",
+    "narrow grille with horizontal slats",
+    "balanced compact proportions with shorter overhangs",
+    "four-door sedan unibody"
+  ],
+  [
+    "2001 Acura Integra Type R",
+    "compact sporty coupe",
+    "small narrow grille above large air intake",
+    "low sleek proportions with short rear",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Acura ZDX Hatchback",
+    "mid-size crossover hatchback with sloping roof",
+    "shield-style Acura grille",
+    "high ride height with coupe-like profile",
+    "five-door hatchback crossover structure"
+  ],
+  [
+    "2012 Aston Martin V8 Vantage Convertible",
+    "compact luxury convertible sports car",
+    "signature Aston Martin wide oval grille",
+    "low sleek body with short rear deck",
+    "two-door convertible structure with soft top"
+  ],
+  [
+    "2012 Aston Martin V8 Vantage Coupe",
+    "compact luxury sports coupe",
+    "wide oval Aston Martin grille",
+    "very low stance with long hood and short tail",
+    "two-door coupe with rigid roof"
+  ],
+  [
+    "2012 Aston Martin Virage Convertible",
+    "luxury grand touring convertible",
+    "broad oval grille with chrome mesh",
+    "long proportions with wide track",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Aston Martin Virage Coupe",
+    "luxury grand touring coupe",
+    "broad oval Aston Martin grille",
+    "elongated hood and wide rear stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2008 Audi RS 4 Convertible",
+    "compact high-performance convertible",
+    "large single-frame Audi grille",
+    "low wide stance with short rear deck",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Audi A5 Coupe",
+    "mid-size luxury coupe",
+    "single-frame trapezoidal grille",
+    "smooth proportions with long doors",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Audi TTS Coupe",
+    "compact sports coupe",
+    "large hexagonal Audi grille with mesh",
+    "short wheelbase with low stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Audi R8 Coupe",
+    "supercar coupe",
+    "very wide hexagonal grille with side intakes",
+    "extremely low proportions with wide body",
+    "two-door coupe with mid-engine structure"
+  ],
+  [
+    "1994 Audi V8 Sedan",
+    "full-size luxury sedan",
+    "rectangular grille with chrome surround",
+    "long wheelbase with balanced three-box proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "1994 Audi 100 Sedan",
+    "mid-size sedan",
+    "rectangular grille integrated with headlights",
+    "long body with conservative stance",
+    "four-door sedan structure"
+  ],
+  [
+    "1994 Audi 100 Wagon",
+    "mid-size station wagon",
+    "rectangular grille integrated with lights",
+    "elongated body with extended roofline",
+    "five-door wagon structure"
+  ],
+  [
+    "2011 Audi TT Hatchback",
+    "compact sporty hatchback",
+    "hexagonal Audi grille",
+    "short wheelbase with rounded proportions",
+    "three-door hatchback coupe structure"
+  ],
+  [
+    "2011 Audi S6 Sedan",
+    "mid-size performance sedan",
+    "large single-frame Audi grille with chrome bars",
+    "low wide stance with long hood",
+    "four-door sedan structure with sport accents"
+  ],
+  [
+    "2012 Audi S5 Convertible",
+    "compact luxury convertible",
+    "large trapezoidal Audi grille with chrome accents",
+    "low sleek proportions with short rear deck",
+    "two-door convertible structure with soft top"
+  ],
+  [
+    "2012 Audi S5 Coupe",
+    "compact luxury coupe",
+    "Audi single-frame grille with sporty mesh",
+    "long hood with low roofline",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Audi S4 Sedan",
+    "compact performance sedan",
+    "hexagonal Audi grille with chrome surround",
+    "balanced three-box proportions",
+    "four-door sedan structure with sport trim"
+  ],
+  [
+    "2007 Audi S4 Sedan",
+    "compact performance sedan",
+    "rectangular Audi grille with chrome border",
+    "low stance with elongated body",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Audi TT RS Coupe",
+    "compact sports coupe",
+    "large hexagonal Audi grille with RS badging",
+    "short wheelbase with wide stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 BMW ActiveHybrid 5 Sedan",
+    "mid-size luxury hybrid sedan",
+    "BMW kidney grille with chrome surround",
+    "elongated body with balanced proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 BMW 1 Series Convertible",
+    "compact luxury convertible",
+    "small BMW kidney grille",
+    "short proportions with low stance",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 BMW 1 Series Coupe",
+    "compact luxury coupe",
+    "BMW twin kidney grille with chrome trim",
+    "short wheelbase with compact dimensions",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 BMW 3 Series Sedan",
+    "compact executive sedan",
+    "BMW twin kidney grille with sharp headlights",
+    "long hood with balanced three-box layout",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 BMW 3 Series Wagon",
+    "compact executive wagon",
+    "BMW twin kidney grille integrated with slim lights",
+    "elongated body with extended roofline",
+    "five-door wagon structure"
+  ],
+  [
+    "2007 BMW 6 Series Convertible",
+    "grand touring convertible",
+    "BMW wide kidney grille with swept headlights",
+    "long wheelbase with low sleek stance",
+    "two-door convertible structure"
+  ],
+  [
+    "2007 BMW X5 SUV",
+    "mid-size luxury SUV",
+    "BMW kidney grille with vertical slats",
+    "tall body with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 BMW X6 SUV",
+    "mid-size luxury crossover SUV",
+    "large BMW kidney grille with chrome trim",
+    "tall stance with coupe-like roofline",
+    "four-door SUV coupe structure"
+  ],
+  [
+    "2012 BMW M3 Coupe",
+    "compact high-performance coupe",
+    "BMW kidney grille with aggressive intakes",
+    "low wide stance with long hood",
+    "two-door coupe structure"
+  ],
+  [
+    "2010 BMW M5 Sedan",
+    "mid-size performance sedan",
+    "BMW twin kidney grille with sporty styling",
+    "balanced body with extended wheelbase",
+    "four-door sedan structure with sport trim"
+  ],
+  [
+    "2010 BMW M6 Convertible",
+    "luxury performance convertible",
+    "BMW wide kidney grille with mesh lower intakes",
+    "low sleek stance with long proportions",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 BMW X3 SUV",
+    "compact luxury SUV",
+    "BMW kidney grille with upright profile",
+    "shorter proportions than X5 with tall stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 BMW Z4 Convertible",
+    "compact luxury roadster",
+    "wide BMW kidney grille with slim headlights",
+    "long hood with very low stance",
+    "two-door convertible structure with retractable top"
+  ],
+  [
+    "2012 Bentley Continental Supersports Conv. Convertible",
+    "grand touring convertible",
+    "large rectangular Bentley matrix grille",
+    "wide body with low roofline",
+    "two-door convertible structure"
+  ],
+  [
+    "2009 Bentley Arnage Sedan",
+    "full-size luxury sedan",
+    "classic rectangular Bentley grille with vertical slats",
+    "long wheelbase with upright stance",
+    "four-door sedan structure with traditional luxury design"
+  ],
+  [
+    "2011 Bentley Mulsanne Sedan",
+    "full-size luxury sedan with imposing silhouette",
+    "large rectangular Bentley grille with vertical slats",
+    "very long wheelbase with upright stance",
+    "four-door sedan structure with classic proportions"
+  ],
+  [
+    "2012 Bentley Continental GT Coupe",
+    "grand touring luxury coupe",
+    "large oval Bentley mesh grille",
+    "wide stance with low roofline",
+    "two-door coupe structure"
+  ],
+  [
+    "2007 Bentley Continental GT Coupe",
+    "grand touring coupe",
+    "large oval Bentley grille with chrome frame",
+    "elongated proportions with broad body",
+    "two-door coupe structure"
+  ],
+  [
+    "2007 Bentley Continental Flying Spur Sedan",
+    "luxury performance sedan",
+    "large Bentley oval grille with chrome mesh",
+    "long body with balanced three-box proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2009 Bugatti Veyron 16.4 Convertible",
+    "hypercar roadster",
+    "horseshoe-shaped Bugatti grille",
+    "very low wide proportions with short height",
+    "two-door convertible structure with mid-engine layout"
+  ],
+  [
+    "2009 Bugatti Veyron 16.4 Coupe",
+    "hypercar coupe",
+    "horseshoe Bugatti grille with large side intakes",
+    "extremely low proportions with wide body",
+    "two-door coupe with mid-engine structure"
+  ],
+  [
+    "2012 Buick Regal GS",
+    "mid-size luxury sport sedan",
+    "Buick waterfall grille",
+    "balanced proportions with low sporty stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2007 Buick Rainier SUV",
+    "mid-size SUV",
+    "Buick vertical waterfall grille",
+    "tall upright body with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Buick Verano Sedan",
+    "compact luxury sedan",
+    "Buick waterfall grille with chrome surround",
+    "compact balanced proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Buick Enclave SUV",
+    "large crossover SUV",
+    "large waterfall Buick grille",
+    "broad tall proportions with curved roofline",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Cadillac CTS V Sedan",
+    "mid-size high-performance sedan",
+    "Cadillac shield-shaped grille with mesh",
+    "low wide proportions with angular body lines",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Cadillac SRX SUV",
+    "mid-size luxury SUV",
+    "Cadillac shield grille with chrome trim",
+    "tall stance with wide track",
+    "four-door SUV structure"
+  ],
+  [
+    "2007 Cadillac Escalade EXT Crew Cab",
+    "full-size luxury pickup truck",
+    "large chrome Cadillac grille",
+    "massive proportions with extended cab",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2012 Chevrolet Silverado 1500 Hybrid Crew Cab",
+    "full-size pickup truck",
+    "large rectangular Chevy grille with crossbar",
+    "very large boxy proportions",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2012 Chevrolet Corvette Convertible",
+    "sports convertible",
+    "low narrow Corvette grille",
+    "low sleek proportions with wide stance",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Chevrolet Corvette ZR1",
+    "high-performance sports coupe",
+    "low wide grille with Corvette emblem",
+    "extremely low body with wide track",
+    "two-door coupe structure"
+  ],
+  [
+    "2007 Chevrolet Corvette Ron Fellows Edition Z06",
+    "special edition sports coupe",
+    "low wide front grille with intake vents",
+    "low sleek body with broad stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Chevrolet Traverse SUV",
+    "mid-size crossover SUV",
+    "Chevy dual-port grille",
+    "large tall proportions with rounded body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Chevrolet Camaro Convertible",
+    "muscle car convertible",
+    "wide rectangular grille with narrow headlights",
+    "low wide stance with long hood",
+    "two-door convertible structure"
+  ],
+  [
+    "2010 Chevrolet HHR SS",
+    "compact retro-styled wagon",
+    "tall narrow Chevy grille",
+    "short compact proportions with high roof",
+    "five-door wagon structure"
+  ],
+  [
+    "2007 Chevrolet Impala Sedan",
+    "full-size sedan with conservative silhouette",
+    "Chevy split-grille with chrome crossbar",
+    "long wheelbase with balanced three-box body",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Chevrolet Tahoe Hybrid SUV",
+    "large full-size SUV",
+    "Chevy dual-port grille with chrome accents",
+    "tall and wide body with high ground clearance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Chevrolet Sonic Sedan",
+    "subcompact sedan with modern design",
+    "dual-port grille with thick crossbar",
+    "short body with compact stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2007 Chevrolet Express Cargo Van",
+    "full-size cargo van",
+    "tall rectangular grille with horizontal slats",
+    "boxy tall proportions for cargo capacity",
+    "two-door van structure with extended cargo area"
+  ],
+  [
+    "2012 Chevrolet Avalanche Crew Cab",
+    "full-size pickup with integrated bed",
+    "Chevy dual-port grille",
+    "large wide proportions with crew cab",
+    "four-door pickup truck with covered bed"
+  ],
+  [
+    "2010 Chevrolet Cobalt SS",
+    "compact sporty coupe",
+    "narrow Chevy grille above large intake",
+    "short compact proportions with low stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2010 Chevrolet Malibu Hybrid Sedan",
+    "mid-size hybrid sedan",
+    "Chevy dual-port grille with chrome strip",
+    "elongated mid-size proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2009 Chevrolet TrailBlazer SS",
+    "mid-size SUV with sporty design",
+    "Chevy split grille with mesh",
+    "tall stance with wide body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Chevrolet Silverado 2500HD Regular Cab",
+    "heavy-duty full-size pickup",
+    "large chrome Chevy grille with thick crossbar",
+    "massive tall proportions with extended hood",
+    "two-door regular cab pickup structure"
+  ],
+  [
+    "2007 Chevrolet Silverado 1500 Classic Extended Cab",
+    "full-size pickup truck",
+    "split Chevy grille with chrome trim",
+    "large tall body with extended cab",
+    "four-door extended cab pickup structure"
+  ],
+  [
+    "2007 Chevrolet Express Van",
+    "full-size passenger van",
+    "tall rectangular grille",
+    "boxy high proportions with long wheelbase",
+    "multi-passenger van structure"
+  ],
+  [
+    "2007 Chevrolet Monte Carlo Coupe",
+    "mid-size sporty coupe",
+    "narrow Chevy grille with wide intake",
+    "long hood with sloping roofline",
+    "two-door coupe structure"
+  ],
+  [
+    "2007 Chevrolet Malibu Sedan",
+    "mid-size sedan",
+    "split Chevy grille with chrome bar",
+    "conservative three-box proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Chevrolet Silverado 1500 Extended Cab",
+    "full-size pickup truck",
+    "Chevy dual-port grille with chrome crossbar",
+    "large boxy proportions with extended cab",
+    "four-door extended cab pickup structure"
+  ],
+  [
+    "2012 Chevrolet Silverado 1500 Regular Cab",
+    "full-size pickup truck",
+    "Chevy dual-port grille with chrome details",
+    "large tall proportions with two doors",
+    "regular cab pickup truck structure"
+  ],
+  [
+    "2009 Chrysler Aspen SUV",
+    "full-size luxury SUV",
+    "Chrysler winged badge grille with horizontal bars",
+    "tall upright proportions with wide body",
+    "four-door SUV structure"
+  ],
+  [
+    "2010 Chrysler Sebring Convertible",
+    "mid-size convertible",
+    "Chrysler chrome bar grille",
+    "low sleek stance with short rear",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Chrysler Town and Country Minivan",
+    "large family minivan",
+    "Chrysler winged grille with horizontal slats",
+    "tall body with long wheelbase",
+    "five-door minivan structure with sliding doors"
+  ],
+  [
+    "2010 Chrysler 300 SRT 8",
+    "full-size performance sedan",
+    "large bold Chrysler grille with mesh",
+    "wide muscular stance with long hood",
+    "four-door sedan structure with sport styling"
+  ],
+  [
+    "2008 Chrysler Crossfire Convertible",
+    "compact sporty convertible",
+    "small Chrysler grille with cross ribs",
+    "low sleek proportions with short deck",
+    "two-door convertible structure"
+  ],
+  [
+    "2008 Chrysler PT Cruiser Convertible",
+    "compact retro-styled convertible",
+    "Chrysler winged badge grille with narrow slots",
+    "tall compact proportions with short rear deck",
+    "two-door convertible structure"
+  ],
+  [
+    "2002 Daewoo Nubira Wagon",
+    "compact station wagon",
+    "simple rectangular grille with chrome outline",
+    "elongated roofline with compact stance",
+    "five-door wagon structure"
+  ],
+  [
+    "2012 Dodge Caliber Wagon",
+    "compact crossover wagon",
+    "crosshair Dodge grille",
+    "short proportions with tall stance",
+    "five-door hatchback wagon structure"
+  ],
+  [
+    "2007 Dodge Caliber Wagon",
+    "compact wagon with crossover styling",
+    "crosshair Dodge grille with chrome trim",
+    "tall compact proportions",
+    "five-door hatchback wagon structure"
+  ],
+  [
+    "1997 Dodge Caravan Minivan",
+    "mid-size minivan",
+    "rectangular Dodge grille with horizontal slats",
+    "tall boxy proportions with sliding doors",
+    "five-door minivan structure"
+  ],
+  [
+    "2010 Dodge Ram Pickup 3500 Crew Cab",
+    "heavy-duty full-size pickup",
+    "massive crosshair Dodge grille",
+    "very tall wide proportions with large cab",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2009 Dodge Ram Pickup 3500 Quad Cab",
+    "heavy-duty pickup truck",
+    "large crosshair Dodge grille",
+    "wide proportions with extended four-door cab",
+    "quad cab pickup truck structure"
+  ],
+  [
+    "2009 Dodge Sprinter Cargo Van",
+    "full-size cargo van",
+    "tall narrow Dodge grille",
+    "very tall boxy proportions",
+    "two-door van structure with extended cargo space"
+  ],
+  [
+    "2012 Dodge Journey SUV",
+    "mid-size crossover SUV",
+    "crosshair Dodge grille with chrome trim",
+    "tall stance with long roofline",
+    "four-door SUV structure"
+  ],
+  [
+    "2010 Dodge Dakota Crew Cab",
+    "mid-size pickup truck",
+    "crosshair Dodge grille",
+    "large boxy proportions with four-door cab",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2007 Dodge Dakota Club Cab",
+    "mid-size pickup truck",
+    "crosshair Dodge grille with horizontal slats",
+    "long body with extended cab",
+    "club cab pickup truck structure"
+  ],
+  [
+    "2008 Dodge Magnum Wagon",
+    "mid-size performance wagon",
+    "crosshair Dodge grille with wide headlights",
+    "elongated proportions with low roofline",
+    "five-door wagon structure"
+  ],
+  [
+    "2011 Dodge Challenger SRT8",
+    "full-size muscle car coupe",
+    "rectangular grille with split headlights",
+    "long hood with wide stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Dodge Durango SUV",
+    "mid-size SUV",
+    "crosshair grille with modern styling",
+    "tall wide proportions",
+    "four-door SUV structure"
+  ],
+  [
+    "2007 Dodge Durango SUV",
+    "mid-size SUV",
+    "older crosshair Dodge grille",
+    "tall upright stance with long wheelbase",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Dodge Charger Sedan",
+    "full-size performance sedan",
+    "crosshair Dodge grille with aggressive styling",
+    "long body with muscular stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2009 Dodge Charger SRT 8",
+    "high-performance sedan",
+    "large crosshair Dodge grille with mesh insert",
+    "long hood and wide body",
+    "four-door sedan structure"
+  ],
+  [
+    "1998 Eagle Talon Hatchback",
+    "compact sporty hatchback",
+    "narrow Eagle grille with slim intakes",
+    "short low proportions with sloping roof",
+    "three-door hatchback coupe structure"
+  ],
+  [
+    "2012 FIAT 500 Abarth",
+    "subcompact sporty hatchback",
+    "small oval grille with mesh intake",
+    "short tall proportions with rounded body",
+    "three-door hatchback structure"
+  ],
+  [
+    "2012 FIAT 500 Convertible",
+    "subcompact retro convertible",
+    "tiny oval grille with chrome accents",
+    "short compact rounded proportions",
+    "two-door convertible hatchback structure"
+  ],
+  [
+    "2012 Ferrari FF Coupe",
+    "grand touring shooting-brake coupe",
+    "low wide Ferrari grille with prancing horse emblem",
+    "elongated hood with sweeping roofline",
+    "two-door coupe hatchback structure"
+  ],
+  [
+    "2012 Ferrari California Convertible",
+    "luxury sports convertible",
+    "large wide Ferrari grille with chrome frame",
+    "low stance with long proportions",
+    "two-door convertible structure with retractable hardtop"
+  ],
+  [
+    "2012 Ferrari 458 Italia Convertible",
+    "high-performance sports convertible",
+    "aggressive wide Ferrari grille with side intakes",
+    "very low sleek proportions with wide track",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Ferrari 458 Italia Coupe",
+    "high-performance sports coupe",
+    "low aggressive Ferrari grille with sculpted intakes",
+    "extremely low stance with wide proportions",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Fisker Karma Sedan",
+    "luxury plug-in hybrid sedan",
+    "low wide grille with split openings",
+    "long flowing proportions with wide body",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Ford F 450 Super Duty Crew Cab",
+    "heavy-duty full-size pickup truck",
+    "large rectangular Ford grille with crossbar",
+    "massive tall proportions with extended cab",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2007 Ford Mustang Convertible",
+    "muscle car convertible",
+    "retro-style rectangular grille with pony emblem",
+    "long hood with low stance",
+    "two-door convertible structure"
+  ],
+  [
+    "2007 Ford Freestar Minivan",
+    "mid-size family minivan",
+    "narrow Ford grille with horizontal bars",
+    "tall body with sliding doors",
+    "five-door minivan structure"
+  ],
+  [
+    "2009 Ford Expedition EL SUV",
+    "full-size extended-length SUV",
+    "large rectangular Ford grille",
+    "tall boxy proportions with long wheelbase",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Ford Edge SUV",
+    "mid-size crossover SUV",
+    "large trapezoidal grille with chrome crossbars",
+    "tall stance with smooth curves",
+    "four-door SUV structure"
+  ],
+  [
+    "2011 Ford Ranger SuperCab",
+    "compact pickup truck",
+    "small rectangular Ford grille",
+    "short proportions with extended cab",
+    "supercab pickup truck structure"
+  ],
+  [
+    "2006 Ford GT Coupe",
+    "high-performance supercar coupe",
+    "low narrow grille with large intakes",
+    "extremely low wide proportions",
+    "two-door coupe with mid-engine layout"
+  ],
+  [
+    "2012 Ford F 150 Regular Cab",
+    "full-size pickup truck",
+    "large rectangular Ford grille with thick bars",
+    "tall wide proportions with short cab",
+    "two-door regular cab pickup truck structure"
+  ],
+  [
+    "2007 Ford F 150 Regular Cab",
+    "full-size pickup truck",
+    "rectangular Ford grille with horizontal slats",
+    "large tall body with extended hood",
+    "two-door regular cab pickup structure"
+  ],
+  [
+    "2007 Ford Focus Sedan",
+    "compact sedan",
+    "small trapezoidal Ford grille",
+    "short body with compact stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Ford E Series Wagon Van",
+    "full-size passenger van",
+    "large rectangular Ford grille with chrome trim",
+    "tall boxy proportions with long wheelbase",
+    "multi-passenger van structure"
+  ],
+  [
+    "2012 Ford Fiesta Sedan",
+    "subcompact sedan",
+    "small trapezoidal Ford grille with chrome outline",
+    "short compact proportions with tall roof",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 GMC Terrain SUV",
+    "compact crossover SUV",
+    "large rectangular GMC grille with chrome surround",
+    "tall stance with squared-off body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 GMC Savana Van",
+    "full-size cargo and passenger van",
+    "large rectangular GMC grille",
+    "tall boxy proportions with long wheelbase",
+    "van structure with extended cargo space"
+  ],
+  [
+    "2012 GMC Yukon Hybrid SUV",
+    "full-size SUV",
+    "large GMC grille with chrome trim",
+    "tall wide proportions with long body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 GMC Acadia SUV",
+    "mid-size crossover SUV",
+    "large rectangular GMC grille with chrome mesh",
+    "tall body with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 GMC Canyon Extended Cab",
+    "mid-size pickup truck",
+    "GMC rectangular grille with horizontal bars",
+    "compact proportions compared to full-size pickups",
+    "extended cab pickup truck structure"
+  ],
+  [
+    "1993 Geo Metro Convertible",
+    "subcompact convertible",
+    "tiny rectangular grille with horizontal slats",
+    "short very small body proportions",
+    "two-door convertible structure"
+  ],
+  [
+    "2010 HUMMER H3T Crew Cab",
+    "midsize pickup truck",
+    "signature HUMMER seven-slot vertical grille",
+    "wide tall stance with off-road clearance",
+    "crew cab pickup truck structure"
+  ],
+  [
+    "2009 HUMMER H2 SUT Crew Cab",
+    "large SUV-based pickup",
+    "large vertical HUMMER grille",
+    "massive tall proportions with extended cab",
+    "SUT pickup structure"
+  ],
+  [
+    "2012 Honda Odyssey Minivan",
+    "large family minivan",
+    "Honda narrow grille with chrome bar",
+    "tall long proportions with sliding doors",
+    "five-door minivan structure"
+  ],
+  [
+    "2007 Honda Odyssey Minivan",
+    "large minivan",
+    "small Honda grille with chrome trim",
+    "tall upright stance with long wheelbase",
+    "five-door minivan structure"
+  ],
+  [
+    "2012 Honda Accord Coupe",
+    "mid-size coupe",
+    "Honda trapezoidal grille with chrome bar",
+    "long hood with low sleek proportions",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Honda Accord Sedan",
+    "mid-size sedan",
+    "Honda narrow grille with horizontal chrome strip",
+    "balanced three-box proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Hyundai Veloster Hatchback",
+    "compact sporty hatchback",
+    "Hyundai hexagonal grille with wide intake",
+    "short proportions with sloping roofline",
+    "three-door hatchback structure"
+  ],
+  [
+    "2012 Hyundai Santa Fe SUV",
+    "mid-size crossover SUV",
+    "large hexagonal Hyundai grille",
+    "tall upright proportions with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Hyundai Tucson SUV",
+    "compact crossover SUV",
+    "hexagonal Hyundai grille with chrome trim",
+    "short proportions with tall stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Hyundai Veracruz SUV",
+    "mid-size SUV",
+    "hexagonal Hyundai grille with narrow headlights",
+    "tall proportions with long body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Hyundai Sonata Hybrid Sedan",
+    "mid-size hybrid sedan",
+    "large hexagonal grille with blue accents",
+    "long body with aerodynamic roofline",
+    "four-door sedan structure"
+  ],
+  [
+    "2007 Hyundai Elantra Sedan",
+    "compact sedan",
+    "small trapezoidal grille",
+    "short body with balanced stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Hyundai Accent Sedan",
+    "subcompact sedan",
+    "hexagonal Hyundai grille with chrome accent",
+    "short compact proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Hyundai Genesis Sedan",
+    "mid-size luxury sedan",
+    "large hexagonal Hyundai grille",
+    "elongated body with wide stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Hyundai Sonata Sedan",
+    "mid-size sedan",
+    "large hexagonal Hyundai grille with chrome surround",
+    "long flowing proportions with coupe-like roofline",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Hyundai Elantra Touring Hatchback",
+    "compact hatchback wagon",
+    "small hexagonal grille",
+    "elongated body with extended roof",
+    "five-door hatchback wagon structure"
+  ],
+  [
+    "2012 Hyundai Azera Sedan",
+    "full-size luxury sedan",
+    "wide hexagonal grille with chrome mesh",
+    "long proportions with sleek roofline",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Infiniti G Coupe IPL",
+    "luxury performance coupe",
+    "Infiniti double-arch grille",
+    "low wide stance with long hood",
+    "two-door coupe structure"
+  ],
+  [
+    "2011 Infiniti QX56 SUV",
+    "full-size luxury SUV",
+    "large chrome double-arch Infiniti grille",
+    "tall wide proportions with long wheelbase",
+    "four-door SUV structure"
+  ],
+  [
+    "2008 Isuzu Ascender SUV",
+    "mid-size SUV",
+    "rectangular Isuzu grille with horizontal slats",
+    "tall upright proportions with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Jaguar XK XKR",
+    "luxury sports coupe/convertible",
+    "oval Jaguar grille with chrome outline",
+    "low sleek proportions with long hood",
+    "two-door coupe or convertible structure"
+  ],
+  [
+    "2012 Jeep Patriot SUV",
+    "compact SUV",
+    "Jeep seven-slot vertical grille",
+    "boxy proportions with short overhangs",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Jeep Wrangler SUV",
+    "compact off-road SUV",
+    "classic Jeep seven-slot vertical grille",
+    "short boxy body with high ground clearance",
+    "two-door SUV with removable roof"
+  ],
+  [
+    "2012 Jeep Liberty SUV",
+    "compact SUV",
+    "Jeep vertical grille with rounded headlights",
+    "short upright proportions",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Jeep Grand Cherokee SUV",
+    "mid-size SUV",
+    "Jeep seven-slot grille with chrome trim",
+    "tall proportions with long wheelbase",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Jeep Compass SUV",
+    "compact crossover SUV",
+    "Jeep vertical slot grille",
+    "short proportions with tall stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2008 Lamborghini Reventon Coupe",
+    "limited-production supercar coupe",
+    "angular trapezoidal Lamborghini grille",
+    "extremely low wide proportions",
+    "two-door coupe with sharp faceted panels"
+  ],
+  [
+    "2012 Lamborghini Aventador Coupe",
+    "modern supercar coupe",
+    "large hexagonal Lamborghini grille with intakes",
+    "extremely low proportions with wide stance",
+    "two-door coupe mid-engine structure"
+  ],
+  [
+    "2012 Lamborghini Gallardo LP 570 4 Superleggera",
+    "lightweight high-performance coupe",
+    "wide low Lamborghini grille",
+    "low stance with compact mid-engine proportions",
+    "two-door coupe structure with aero kit"
+  ],
+  [
+    "2001 Lamborghini Diablo Coupe",
+    "classic supercar coupe",
+    "narrow Lamborghini grille with large intakes",
+    "low wide stance with long rear deck",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Land Rover Range Rover SUV",
+    "full-size luxury SUV",
+    "rectangular Land Rover grille with mesh pattern",
+    "tall upright proportions with long wheelbase",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Land Rover LR2 SUV",
+    "compact luxury SUV",
+    "rectangular grille with twin bars",
+    "short proportions with tall stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2011 Lincoln Town Car Sedan",
+    "full-size luxury sedan",
+    "large chrome waterfall Lincoln grille",
+    "long conservative proportions with wide body",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 MINI Cooper Roadster Convertible",
+    "subcompact convertible roadster",
+    "oval MINI grille with chrome surround",
+    "short compact proportions with low stance",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Maybach Landaulet Convertible",
+    "ultra-luxury convertible limousine",
+    "large chrome Maybach grille",
+    "very long proportions with upright stance",
+    "four-door convertible limousine structure"
+  ],
+  [
+    "2011 Mazda Tribute SUV",
+    "compact SUV",
+    "narrow trapezoidal Mazda grille",
+    "tall upright proportions",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 McLaren MP4 12C Coupe",
+    "supercar coupe",
+    "small narrow McLaren grille with large side intakes",
+    "extremely low sleek proportions",
+    "two-door coupe mid-engine structure"
+  ],
+  [
+    "1993 Mercedes Benz 300 Class Convertible",
+    "mid-size luxury convertible",
+    "rectangular Mercedes grille with star emblem",
+    "elongated proportions with upright windshield",
+    "two-door convertible structure"
+  ],
+  [
+    "2012 Mercedes Benz C Class Sedan",
+    "compact executive sedan",
+    "Mercedes rectangular grille with central star emblem",
+    "balanced three-box proportions with short rear deck",
+    "four-door sedan structure"
+  ],
+  [
+    "2009 Mercedes Benz SL Class Coupe",
+    "luxury sports coupe",
+    "wide Mercedes grille with central star and horizontal bars",
+    "low sleek proportions with long hood",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Mercedes Benz E Class Sedan",
+    "mid-size luxury sedan",
+    "rectangular grille with star emblem and twin bars",
+    "elongated body with elegant stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Mercedes Benz S Class Sedan",
+    "full-size flagship luxury sedan",
+    "large chrome grille with central star",
+    "very long wheelbase with wide stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Mercedes Benz Sprinter Van",
+    "full-size commercial van",
+    "tall Mercedes grille with horizontal slats",
+    "very tall boxy proportions with long wheelbase",
+    "van structure for cargo or passenger use"
+  ],
+  [
+    "2012 Mitsubishi Lancer Sedan",
+    "compact sport sedan",
+    "trapezoidal Mitsubishi grille with sharp edges",
+    "short body with wide stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Nissan Leaf Hatchback",
+    "compact electric hatchback",
+    "small V-shaped Nissan grille with charging port",
+    "short aerodynamic proportions with tall roof",
+    "five-door hatchback structure"
+  ],
+  [
+    "2012 Nissan NV Passenger Van",
+    "full-size passenger van",
+    "large rectangular Nissan grille",
+    "very tall long proportions",
+    "multi-passenger van structure"
+  ],
+  [
+    "2012 Nissan Juke Hatchback",
+    "subcompact crossover hatchback",
+    "small V-shaped Nissan grille with round lamps",
+    "short tall body with sloping roof",
+    "five-door hatchback SUV structure"
+  ],
+  [
+    "1998 Nissan 240SX Coupe",
+    "compact sporty coupe",
+    "narrow Nissan grille with horizontal slats",
+    "low sleek proportions with long hood",
+    "two-door coupe structure"
+  ],
+  [
+    "1999 Plymouth Neon Coupe",
+    "subcompact coupe",
+    "small oval grille with central badge",
+    "short rounded proportions",
+    "two-door coupe structure"
+  ],
+  [
+    "2012 Porsche Panamera Sedan",
+    "luxury performance sedan",
+    "low wide Porsche grille with large intakes",
+    "elongated proportions with coupe-like roofline",
+    "four-door hatchback sedan structure"
+  ],
+  [
+    "2012 Ram CV Cargo Van Minivan",
+    "commercial cargo minivan",
+    "crosshair Dodge/Ram grille",
+    "tall boxy proportions",
+    "two-door van structure with cargo rear"
+  ],
+  [
+    "2012 Rolls Royce Phantom Drophead Coupe Convertible",
+    "ultra-luxury convertible",
+    "large Rolls-Royce Pantheon grille",
+    "very long proportions with wide body",
+    "two-door convertible limousine structure"
+  ],
+  [
+    "2012 Rolls Royce Ghost Sedan",
+    "full-size luxury sedan",
+    "large upright Pantheon grille with vertical slats",
+    "long wheelbase with elegant proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Rolls Royce Phantom Sedan",
+    "flagship ultra-luxury sedan",
+    "massive Pantheon grille with vertical chrome slats",
+    "very long upright proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Scion xD Hatchback",
+    "subcompact hatchback",
+    "small rectangular grille with wide intake",
+    "short compact proportions",
+    "five-door hatchback structure"
+  ],
+  [
+    "2009 Spyker C8 Convertible",
+    "exotic sports convertible",
+    "oval grille with chrome mesh",
+    "low wide proportions with long hood",
+    "two-door convertible structure"
+  ],
+  [
+    "2009 Spyker C8 Coupe",
+    "exotic sports coupe",
+    "oval grille with chrome trim",
+    "low sleek proportions with wide stance",
+    "two-door coupe structure"
+  ],
+  [
+    "2007 Suzuki Aerio Sedan",
+    "compact sedan",
+    "small trapezoidal Suzuki grille",
+    "short tall proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Suzuki Kizashi Sedan",
+    "mid-size sedan",
+    "wide trapezoidal Suzuki grille",
+    "balanced proportions with sporty stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Suzuki SX4 Hatchback",
+    "compact hatchback crossover",
+    "small trapezoidal Suzuki grille",
+    "short tall proportions with high roofline",
+    "five-door hatchback structure"
+  ],
+  [
+    "2012 Suzuki SX4 Sedan",
+    "compact sedan",
+    "narrow Suzuki grille with chrome trim",
+    "short proportions with upright stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Tesla Model S Sedan",
+    "full-size electric luxury sedan",
+    "smooth closed Tesla grille with slim opening",
+    "long sleek proportions with coupe-like roofline",
+    "four-door sedan structure with electric platform"
+  ],
+  [
+    "2012 Toyota Sequoia SUV",
+    "full-size SUV",
+    "large rectangular Toyota grille with chrome trim",
+    "tall massive proportions with wide stance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Toyota Camry Sedan",
+    "mid-size sedan",
+    "narrow Toyota grille with chrome bar",
+    "balanced conservative proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Toyota Corolla Sedan",
+    "compact sedan",
+    "small Toyota grille with chrome accent",
+    "short proportions with upright stance",
+    "four-door sedan structure"
+  ],
+  [
+    "2012 Toyota 4Runner SUV",
+    "mid-size rugged SUV",
+    "large trapezoidal Toyota grille",
+    "tall boxy proportions with high ground clearance",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 Volkswagen Golf Hatchback",
+    "compact hatchback",
+    "VW narrow grille with horizontal bars",
+    "short balanced proportions",
+    "five-door hatchback structure"
+  ],
+  [
+    "1991 Volkswagen Golf Hatchback",
+    "compact hatchback",
+    "small VW grille integrated with headlights",
+    "short boxy proportions",
+    "five-door hatchback structure"
+  ],
+  [
+    "2012 Volkswagen Beetle Hatchback",
+    "compact retro hatchback",
+    "small oval VW grille",
+    "rounded proportions with domed roof",
+    "three-door hatchback structure"
+  ],
+  [
+    "2012 Volvo C30 Hatchback",
+    "compact hatchback coupe",
+    "narrow Volvo grille with diagonal bar",
+    "short sleek proportions with sloping roof",
+    "three-door hatchback coupe structure"
+  ],
+  [
+    "1993 Volvo 240 Sedan",
+    "mid-size sedan",
+    "rectangular Volvo grille with chrome frame",
+    "boxy elongated proportions",
+    "four-door sedan structure"
+  ],
+  [
+    "2007 Volvo XC90 SUV",
+    "mid-size luxury SUV",
+    "rectangular Volvo grille with diagonal bar",
+    "tall upright proportions with long body",
+    "four-door SUV structure"
+  ],
+  [
+    "2012 smart fortwo Convertible",
+    "ultra-compact city convertible",
+    "tiny narrow grille with small intake",
+    "very short proportions with tall roofline",
+    "two-door convertible microcar structure"
+  ]
+]
