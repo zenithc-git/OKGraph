@@ -34,7 +34,7 @@ Images are expected in an ImageFolder layout:
   class_1/
     img2.jpg
     ...
-```
+
 
 Global scene graphs are expected in JSON:
 /path/to/base_knowledge/
@@ -49,33 +49,8 @@ Global scene graphs are expected in JSON:
 
 ## Usage
 
-### LLM Optional Stage
-To enable the slow-thinking stage, provide an OpenAI-compatible API key via env var or CLI:
 ```bash
-export OPENAI_API_KEY="your_key"
-export OPENAI_BASE_URL='your_URL'
-python -m src.openvocab_eval.cli \
-  --model-path /path/to/ViT-B-16.pt \
-  --json-path /path/to/dataset_names_addattris.json \
-  --image-root /path/to/test \
-  --batch-size 1 \
-  --entropy-threshold-class 99 \
-  --consolidate-every 160 \
-  --prune-every 240 \
-  --llm-model gpt-3.5-turbo
-```
-
-To disable the LLM stage:
-```bash
-python -m src.openvocab_eval.cli \
-  --model-path /path/to/ViT-B-16.pt \
-  --json-path /path/to/dataset_names_addattris.json \
-  --image-root /path/to/test \
-  --batch-size 1 \
-  --entropy-threshold-class 3.8 \
-  --consolidate-every 160 \
-  --prune-every 240 \
-  --disable-llm
+bash scripts/run.sh
 ```
 
 ## Reproducibility
