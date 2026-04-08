@@ -53,6 +53,7 @@ Global scene graphs are expected in JSON:
     ..._names_addattris.json
   ...
 ```
+We provide Global scene graphs for a subset of datasets in /path/to/base_knowledge/. For datasets not included in our release, the corresponding scene graphs can be constructed by following the format of the provided examples and leveraging GPT-3.5-Turbo or other large language models.
 
 ## How to Start
 
