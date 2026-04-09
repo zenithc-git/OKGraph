@@ -42,6 +42,7 @@ Images are expected in an ImageFolder layout:
     ...
 ```
 Pre-organized test datasets are available at [datasets](https://drive.google.com/drive/folders/1kde3BLDAC2MCOezBwjGIir0_vilz-kce)
+
 Global scene graphs are expected in JSON:
 ```
 /path/to/base_knowledge/
