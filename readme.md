@@ -67,16 +67,21 @@ bash scripts/run.sh
 - Logs are written to `logs/` with timestamped filenames.
 - Evaluation outputs include `entropy_log.json` and `prediction_log.json` for analysis.
 
-## Acknowledgement
-This work was supported by the National Natural Science Foundation of China (NSFC) No. 62406037, 62441235, Guangdong Natural Science Funds for Distinguished Young Scholars (Grant 2023B1515020097), the National Research Foundation Singapore under the AI Singapore Programme (AISG Award No: AISG4-TC-2025-018-SGKR).
 
 ## Citation
 If you use this code, please cite:
 ```
+@inproceedings{Yin:OKGRAPH:2026,
+  title = {OKGraph: Online Knowledge Graph Probing for Open-vocabulary Recognition},
+  author = {Junhui Yin and Zhizhen Cai and Puze Wang and Guanzhou Ke and Jianhua Yang and Man Zhang and Qiang Zhang and Shengfeng He},
+  booktitle={Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
+}
 ```
 
 ## License
 
 
-## Acknowledgements
+## Acknowledgement
+This work was supported by the National Natural Science Foundation of China (NSFC) No. 62406037, 62441235, Guangdong Natural Science Funds for Distinguished Young Scholars (Grant 2023B1515020097), the National Research Foundation Singapore under the AI Singapore Programme (AISG Award No: AISG4-TC-2025-018-SGKR).
 
